@@ -1,1 +1,34 @@
-
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schéma/TEI_TALIE_V5.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0" xml:id="georgicorum" type="oeuvre" xml:lang="LA">
+  <teiHeader>
+  </teiHeader>
+  <text>
+  <linkGtp type='commentaire'>
+    <linkGrp type='argumentum'>
+      <link target="Virgilius.xml#L3.C1 LaCerda-LA.xml#L3.C1.A"/>
+      <link target="Virgilius.xml#L3.C2 LaCerda-LA.xml#L3.C2.A"/>
+      <link target="Virgilius.xml#L3.C3 LaCerda-LA.xml#L3.C3.A"/>
+    </linkGrp>
+    <linkGrp type='explicatio'>
+      <link target="Virgilius.xml#L3.C1.Sa LaCerda-LA.xml#L3.C1.E.a"/>
+      <link target="Virgilius.xml#L3.C1.Sb LaCerda-LA.xml#L3.C1.E.b"/>
+      <link target="Virgilius.xml#L3.C1.Sc LaCerda-LA.xml#L3.C1.E.c"/>
+      <link target="Virgilius.xml#L3.C1.Sd LaCerda-LA.xml#L3.C1.E.d"/>
+      <link target="Virgilius.xml#L3.C2.Sa LaCerda-LA.xml#L3.C2.E.a"/>
+      <link target="Virgilius.xml#L3.C2.Sb LaCerda-LA.xml#L3.C2.E.b"/>
+      <link target="Virgilius.xml#L3.C2.Sc LaCerda-LA.xml#L3.C2.E.c"/>
+      <link target="Virgilius.xml#L3.C2.Sd LaCerda-LA.xml#L3.C2.E.d"/>
+      <link target="Virgilius.xml#L3.C2.Se LaCerda-LA.xml#L3.C2.E.e"/>
+      <link target="Virgilius.xml#L3.C2.Sf LaCerda-LA.xml#L3.C2.E.f"/>
+      <link target="Virgilius.xml#L3.C2.Sg LaCerda-LA.xml#L3.C2.E.g"/>
+      <link target="Virgilius.xml#L3.C3.Sa LaCerda-LA.xml#L3.C3.E.a"/>
+      <link target="Virgilius.xml#L3.C3.Sb LaCerda-LA.xml#L3.C3.E.b"/>
+      <link target="Virgilius.xml#L3.C3.Sc LaCerda-LA.xml#L3.C3.E.c"/>
+      </linkGrp>
+      <linkGrp type='nota'>
+      <link target="Virgilius.xml#L3.w4 LaCerda-LA.xml#L3.C1.N.1"/>
+      </linkGrp>
+    </linkGrp>
+  </linkGtp></text>
