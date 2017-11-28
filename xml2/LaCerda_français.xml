@@ -19,7 +19,6 @@
    </teiHeader>
    <text>
       <body>
-         <div type="work">
             <div type="book" n="3">
                
                
@@ -2028,7 +2027,7 @@
                <div type="chapter" n="30"/>
                <div type="chapter" n="31"/>
             </div>
-         </div>
+        
       </body>
    </text>
 </TEI>
