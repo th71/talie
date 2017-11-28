@@ -1,0 +1,44 @@
+choice orig { display:none }
+
+
+l:not([part]) { display: block }
+l[part="I"] { border: unset ;}
+l[part="F"] { border: unset ; }
+
+
+seg[type="segment"][n="b"] {
+    display: block ;
+    background: lightgray ;
+    border: solid}
+
+note[subtype="argumentum"] {
+    display: block ;
+    border: solid ;
+    background: red ;
+    float: left ;
+
+}
+
+lg {
+    display: block ;
+    float: left ;
+    background: orange ;
+}
+
+note[subtype="explicatio"]::before {
+    content: url(http://vps477312.ovh.net:8080/?fichier=Virgilius.xml&id=L3.w4)
+}
+
+note[subtype="explicatio"] {
+    display: block ;
+    border: solid ;
+    background: blue ;
+    float: right ;
+}
+note[subtype="notae"] {
+    display: block ;
+    border : solid ;
+    background: green ;
+    float: right ;
+    position: relative ;
+}

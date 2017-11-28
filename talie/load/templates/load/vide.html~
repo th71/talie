@@ -1,0 +1,12 @@
+
+{% load static %}
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="{% static 'polls/style.css' %}" />
+  </head>
+  <body>
+    <h1>SEGMENT</h1>
+    {{xml | safe}}
+    <h1>FIN SEGMENT</h1>
+  </body>
+</html>

@@ -1,0 +1,131 @@
+from __future__ import unicode_literals
+
+from django.shortcuts import render
+from django.http import HttpResponse
+
+
+def extrait_segment(parametres) :
+        from lxml import etree
+
+        if (parametres.has_key('fichier')):
+                nom_fichier = parametres['fichier']
+                chemin_fichier = '../../xml2/%s' % nom_fichier
+                fichier = open(chemin_fichier,'r')
+                code_xml = fichier.read()
+
+        if (parametres.has_key('id')):
+                id_elem = parametres['id']
+                arbre = etree.fromstring(code_xml)
+                
+                expression_xpath ='/tei:TEI//*[@xml:id="%s"]' % id_elem
+                nsl ={'tei':'http://www.tei-c.org/ns/1.0'}
+                
+                segment = arbre.xpath(expression_xpath, namespaces=nsl)
+                
+                reponse = etree.tostring(segment[0],pretty_print=True)
+                reponse += reponse
+        else :
+                reponse = code_xml
+
+        return reponse
+
+def base_de_liens(urn) :
+        base = { u'LaCerda_latin.xml#L3.C1.a':u'LaCerda_francais.xml#L3.C1.a'}
+        return base(urn)
+
+# Create your views here.
+def load(request) :
+        return HttpResponse( extrait_segment(request.GET) )
+
+def virgilius(request):
+    import urllib2
+    from lxml import etree
+
+    fichier = open("../xml/Virgilius.xml", "r")
+
+    virgilius = fichier.read()
+
+    arbre = etree.fromstring(virgilius)
+
+    extraction = arbre.xpath('//tei:div', namespaces={'tei':'http://www.tei-c.org/ns/1.0'})
+
+    print request
+    
+    reponse=""
+
+    for row in extraction :
+        reponse+=row.xpath('@n')[0]
+        reponse+="\n"+etree.tostring(row,pretty_print=True)
+    return HttpResponse(reponse)
+
+def virgiliusL(request, livre):
+    import urllib2
+    from lxml import etree
+
+    fichier = open("../xml/Virgilius.xml", "r")
+
+    virgilius = fichier.read()
+
+    arbre = etree.fromstring(virgilius)
+
+    print "====="
+    print "LIVRE=",livre
+    
+    extraction = arbre.xpath('//tei:div[@type="livre"][@n='+livre+']/*', namespaces={'tei':'http://www.tei-c.org/ns/1.0'})
+
+    print request
+    
+    reponse=""
+
+    for row in extraction :
+        reponse+=row.xpath('@n')[0]
+        reponse+="\n"+etree.tostring(row,pretty_print=True)
+    return HttpResponse(reponse)
+
+def virgiliusC(request, livre, chapitre):
+    import urllib2
+    from lxml import etree
+
+    fichier = open("../xml/Virgilius.xml", "r")
+
+    virgilius = fichier.read()
+
+    arbre = etree.fromstring(virgilius)
+
+    print "====="
+    print "LIVRE=",livre
+    
+    extraction = arbre.xpath('//tei:div[@type="livre"][@n='+livre+']/tei:div[@type="chapitre"][@n='+chapitre+']/*', namespaces={'tei':'http://www.tei-c.org/ns/1.0'})
+
+    print request
+    
+    reponse=""
+
+    for row in extraction :
+        reponse+=row.xpath('@n')[0]
+        reponse+="\n"+etree.tostring(row,pretty_print=True)
+    return HttpResponse(reponse)
+
+def virgiliusL(request, livre):
+    import urllib2
+    from lxml import etree
+
+    fichier = open("../xml/Virgilius.xml", "r")
+
+    virgilius = fichier.read()
+
+    arbre = etree.fromstring(virgilius)
+
+    print "====="
+    print "LIVRE=",livre
+    
+    extraction = arbre.xpath('//tei:div[@type="livre"][@n='+livre+']/*', namespaces={'tei':'http://www.tei-c.org/ns/1.0'})
+
+    print request
+    
+    reponse=""
+
+    for row in extraction :
+        reponse+=row.xpath('@n')[0]
+        reponse+="\n"+etree.tostring(row,pretty_print=True)
+    return HttpResponse(reponse)
