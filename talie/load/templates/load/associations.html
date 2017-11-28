@@ -1,1 +1,21 @@
+{% load static %}
 <html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="{% static 'load/ancien.css' %}" />
+  </head>
+  <body>
+    <div>
+      {{xml | safe}}
+    </div>
+    <div>
+      <ul>
+        {%for asso in associations %}
+          <li>
+            {{ asso | safe}}
+        </li>
+        {%endfor%}
+      </ul>
+    </div>
+      
+  </body>
+</html>
