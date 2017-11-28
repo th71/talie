@@ -6,6 +6,9 @@
   </teiHeader>
   <text>
   <linkGtp type='commentaire'>
+    <linkGrp type='praefacio'>
+      <link target="Vigilius.xml#L3 LaCerda-LA.xml#L3.P">
+    </linkGrp>
     <linkGrp type='argumentum'>
       <link target="Virgilius.xml#L3.C1 LaCerda-LA.xml#L3.C1.A"/>
       <link target="Virgilius.xml#L3.C2 LaCerda-LA.xml#L3.C2.A"/>
