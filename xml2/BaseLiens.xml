@@ -1,13 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../Schéma/TEI_TALIE_V5.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0" xml:id="georgicorum" type="oeuvre" xml:lang="LA">
   <teiHeader>
   </teiHeader>
   <text>
-  <linkGtp type='commentaire'>
+  <linkGrp type='commentaire'>
     <linkGrp type='praefacio'>
-      <link target="Vigilius.xml#L3 LaCerda-LA.xml#L3.P">
+      <link target="Vigilius.xml#L3 LaCerda-LA.xml#L3.P"/>
     </linkGrp>
     <linkGrp type='argumentum'>
       <link target="Virgilius.xml#L3.C1 LaCerda-LA.xml#L3.C1.A"/>
@@ -30,13 +29,21 @@
       <link target="Virgilius.xml#L3.C3.Sb LaCerda-LA.xml#L3.C3.E.b"/>
       <link target="Virgilius.xml#L3.C3.Sc LaCerda-LA.xml#L3.C3.E.c"/>
       </linkGrp>
-      <linkGrp type='nota'>
+    <linkGrp type='nota'>
       <link target="Virgilius.xml#L3.w4 LaCerda-LA.xml#L3.C1.N.1"/>
-      </linkGrp>
     </linkGrp>
+  </linkGrp>
     <linkGrp type="traduction">
       <linkGrp type="français">
-     
-      </linkgGrp>
+        <link target="Vigilius.xml#L3 Virgile.xml#L3"/>
+        <link target="Vigilius.xml#L3.C1 Virgile.xml#L3.C1"/>
+        <link target="Vigilius.xml#L3.C1.S1 Virgile.xml#L3.C1.S1"/>
+        <link target="Vigilius.xml#L3.C1.S2 Virgile.xml#L3.C1.S2"/>
+        <link target="Vigilius.xml#L3.C2.S1 Virgile.xml#L3.C2.S1"/>
+        <link target="Vigilius.xml#L3.C2.S2 Virgile.xml#L3.C2.S2"/>
+        <link target="Vigilius.xml#L3.C3.S1 Virgile.xml#L3.C3.S1"/>
+        <link target="Vigilius.xml#L3.C3.S2 Virgile.xml#L3.C3.S2"/>
+      </linkGrp>
     </linkGrp>
-  </linkGtp></text>
+  </text>
+</TEI>
