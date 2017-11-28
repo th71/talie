@@ -37,12 +37,12 @@
       <linkGrp type="français">
         <link target="Vigilius.xml#L3 Virgile.xml#L3"/>
         <link target="Vigilius.xml#L3.C1 Virgile.xml#L3.C1"/>
-        <link target="Vigile.xml#L3.C1.S1 Virgile.xml#L3.C1.S1"/>
-        <link target="Vigile.xml#L3.C1.S2 Virgile.xml#L3.C1.S2"/>
-        <link target="Vigile.xml#L3.C2.S1 Virgile.xml#L3.C2.S1"/>
-        <link target="Vigile.xml#L3.C2.S2 Virgile.xml#L3.C2.S2"/>
-        <link target="Vigile.xml#L3.C3.S1 Virgile.xml#L3.C3.S1"/>
-        <link target="Vigile.xml#L3.C3.S2 Virgile.xml#L3.C3.S2"/>
+        <link target="Vigile.xml#L3.C1.ST1 Virgile.xml#L3.C1.S1"/>
+        <link target="Vigile.xml#L3.C1.ST2 Virgile.xml#L3.C1.S2"/>
+        <link target="Vigile.xml#L3.C2.ST1 Virgile.xml#L3.C2.S1"/>
+        <link target="Vigile.xml#L3.C2.ST2 Virgile.xml#L3.C2.S2"/>
+        <link target="Vigile.xml#L3.C3.ST1 Virgile.xml#L3.C3.S1"/>
+        <link target="Vigile.xml#L3.C3.ST2 Virgile.xml#L3.C3.S2"/>
       </linkGrp>
     </linkGrp>
   </text>
