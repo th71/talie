@@ -34,12 +34,12 @@ def extrait_segment(parametres) :
         return reponse
 
 def base_de_liens(urn) :
-        base = {u'Virgilius.xml#L3.C1':u'LaCerda_LA.xml#L3.C1.A',
-                u'Virgilius.xml#L3.C1.Sa':u'LaCerda_LA.xml#L3.C1.E.a',
-                u'Virgilius.xml#L3.C1.Sb':u'LaCerda_LA.xml#L3.C1.E.b',
-                u'Virgilius.xml#L3.C1.Sc':u'LaCerda_LA.xml#L3.C1.E.c',
-                u'Virgilius.xml#L3.C1.Sd':u'LaCerda_LA.xml#L3.C1.E.d',
-                u'Virgilius.xml#L3.w4':u'LaCerda_LA.xml#L3.C1.N.1',
+        base = {u'Virgilius.xml#L3.C1':u'LaCerda-LA.xml#L3.C1.A',
+                u'Virgilius.xml#L3.C1.Sa':u'LaCerda-LA.xml#L3.C1.E.a',
+                u'Virgilius.xml#L3.C1.Sb':u'LaCerda-LA.xml#L3.C1.E.b',
+                u'Virgilius.xml#L3.C1.Sc':u'LaCerda-LA.xml#L3.C1.E.c',
+                u'Virgilius.xml#L3.C1.Sd':u'LaCerda-LA.xml#L3.C1.E.d',
+                u'Virgilius.xml#L3.w4':u'LaCerda-LA.xml#L3.C1.N.1',
         }
         if base.has_key(urn) :
                 return base[urn]
