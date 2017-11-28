@@ -42,6 +42,7 @@
    <text>
       <body>
         <div type="book" n="3" >
+		<join xml:id="L3" result="seg" scope="root" target="Virgilius.xml#range(L3.w1,L3.w3694)"/>
           <div type="praefatio" n="3">
 	    <note type="commentaire" subtype="praefatio" xml:id="L3.P">
             <p>
