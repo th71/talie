@@ -4,14 +4,14 @@
     <link rel="stylesheet" type="text/css" href="{% static 'load/ancien.css' %}" />
   </head>
   <body>
-    <div>
+    <div id="ressource">
       {{xml | safe}}
     </div>
-    <div>
+    <div id="liens">
       <ul>
         {%for asso in associations %}
           <li>
-            {{ asso | safe}}
+            <a>{{ asso | safe}}</a>
         </li>
         {%endfor%}
       </ul>
