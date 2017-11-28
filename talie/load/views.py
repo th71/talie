@@ -84,7 +84,7 @@ def associations(request) :
                 print "==",idSeg
                 if (idSegLie<>None) :
                         print " ----> suivi"
-                        liens.append("%s --> %s" % (idSeg, idSegLie)
+                        liens.append("%s --> %s" % (idSeg, idSegLie))
                         
 
         context={ 'xml': xml , 'associations' : liens}
