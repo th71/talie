@@ -23,7 +23,7 @@ def extrait_segment(parametres) :
                 arbre = etree.fromstring(code_xml)
                 
                 #expression_xpath ='/tei:TEI//*[@xml:id="%s"]' % id_elem
-                expression_xpath ='ancestor-or-self:://*[@xml:id="%s"]' % id_elem
+                expression_xpath ='//ancestor-or-self::*[@xml:id="%s"]' % id_elem
                 nsl ={'tei':'http://www.tei-c.org/ns/1.0'}
                 
                 segment = arbre.xpath(expression_xpath, namespaces=nsl)
