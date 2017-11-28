@@ -73,6 +73,7 @@ def associations(request) :
         nsl ={'tei':'http://www.tei-c.org/ns/1.0'}
         segments = arbre.xpath(expression_xpath, namespaces=nsl)
 
+        liens=[] 
         print "RECHERCHE DES ASSOCIATIONS"
         for seg in segments :
                 idSeg = seg.xpath('@xml:id', namespaces=nsl)[0]
@@ -83,10 +84,8 @@ def associations(request) :
                 print "==",idSeg
                 if (idSegLie<>None) :
                         print " ----> suivi"
-                        (fichier_lie,id_lie) = idSegLie.split('#')
-                        param_lien={'fichier':fichier_lie,'id':id_lie}
-                        xml +=  ("%s --> %s <br/>" % (idSeg,idSegLie))
-                        xml +=  extrait_segment (param_lien)
+                        liens.append("%s --> %s" % (idSeg, idSegLie)
+                        
 
-        context={ 'xml': xml }
-        return render(request,"load/ancien.html", context)
+        context={ 'xml': xml , 'associations' : liens}
+        return render(request,"load/associations.html", context)
