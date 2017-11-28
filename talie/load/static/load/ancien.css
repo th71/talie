@@ -42,3 +42,13 @@ note[subtype="notae"] {
     float: right ;
     position: relative ;
 }
+
+#ressource {
+    display:block ;
+    float:left ; 
+}
+
+#liens {
+    display:block ;
+    float:right ;
+}
