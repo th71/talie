@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Sch%C3%A9ma/TEI_TALIE_V5.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0" xml:id="teamvirgilius">
+  <teiHeader>
+   </teiHeader>
+  <text>
+    <body>
+      <div>
+        <join xml:id="L3.C1.ST1" result="seg" target="Virgilius.xml#range(L3.w1,L3.w33)" scope="root"/>
+        <join xml:id="L3.C1.ST2" result="seg" target="Virgilius.xml#range(L3.w34,L3.w62)" scope="root"/>
+        <join xml:id="L3.C2.ST1" result="seg" target="Virgilius.xml#range(w63,w102)" scope="root"/>
+        <join xml:id="L3.C2.ST2" result="seg" target="Virgilius.xml#range(w103,w135)" scope="root"/>
+        <join xml:id="L3.C3.ST1" result="seg" target="Virgilius.xm#range(w251,w287)" scope="root"/>
+        <join xml:id="L3.C3.ST2" result="seg" target="Virgilius.xml#range(w288,w308)" scope="root"/>
+      </div>
+    </body>
+  </text>
+</TEI>

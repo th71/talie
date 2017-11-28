@@ -38,7 +38,6 @@
       <div type="book" n="3" xml:id="L3">
         <lg type="chapter" n="1" xml:id="L3.C1">
           <l n="1">
-            <seg type="segment" n="a" xml:id="L3.C1.Sa" part="I">
               <w xml:id="L3.w1">Te</w>
               <w xml:id="L3.w2">quoque</w>
               <reg resp="TeamVirgilius">
@@ -53,10 +52,8 @@
               <w xml:id="L3.w6">te</w>
               <w xml:id="L3.w7">memorande</w>
               <w xml:id="L3.w8">canemus</w>
-            </seg>
           </l>
           <l n="2">
-            <seg type="segment" n="a" xml:id="L3.C1.Sa" part="F">
               <w xml:id="L3.w9"> Pastor </w>
               <w xml:id="L3.w10">ab</w>
               <placeName type="river" ana="Amphrysos">
@@ -84,9 +81,7 @@
                 <w xml:id="L3.w15">Lycaei</w>
               </placeName>
               <pc>.</pc>
-            </seg>
           </l>
-          <seg type="segment" n="b" xml:id="L3.C1.Sb">
             <l n="3">
               <w xml:id="L3.w16">Cetera
 		    <reg resp="TeamVirgilius"><pc>,</pc></reg>
@@ -103,16 +98,12 @@
               <w xml:id="L3.w21">mentes<pc>,</pc>
                     </w>
             </l>
-            <l n="4" part="I">
+            <l n="4">
               <w xml:id="L3.w22">Omnia</w>
               <w xml:id="L3.w23">iam</w>
               <w xml:id="L3.w24"> uulgata
 		    <choice><orig><pc>.</pc></orig><reg resp="TeamVirgilius"><pc>:</pc></reg></choice>
 		    </w>
-            </l>
-          </seg>
-          <seg type="segment" n="c" xml:id="L3.C1.Sc">
-            <l n="4" part="F">
               <w xml:id="L3.w25">quis</w>
               <w xml:id="L3.w26">aut</w>
               <persName ana="Eurystheus">
@@ -136,7 +127,6 @@
               </persName>
               <w xml:id="L3.w33">aras<pc>?</pc>
                      </w>
-              <ptr type="traduction" xml:lang="fr" target="Virgile.xml#xpointer(//tei:s[@n='1'])"/>
             </l>
             <l n="6">
               <w xml:id="L3.w34">Cui</w>
@@ -178,15 +168,11 @@
               <w xml:id="L3.w45"> insignis </w>
               <w xml:id="L3.w46">eburno<pc>,</pc>
                      </w>
-            </l>
-            <l n="8" part="I">
               <w xml:id="L3.w47">Acer</w>
               <w xml:id="L3.w48">equis<choice><orig><pc>,</pc></orig><reg resp="TeamVirgilius"><pc>?</pc></reg></choice>
                      </w>
             </l>
-          </seg>
-          <seg type="segment" xml:id="L3.C1.Sd">
-            <l n="8" part="F">
+            <l n="8">
               <w xml:id="L3.w49">
                 <choice>
                   <orig>tentanda</orig>
@@ -213,10 +199,9 @@
               <w xml:id="L3.w62">ora<pc>.</pc>
                     </w>
             </l>
-          </seg>
         </lg>
         <!--corrigé par BB jusque là-->
-        <div type="chapter" n="2">
+        <lg type="chapter" n="2" xml:id="L3.C2">
           <l n="10">
             <metamark rend="superscript" corresp="SEG ???">a</metamark>
             <!--corresp à compléter-->
@@ -687,8 +672,8 @@
                      </w>
             <ptr type="traduction" xml:lang="fr" target="Virgile.xml#xpointer(//tei:s[@n='7'])"/>
           </l>
-        </div>
-        <div type="chapter" n="3">
+        </lg>
+        <lg type="chapter" n="3" xml:id="L3.C3">
           <l n="40">
             <metamark rend="superscript" corresp="SEG ???">a</metamark>
             <!-- qu'est-ce que tu as voulu faire là? -->
@@ -872,7 +857,7 @@
             <pc>.</pc>
             <ptr type="traduction" xml:lang="fr" target="Virgile.xml#xpointer(//tei:s[@n='9'])"/>
           </l>
-        </div>
+        </lg>
         <div type="chapter" n="4">
           <l n="49">
             <w xml:id="L3.w309">Seu</w>
