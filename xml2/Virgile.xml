@@ -1,52 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-model href="../Sch%C3%A9ma/TEI_TALIE_V5.rnc" type="application/relax-ng-compact-syntax"?>
-<TEI 
-   xmlns="http://www.tei-c.org/ns/1.0" 
-   version="5.0"
-   xml:id="pivot">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Géorgiques, livre III</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Projet LaCerda</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Traduction Rat adaptée</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="work">
-            <div type="book" n="3">
-               
-               
-               
-               <div type="chapter" n="1">
-                  <p>
-                     <s type="traduction" n="1" corresp="#range(w1,w33)">Toi aussi, grande Palès, et
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0" xml:id="pivot"><teiHeader><fileDesc><titleStmt><title>Géorgiques, livre III</title></titleStmt><publicationStmt><p>Projet LaCerda</p></publicationStmt><sourceDesc><p>Traduction Rat adaptée</p></sourceDesc></fileDesc></teiHeader><text><body><div type="book" n="3" xml:id="L3"><div type="chapter" n="1" xml:id="L3.C1"><p><s type="traduction" n="1" corresp="#range(w1,w33)" xml:id="L3.C1.S1">Toi aussi, grande Palès, et
                         toi, que l’on doit mentionner en tant que berger de l'Amphryse, nous te
                         chanterons, et vous, forêts et rivières du Lycée. Les autres sujets qui
                         auraient tenu les esprits oisifs sous le charme des vers sont tous divulgués
                         désormais. Qui ne connaît ou le détestable Eurysthée ou les autels de Busiris
-                        l'innommable<!-- est-ce que vraiment LC préfère l'interprétation privilégiée par Agellis? ou faut-il exprimer celle qui le fait rire: "qui n'a pas été loué" avec la pique à Isocrate? -->? </s>
-                     <s type="traduction" n="2" corresp="#range(w34,w62)">Qui n'a chanté le jeune Hylas et Délos la Latonienne, et Hippodamie et,
+                        l'innommable<!-- est-ce que vraiment LC préfère l'interprétation privilégiée par Agellis? ou faut-il exprimer celle qui le fait rire: "qui n'a pas été loué" avec la pique à Isocrate? -->? </s><s type="traduction" n="2" corresp="#range(w34,w62)" xml:id="L3.C1.S2">Qui n'a chanté le jeune Hylas et Délos la Latonienne, et Hippodamie et,
                         illustre par son épaule d'ivoire, Pélops, écuyer impétueux ? Il me faut
                         tenter une voie où je puisse moi aussi m'élever au-dessus du sol et voler,
-                        vainqueur, sur les bouches des hommes.</s>
-                  </p>
-               </div>
-               <div type="chapter" n="2">
-                  <p>
-                     <s type="traduction" n="3" corresp="#range(w63,w102)">C'est moi qui, le
+                        vainqueur, sur les bouches des hommes.</s></p></div><div type="chapter" n="2" xml:id="L3.C2"><p><s type="traduction" n="3" corresp="#range(w63,w102)" xml:id="L3.C2.S1">C'est moi qui, le
                         premier, pour peu que ma vie soit assez longue, ferai descendre les Muses du
                         sommet aonien pour les ramener avec moi dans ma patrie; le premier, je te
                         rapporterai, Mantoue, les palmes d'Idumée, et, dans la verte plaine, je
                         poserai un temple de marbre, au bord de l'eau où en lents détours le large
-                        Mincius erre et a revêtu ses rives de tendre roseau.</s>
-                     <s type="traduction" n="4" corresp="#range(w103,w135)">Au milieu du temple je
+                        Mincius erre et a revêtu ses rives de tendre roseau.</s><s type="traduction" n="4" corresp="#range(w103,w135)" xml:id="L3.C2.S2">Au milieu du temple je
                         mettrai César, qui en sera le
                         gardien<!-- ou: qui
 						       l'habitera?
@@ -58,23 +25,20 @@
                         Pour lui, moi-même vainqueur, attirant les regards sous la pourpre de Tyr,
                         je ferai partir cent quadriges le long du fleuve. A mon signal, la Grèce
                         entière, quittant l'Alphée et les bois sacrés des Molorchus, disputera le
-                        prix de la course et du ceste dur.</s>
-                     <s type="traduction" n="5" corresp="#range(w136,w166)">Moi-même, la tête ornée
+                        prix de la course et du ceste dur.</s><s type="traduction" n="5" corresp="#range(w136,w166)" xml:id="L3.C2.S3">Moi-même, la tête ornée
                         de feuilles d'olivier<!-- est-ce qu'on ajoute sauvage? -->bien taillé,
                         j'apporterai des dons. Dès maintenant j'ai plaisir à conduire aux
                         sanctuaires les pompes solennelles, et à voir les jeunes taureaux égorgés,
                         ou comme le décor se sépare en tous sens tandis que les panneaux latéraux
                         pivotent et comme les Bretons lèvent les rideaux de pourpre sur lesquels ils
-                        sont tissés de profil.</s>
-                     <s type="traduction" n="6" corresp="#range(w167,w215)">Sur les portes, je
+                        sont tissés de profil.</s><s type="traduction" n="6" corresp="#range(w167,w215)" xml:id="L3.C2.S4">Sur les portes, je
                         représenterai en or et en ivoire massif le combat des Gangarides et les
                         combats de "Quirinus" vainqueur et là, le Nil aux ondes guerrières et au
                         cours abondant, ainsi que les colonnes dressées avec l'airain naval.
                         J'ajouterai les villes d'Asie domptées, le Niphate repoussé et le Parthe
                         confiant dans la fuite et dans les flèches qu'il lance en se retournant, les
                         deux trophées ravis en personne<!-- ajouter "par Auguste"? -->à un ennemi
-                        étranger et le double triomphe sur les peuples d'Orient et d'Occident.</s>
-                     <s type="traduction" n="7" corresp="#range(w216,w250)">S'éléveront aussi, dans
+                        étranger et le double triomphe sur les peuples d'Orient et d'Occident.</s><s type="traduction" n="7" corresp="#range(w216,w250)" xml:id="L3.C2.S5">S'éléveront aussi, dans
                         la pierre de Paros, des statues pleines de vie: la postérité d'Assaracus,
                         glorieuse descendance de Jupiter, Tros, leur père, et le Cynthien, qui
                         inspira la construction de
@@ -83,24 +47,14 @@
 						       Troie -->.
                         L'Envie infortunée redoutera les Furies et le fleuve cruel du Cocyte, et les
                         serpents enroulés autour d'Ixion la monstrueuse roue et l'invincible
-                        rocher.</s>
-                  </p>
-               </div>
-               <div type="chapter" n="3">
-                  <p>
-                     <s type="traduction" n="8" corresp="#range(w251,w287)">Cependant entrons dans
+                        rocher.</s></p></div><div type="chapter" n="3" xml:id="L3.C3"><p><s type="traduction" n="8" corresp="#range(w251,w287)" xml:id="L3.C3.S1">Cependant entrons dans
                         les forêts des Dryades et dans les fourrés vierges; tes ordres, Mécène, ne
                         sont pas faciles à exécuter. Mais sans toi mon esprit n'entreprend rien de
                         haut. Allons, viens, et brise les mols retards : le Cithéron nous appelle à grands cris, et les chiens du
                         Taygète, et Epidaure dompteuse de chevaux, et leur voix retentit, répétée
-                        par l'écho des bois. </s>
-                     <s type="traduction" n="9" corresp="#range(w288,w308)"> Bientôt pourtant je me préparerai à dire les ardentes
+                        par l'écho des bois. </s><s type="traduction" n="9" corresp="#range(w288,w308)" xml:id="L3.C3.S2"> Bientôt pourtant je me préparerai à dire les ardentes
                         batailles de César et à faire vivre son nom pendant autant d'années qu'il
-                        s'en est écoulé depuis l'origine première de Tithon jusqu'à César.</s>
-                  </p>
-               </div>
-               <div type="chapter" n="4">
-                  <p>Soit qu'admirant les prix de la palme olympique on fasse paître des chevaux,
+                        s'en est écoulé depuis l'origine première de Tithon jusqu'à César.</s></p></div><div type="chapter" n="4"><p>Soit qu'admirant les prix de la palme olympique on fasse paître des chevaux,
                      soit qu'on élève pour la charrue de jeunes taureaux robustes, le principal est
                      de choisir les mères. La meilleure vache est celle dont le regard est torve, la
                      tête laide, l'encolure très forte, et dont les fanons pendent du menton
@@ -109,10 +63,7 @@
                      déplairait pas que sa robe fût marquée de taches blanches, qu'elle refusât le
                      joug, qu'elle eût parfois la corne farouche, qu'elle fût assez proche du
                      taureau par l'aspect et que, haute de taille, elle balayât du bout de sa queue
-                     la trace de ses pas.</p>
-               </div>
-               <div type="chapter" n="5">
-                  <p>L'âge propice aux travaux de Lucine et aux justes hymens cesse à dix ans et
+                     la trace de ses pas.</p></div><div type="chapter" n="5"><p>L'âge propice aux travaux de Lucine et aux justes hymens cesse à dix ans et
                      commence à quatre : en dehors de ces limites, elle n'est ni propre à la
                      reproduction ni forte pour la charrue. Pendant ce temps, alors que les
                      troupeaux sont dans la plénitude de leur riante jeunesse, délie les mâles; sois
@@ -122,10 +73,7 @@
                      triste vieillesse, puis les souffrances, et l'inclémence de la dure mort nous
                      prend. Tu auras toujours des mères que tu préféreras réformer; remplace-les
                      donc toujours, et, pour n'avoir pas de pertes à regretter, préviens-les et
-                     choisis chaque année des rejetons propres à reproduire le troupeau.</p>
-               </div>
-               <div type="chapter" n="6">
-                  <p>Même choix pour la race chevaline : ceux que tu décideras d'élever en vue de la
+                     choisis chaque année des rejetons propres à reproduire le troupeau.</p></div><div type="chapter" n="6"><p>Même choix pour la race chevaline : ceux que tu décideras d'élever en vue de la
                      reproduction doivent, dès leurs tendres années, être le principal objet de tes
                      soins. D'abord, le poulain de bonne race s'avance dans les guérets la tête
                      haute et a des jarrets souples. Il est le premier à se mettre en route, à
@@ -143,10 +91,7 @@
                      deux par deux et ceux qui traînaient le char du grand Achille; tel aussi, à
                      l'arrivée de son épouse, Saturne lui-même, d'un bond, répandit sa crinière sur
                      un cou de cheval et, dans sa fuite, emplit le haut Pélion d'un hennissement
-                     aigu.</p>
-               </div>
-               <div type="chapter" n="7">
-                  <p>Mais ce cheval même, lorsque appesanti par la maladie, ou déjà ralenti par les
+                     aigu.</p></div><div type="chapter" n="7"><p>Mais ce cheval même, lorsque appesanti par la maladie, ou déjà ralenti par les
                      ans, il a des défaillances, enferme-le au logis et sois indulgent à une
                      vieillesse qui ne le déshonore pas. Frigide pour Vénus lorsqu'il est trop âgé,
                      il traîne en vain un labeur ingrat; et, si parfois on en vient au combat, tel
@@ -162,10 +107,7 @@
                      l'assaut des brises. Point de trêve, point de relâche ! Un nuage de poussière
                      fauve s'élève; ils sont mouillés de l'écume et du souffle de ceux qui les
                      suivent tant l'amour de la gloire est grand, tant ils ont la victoire à coeur
-                     !</p>
-               </div>
-               <div type="chapter" n="8">
-                  <p>Le premier, Erichthon, osa inventer les chars et y atteler quatre chevaux, et,
+                     !</p></div><div type="chapter" n="8"><p>Le premier, Erichthon, osa inventer les chars et y atteler quatre chevaux, et,
                      se tenir, rapide vainqueur, sur des roues. Les Lapithes du Péléthronium, montés
                      sur le dos des chevaux, les dressèrent au frein et aux voltes et apprirent au
                      cavalier couvert d'armes à bondir sur le sol et à faire des galops superbes.
@@ -173,10 +115,7 @@
                      pareillement un cheval jeune, ardent de coeur et rapide à la course, même si
                      tel autre étalon a souvent poursuivi l'ennemi en fuite, et se vante d'avoir
                      pour patrie l'Epire et la vaillante Mycènes, et fait remonter jusqu'à Neptune
-                     lui-même l'origine de sa race.</p>
-               </div>
-               <div type="chapter" n="9">
-                  <p>Ces observations faites, on s'applique quand la saison approche, on dépense
+                     lui-même l'origine de sa race.</p></div><div type="chapter" n="9"><p>Ces observations faites, on s'applique quand la saison approche, on dépense
                      tous ses soins à gonfler d'une graisse épaisse l'animal qu'on a choisi comme
                      chef du troupeau et désigné comme mari; on coupe pour lui des herbes dans leur
                      fleur, on lui sert des eaux courantes et de l'épeautre, pour qu'il ne puisse
@@ -196,10 +135,7 @@
                      dans des eaux rapides. Qu'elles paissent dans des bocages solitaires, le long
                      de rivières coulant à pleins bords, où elles trouvent de la mousse et une rive
                      toute verte de gazon, l'abri des grottes et l'ombre qui s'étend des
-                     rochers.</p>
-               </div>
-               <div type="chapter" n="10">
-                  <p>Aux environs des bois du Silare et de l'Alburne que verdissent les yeuses,
+                     rochers.</p></div><div type="chapter" n="10"><p>Aux environs des bois du Silare et de l'Alburne que verdissent les yeuses,
                      pullule un insecte ailé, dont le nom romain est asile et que les Grecs
                      appellent œstre dans leur langage : insecte furieux, dont le bourdonnement aigu
                      épouvante et fait fuir des troupeaux entiers dans les bois; l'air ébranlé
@@ -208,10 +144,7 @@
                      Junon, lorsqu'elle médita la perte de la génisse, fille d'Inachus; c'est de lui
                      aussi (car il est plus acharné aux ardeurs de midi) que tu garantiras tes
                      femelles pleines, en ne faisant paître tes troupeaux qu'à l'heure où le soleil
-                     vient de se lever ou quand les astres amènent la nuit.</p>
-               </div>
-               <div type="chapter" n="11">
-                  <p>Lorsque les génisses ont mis bas, tous les soins passent aux petits. On les
+                     vient de se lever ou quand les astres amènent la nuit.</p></div><div type="chapter" n="11"><p>Lorsque les génisses ont mis bas, tous les soins passent aux petits. On les
                      marque sur-le-champ au fer rouge pour indiquer leur race, et distinguer ceux
                      qu'on choisit pour perpétuer le troupeau, ceux qu'on réserve aux sacrifices des
                      autels, et ceux qu'on destine à déchirer la terre et à retourner la plaine
@@ -229,10 +162,7 @@
                      feuilles du saule et l'ulve marécageuse, mais aussi des tiges de blé nouveau;
                      et, quand tes génisses sont devenues mères, ne va pas, à l'exemple de nos
                      pères, remplir tes jattes de leur traite neigeuse, mais laisse-les épuiser
-                     leurs mamelles tout entières pour leurs doux nourrissons.</p>
-               </div>
-               <div type="chapter" n="12">
-                  <p>Si tes préférences vont à la guerre et aux farouches escadrons, ou si tu veux
+                     leurs mamelles tout entières pour leurs doux nourrissons.</p></div><div type="chapter" n="12"><p>Si tes préférences vont à la guerre et aux farouches escadrons, ou si tu veux
                      effleurer de tes roues l'Alphée qui coule à Pise, et faire voler tes chars dans
                      le bois sacré de Jupiter, le premier travail de ton cheval sera de voir
                      l'ardeur et les armes des guerriers en lutte, de supporter le son des
@@ -258,10 +188,7 @@
                      seulement quand ils seront domptés que tu laisseras la dragée grasse leur
                      donner une forte corpulence; car avant le dressage, ils montreront une humeur
                      trop fière, et, si on les saisit, ils refuseront de subir le fouet flexible et
-                     d'obéir aux durs caveçons.</p>
-               </div>
-               <div type="chapter" n="13">
-                  <p>Mais le meilleur moyen d'affermir la vigueur, soit des boeufs soit des chevaux,
+                     d'obéir aux durs caveçons.</p></div><div type="chapter" n="13"><p>Mais le meilleur moyen d'affermir la vigueur, soit des boeufs soit des chevaux,
                      selon ce qu'on préfère, est d'écarter Vénus et les aiguillons de l'amour
                      aveugle. Et c'est pourquoi on relègue au loin les taureaux, dans des pacages
                      solitaires, derrière la barrière d'une montagne, au delà d'un large fleuve, ou
@@ -288,10 +215,7 @@
                      s'éloigne du large, se creuse de plus en plus, puis, roulant vers la terre se
                      brise contre les rochers avec un bruit affreux, et retombe de toute sa hauteur;
                      cependant l'onde bouillonne jusqu'au fond du gouffre, et de ses profondeurs
-                     soulève un sable noir.</p>
-               </div>
-               <div type="chapter" n="14">
-                  <p>Oui, toute la race sur terre et des hommes et des bêtes, ainsi que la race
+                     soulève un sable noir.</p></div><div type="chapter" n="14"><p>Oui, toute la race sur terre et des hommes et des bêtes, ainsi que la race
                      marine, les troupeaux, les oiseaux peints de mille couleurs, se ruent à ces
                      furies et à ce feu : l'amour est le même pour tous. Jamais en nulle autre
                      saison la lionne oubliant ses petits n'erra plus cruelle dans les plaines;
@@ -312,10 +236,7 @@
                      fille qui mourra après lui d'un cruel trépas ne peuvent le faire renoncer à son
                      entreprise. Que dire des lynx tachetés de Bacchus, et de la race violente des
                      loups, et des chiens ? Que dire des cerfs qui, malgré leur timidité, se livrent
-                     des combats ?</p>
-               </div>
-               <div type="chapter" n="15">
-                  <p>Mais c'est surtout la fureur des cavales qui est insigne, et c'est Vénus
+                     des combats ?</p></div><div type="chapter" n="15"><p>Mais c'est surtout la fureur des cavales qui est insigne, et c'est Vénus
                      elle-même qui leur donna cette fureur, au temps où les Potniades déchirèrent de
                      leurs mâchoires les membres de Glaucus. Elles, l'amour les entraîne au delà du
                      Gargare et au delà de l'Ascagne sonore; elles franchissent les montagnes,
@@ -329,10 +250,7 @@
                      Caurus, ou encore du côté où naît l'Auster si noir, qui attriste le ciel de sa
                      pluie froide. C'est alors que l'humeur visqueuse, justement nommée hippomane
                      par les bergers, suinte de leur aine, l'hippomane que de méchantes marâtres ont
-                     souvent recueilli et mêlé à des herbes et à de coupables paroles.</p>
-               </div>
-               <div type="chapter" n="16">
-                  <p>Mais le temps fuit, et il fuit sans retour, tandis que séduits par notre sujet
+                     souvent recueilli et mêlé à des herbes et à de coupables paroles.</p></div><div type="chapter" n="16"><p>Mais le temps fuit, et il fuit sans retour, tandis que séduits par notre sujet
                      nous le parcourons dans tous ses détails. C'est assez parler des grands
                      troupeaux; reste la seconde partie de ma tâche : traiter des troupeaux
                      porte-laine et des chèvres au long poil. C'est un travail; mais espérez-en de
@@ -342,10 +260,7 @@
                      désertes du Parnasse; il me plaît d'aller par ces cimes, où nulle roue avant
                      moi n'a jamais laissé de traces sur la douce déclivité de Castalie. C'est
                      maintenant, vénérable Palès, maintenant qu'il faut chanter d'une voix
-                     forte.</p>
-               </div>
-               <div type="chapter" n="17">
-                  <p>Pour commencer, je prescris qu'on laisse les brebis brouter leur herbe dans de
+                     forte.</p></div><div type="chapter" n="17"><p>Pour commencer, je prescris qu'on laisse les brebis brouter leur herbe dans de
                      douces étables, jusqu'au retour de l'été et de ses frondaisons; qu'on étende
                      sur le sol rude une couche épaisse de paille et des bottes de fougères, pour
                      préserver de la froidure du gel le délicat troupeau et le sauver de la gale et
@@ -368,10 +283,7 @@
                      d'autant plus de soins à les protéger du gel et des vents neigeux que leur
                      besoin est moindre de l'assistance de l'homme; tu leur apporteras en abondance
                      une pâture d'herbes et de branches flexibles, et, de tout l'hiver, tu ne leur
-                     fermeras pas tes greniers à foin.</p>
-               </div>
-               <div type="chapter" n="18">
-                  <p>Mais quand l'été riant à l'appel des Zéphyrs enverra dans les clairières et les
+                     fermeras pas tes greniers à foin.</p></div><div type="chapter" n="18"><p>Mais quand l'été riant à l'appel des Zéphyrs enverra dans les clairières et les
                      pacages l'un et l'autre troupeau, parcourons les fraîches campagnes aux
                      premiers feux de Lucifer, dans la nouveauté du matin et le givre des prairies,
                      quand la rosée si agréable au bétail perle sur l'herbe tendre. Puis quand la
@@ -384,20 +296,14 @@
                      d'eau et fais-les paître encore au coucher du soleil, quand la fraîcheur du
                      soir tempère l'air, quand la lune verseuse de rosée ranime les clairières,
                      quand le rivage retentit des chants de l'alcyon et les buissons de ceux du
-                     chardonneret.</p>
-               </div>
-               <div type="chapter" n="19">
-                  <p>Te décrirai-je dans mes vers les pâtres de la Libye, leurs pâturages et leurs
+                     chardonneret.</p></div><div type="chapter" n="19"><p>Te décrirai-je dans mes vers les pâtres de la Libye, leurs pâturages et leurs
                      douars peuplés de rares cabanes ? Souvent, jour et nuit, et tout un mois sans
                      interruption, le troupeau paît et va dans de vastes déserts, sans trouver nul
                      abri : tant l'étendue de la plaine est grande. Le bouvier africain emmène tout
                      avec lui : maison, Lare, armes, chien d'Amyclée et carquois de Crète; c'est
                      ainsi que revêtu des armes de ses pères, le vaillant Romain poursuit sa route
                      sous un énorme fardeau, établit son camp et se présente en colonne devant
-                     l'ennemi dont il a devancé l'attente.</p>
-               </div>
-               <div type="chapter" n="20">
-                  <p>Il n'en est pas ainsi chez les peuples de Scythie, près de l'onde Méotide, où
+                     l'ennemi dont il a devancé l'attente.</p></div><div type="chapter" n="20"><p>Il n'en est pas ainsi chez les peuples de Scythie, près de l'onde Méotide, où
                      le trouble Ister roule des sables jaunâtres, et où le Rhodope revient sur
                      lui-même après s'être étendu jusqu'au milieu du pôle. Là, on tient les
                      troupeaux enfermés dans les étables; on n'aperçoit ni herbes dans la plaine ni
@@ -427,10 +333,7 @@
                      s'enivrent, joyeux, d'une liqueur fermentée d'orge et de sorbes acides qui
                      imite le jus de la vigne. Ainsi vit, sous la constellation des sept Boeufs
                      hyperboréens, une race d'hommes effrénée, toujours battue de l'Eurus du Riphée,
-                     le corps couvert de peaux fauves de bêtes.</p>
-               </div>
-               <div type="chapter" n="21">
-                  <p>Si tu fais de la laine l'objet de tes soins, commence par éviter la silve
+                     le corps couvert de peaux fauves de bêtes.</p></div><div type="chapter" n="21"><p>Si tu fais de la laine l'objet de tes soins, commence par éviter la silve
                      épineuse : bardanes et tribules; fuis les gras pâturages, et choisis toujours
                      de blancs troupeaux aux molles toisons. Quant au bélier lui-même, fût-il
                      éclatant de blancheur, s'il cache une langue noire sous son palais humide,
@@ -438,10 +341,7 @@
                      nouveau-nés, et cherches-en un autre autour de toi dans la plaine qui en est
                      remplie. C'est grâce à la blancheur neigeuse de sa toison, s'il faut en croire
                      la légende, que Pan, dieu d'Arcadie, te surprit, ô Lune, et t'abusa en
-                     t'appelant au fond des bois; et tu ne dédaignas point son appel.</p>
-               </div>
-               <div type="chapter" n="22">
-                  <p>Préfère-t-on le laitage ? Qu'on cueille de sa propre main cytise, mélilot et
+                     t'appelant au fond des bois; et tu ne dédaignas point son appel.</p></div><div type="chapter" n="22"><p>Préfère-t-on le laitage ? Qu'on cueille de sa propre main cytise, mélilot et
                      herbes salées en abondance, et qu'on les porte dans les crèches. Ils n'en
                      aiment que plus les eaux courantes, et en ont des mamelles plus gonflées, et en
                      gardent dans leur lait un goût secret de sel. Beaucoup interdisent aux
@@ -450,10 +350,7 @@
                      lever du jour ou aux heures de la journée se met en présure la nuit; celui
                      qu'on a trait quand commencent les ténèbres et que le soleil se couche, le
                      berger au point du jour va le porter dans les villes en des vases d'airain, ou
-                     bien on le saupoudre d'un peu de sel et on le garde pour l'hiver.</p>
-               </div>
-               <div type="chapter" n="23">
-                  <p>Les chiens ne seront pas le dernier objet de tes soins nourris à la fois d'un
+                     bien on le saupoudre d'un peu de sel et on le garde pour l'hiver.</p></div><div type="chapter" n="23"><p>Les chiens ne seront pas le dernier objet de tes soins nourris à la fois d'un
                      gras petit lait les rapides lévriers de Sparte et le vigoureux Molosse. Jamais,
                      avec de tels gardiens, tu n'auras à redouter pour tes étables ni le voleur de
                      nuit et les incursions des loups, ni l'attaque par derrière des Hibères
@@ -461,10 +358,7 @@
                      chasseras avec tes chiens le lièvre comme les daims. Souvent avec ta meute
                      aboyante tu débusqueras et relanceras les sangliers de leurs bauges sauvages,
                      et poursuivant à grands cris le cerf à travers les hauts monts, tu le rabattras
-                     sur tes rets.</p>
-               </div>
-               <div type="chapter" n="24">
-                  <p>Apprends aussi à brûler dans tes étables le cèdre odorant et à en chasser par
+                     sur tes rets.</p></div><div type="chapter" n="24"><p>Apprends aussi à brûler dans tes étables le cèdre odorant et à en chasser par
                      l'odeur du galbanum les dangereux reptiles. Souvent, sous les crèches qui n'ont
                      pas été remuées, se dissimule la vipère, mauvaise à qui la touche, et qui
                      cherche un refuge contre le jour qu'elle redoute; ou bien la couleuvre,
@@ -473,10 +367,7 @@
                      pierres, prends des bâtons, berger; et, tandis qu'elle dresse ses menaces et
                      enfle son cou qui siffle, abats-la; déjà elle a fui et enfoui sa tête craintive
                      profondément, mais les anneaux du milieu de son corps et du bout de sa queue
-                     sont brisés, et une dernière ondulation traîne ses lents replis.</p>
-               </div>
-               <div type="chapter" n="25">
-                  <p>Il est aussi dans les fourrés de la Calabre un mauvais serpent, qui, soulevant
+                     sont brisés, et une dernière ondulation traîne ses lents replis.</p></div><div type="chapter" n="25"><p>Il est aussi dans les fourrés de la Calabre un mauvais serpent, qui, soulevant
                      sa poitrine, déroule son dos écailleux et son long ventre marqué de larges
                      taches. Tant que les cours d'eau jaillissent de leurs sources, tant que les
                      terres sont détrempées par l'humidité printanière et les autans pluvieux, il
@@ -488,10 +379,7 @@
                      le doux sommeil en plein air, ou de m'étendre sur le talus d'un bois parmi les
                      herbes, alors qu'ayant fait peau neuve et brillant de jeunesse, il se roule à
                      terre, ou que laissant dans sa demeure ses petits ou ses oeufs, il se dresse au
-                     soleil, et fait dans sa gueule vibrer un triple dard.</p>
-               </div>
-               <div type="chapter" n="26">
-                  <p>Je t'apprendrai aussi les causes et les symptômes des maladies. La hideuse gale
+                     soleil, et fait dans sa gueule vibrer un triple dard.</p></div><div type="chapter" n="26"><p>Je t'apprendrai aussi les causes et les symptômes des maladies. La hideuse gale
                      s'attaque aux brebis, lorsqu'une pluie froide de l'âpre hiver aux blancs frimas
                      les a profondément pénétrées jusqu'au vif; ou quand la sueur mal lavée reste
                      collée à leurs corps tondus et que les ronces épineuses ont écorché leur peau.
@@ -499,10 +387,7 @@
                      et le bélier avec sa toison humide est immergé dans un gouffre et s'abandonne
                      au courant du fleuve; ou bien, après la tonte, on leur frotte le corps de marc
                      d'huile amer, mêlé d'écume d'argent, de soufre vif, de poix de l'Ida, de cire
-                     grasse et visqueuse, d'oignon marin, d'ellébore fétide et de noir bitume.</p>
-               </div>
-               <div type="chapter" n="27">
-                  <p>Mais il n'est pas de remède plus efficace contre les complications que d'ouvrir
+                     grasse et visqueuse, d'oignon marin, d'ellébore fétide et de noir bitume.</p></div><div type="chapter" n="27"><p>Mais il n'est pas de remède plus efficace contre les complications que d'ouvrir
                      avec le fer l'orifice de l'ulcère : à demeurer caché le mal se développe et
                      vit, tant que le berger se refuse à livrer la plaie aux mains du médecin et,
                      sans agir, se borne à demander aux dieux des présages meilleurs. De plus, quand
@@ -519,10 +404,7 @@
                      défense. L'ouragan qui déchaîne l'orage s'abat moins fréquemment sur la mer que
                      les épidémies sur les bêtes, et les maladies n'attaquent pas quelques individus
                      isolés, mais enlèvent tout à coup des parcs d'été tout entiers, l'espoir du
-                     troupeau et le troupeau en même temps, et toute la race depuis son origine.</p>
-               </div>
-               <div type="chapter" n="28">
-                  <p>Il suffit, pour en juger, de visiter les Alpes aériennes, les chalets du
+                     troupeau et le troupeau en même temps, et toute la race depuis son origine.</p></div><div type="chapter" n="28"><p>Il suffit, pour en juger, de visiter les Alpes aériennes, les chalets du
                      Norique sur leurs éminences, et les champs de l'Iapydie que le Timave arrose :
                      on verra qu'aujourd'hui encore, après tant d'années, les royaumes des pâtres y
                      sont déserts et les fourrés vides dans toutes les directions. Là, jadis, une
@@ -539,10 +421,7 @@
                      l'immoler avec le fer, ses entrailles ne brûlent pas sur l'autel où elles sont
                      placées et le devin consulté ne peut rendre de réponse; c'est à peine si les
                      couteaux placés sous sa gorge se teignent de sang et si un peu de sanie fonce
-                     la surface du sable.</p>
-               </div>
-               <div type="chapter" n="29">
-                  <p>Ici, au milieu des riants herbages les veaux meurent en masse, et rendent leurs
+                     la surface du sable.</p></div><div type="chapter" n="29"><p>Ici, au milieu des riants herbages les veaux meurent en masse, et rendent leurs
                      âmes douces près de leurs crèches pleines. Ailleurs la rage s'empare des chiens
                      caressants, et des quintes de toux secouent les porcs malades et suffoquent
                      leurs gorges gonflées. Il succombe, malheureux, oubliant la gloire et la
@@ -560,10 +439,7 @@
                      ranimés, ils brûlaient de toutes les fureurs, et dans les angoisses de la mort
                      (dieux, inspirez de meilleures pensées à ceux qui sont pieux et réservez cet
                      égarement à vos ennemis !) ils déchiraient eux-mêmes à belles dents leurs
-                     membres en lambeaux.</p>
-               </div>
-               <div type="chapter" n="30">
-                  <p>Mais voici que, fumant sous la dure charrue, le taureau s'affaisse et vomit à
+                     membres en lambeaux.</p></div><div type="chapter" n="30"><p>Mais voici que, fumant sous la dure charrue, le taureau s'affaisse et vomit à
                      plein gosier un sang mêlé d'écume, et pousse de suprêmes gémissements. Le
                      laboureur s'en va, tout triste, dételer l'autre boeuf affligé de la mort de son
                      frère et laisse sa charrue enfoncée au milieu du sillon. Ni les ombres des
@@ -581,10 +457,7 @@
                      que les chars furent conduits à ses hauts sanctuaires par des buffles mal
                      appareillés. Alors donc les habitants du pays fendent à grande peine la terre
                      avec les herses, enfouissent les semences avec leurs ongles mêmes, et
-                     gravissent les montagnes en traînant, le cou tendu, de gémissants chariots.</p>
-               </div>
-               <div type="chapter" n="31">
-                  <p>Le loup ne dresse plus d'embuscades autour des bergeries et ne rôde plus la
+                     gravissent les montagnes en traînant, le cou tendu, de gémissants chariots.</p></div><div type="chapter" n="31"><p>Le loup ne dresse plus d'embuscades autour des bergeries et ne rôde plus la
                      nuit près des troupeaux : un souci plus cruel le dompte; les daims timides et
                      les cerfs fuyards errent maintenant, confondus avec les chiens, autour des
                      habitations. La faune de la mer immense et toute la race des êtres qui nagent
@@ -608,10 +481,4 @@
                      tombent en poussière; plus encore : quiconque essayait de revêtir ces funestes
                      dépouilles, voyait aussitôt des pustules ardentes et une sueur immonde couvrir
                      ses membres infects, et ne tardait plus longtemps à périr dévoré par les
-                     atteintes du feu maudit.</p>
-               </div>
-            </div>
-         </div>
-      </body>
-   </text>
-</TEI>
+                     atteintes du feu maudit.</p></div></div></body></text></TEI>
