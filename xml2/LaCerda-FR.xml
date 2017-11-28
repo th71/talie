@@ -1,0 +1,2033 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../Sch%C3%A9ma/TEI_TALIE_V5.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI 
+   xmlns="http://www.tei-c.org/ns/1.0" 
+   version="5.0"
+   xml:id="pivot">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Géorgiques livre iii</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Projet LaCerda</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Traduction française</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+            <div type="book" n="3">
+               
+               
+               
+               <div type="praefatio" n="3">
+                  <p>Il nous a semblé bon de diviser ce livre en cinq parties, mais on pourrait le
+                     diviser en un plus grand nombre, parce que le développement en est morcelé. La
+                     première partie expose ce qui est utile dans ce livre, et rejette les fables
+                     des poètes comme inutiles ; en cette occasion, il<note resp="TeamVirgilius">Il
+                        s'agit bien sûr de Virgile, qui n'est pas nommé.</note>se glorifie en disant
+                     qu’il sera le premier à arracher la palme de la composition poétique aux Grecs
+                     futiles et menteurs, et superbement il promet qu’il érigera un trophée
+                     célébrant sa victoire au bord du Mincio à Mantoue, après avoir édifié un temple
+                     consacré au culte d’Auguste ; dans ce temple, il y aura une représentation,
+                     ici, des exploits éclatants d’Auguste à la guerre, là, des ancêtres de ce
+                     prince ; c’est enfin à cet endroit qu’il se tourne vers Mécène qu’il rend
+                     docile, attentif, bienveillant, et il promet la divine<bibl>
+                        <title>Enéide</title>
+                     </bibl>. La deuxième partie contient un développement très long sur le sujet
+                     des chevaux et des taureaux : dans son propos, il passe sans cesse d’un sujet à
+                     l’autre et fait un va-et-vient constant entre taureaux et chevaux. Au début il
+                     enseigne quelles sont les meilleures vaches pour l’accouplement, et il
+                     détermine dix critères à propos de celles-ci ; il ajoute la période de
+                     l’accouplement ; de là il passe aux étalons dont il dit que la noblesse est
+                     reconnaissable grâce aux poulains eux-mêmes à partir de cinq critères. Après
+                     les avoir énumérés, il confirme tout par le témoignage des dieux et des héros.
+                     Il ajoute les soins que l’on doit apporter pour un traitement humain des
+                     chevaux dans la vieillesse, et à l’occasion de certains critères du bon cheval,
+                     il fait un excursus poétique pour décrire les courses de chevaux. Il indique
+                     quel fut le premier dompteur de chevaux pour l’usage des chars et quels furent
+                     les premiers dompteurs pour les voltes guerrières. Ensuite il continue avec les
+                     taureaux, qui doivent être engraissés avant l’accouplement tandis que les
+                     vaches doivent être amaigries ; après l’accouplement, il faut mettre beaucoup
+                     de soin à ce qu’elles se rétablissent et il faut écarter le taon, qui tourmente
+                     terriblement tout leur troupeau. Mais après la mise-bas il faut désormais
+                     reporter tous les soins sur les veaux. Il revient ensuite aux chevaux, à propos
+                     desquels il enseigne comment ils doivent être débourrés dans leur jeune âge, et
+                     dressés quand ils sont dans un âge plus vigoureux. Il dit ensuite que l’un et
+                     l’autre animal doivent être préservés d’une pratique excessive de Vénus ; en
+                     cet endroit, les chevaux ayant été laissés de côté, il s’occupe des taureaux,
+                     qu’il faut mettre à la pâture, loin des femelles ou sont enfermés devant des
+                     mangeoires. A cette occasion, il décrit admirablement les combats de taureaux
+                     pour la possession de la vache. A partir de là il s’écarte de son sujet pour
+                     décrire abondamment les amours de tous les animaux et il s’arrête sur la
+                     jument, dont les amours sont furieuses au plus haut point, et il aborde les
+                     prémices de l’amour chez cette bête ; il raconte le prodige à propos de leur
+                     fécondation par les vents, et parle de l’hippomane. La troisième partie
+                     comprend le développement sur les ovins et les caprins, développement difficile
+                     parce qu’il est ténu et c’est la raison pour laquelle il renouvelle son
+                     invocation. Il enseigne que les ovins et les caprins doivent être nourris à
+                     demeure pendant l’hiver et il compare les deux troupeaux et il aborde la
+                     méthode pour les faire paître en commun. Ensuite, il aborde la méthode qui a
+                     cours en Afrique puis celle qui a cours dans les lieux les plus froids. La
+                     quatrième partie englobe des préceptes spécifiques<note resp="TeamVirgilius"
+                        >Nous choisissons de traduire<quote>
+                           <foreign xml:lang="lat">peculiaria</foreign>
+                        </quote>par "spécifiques", afin de rendre compte du jeu de mots probable sur<mentioned>
+                           <foreign xml:lang="lat">pecus</foreign>
+                        </mentioned>(et ainsi, en français, sur "espèce".</note>, relatifs d’abord
+                     au soin de la laine, ensuite au lait, en troisième lieu aux chiens, en
+                     quatrième lieu sur les moyens de faire fuir les serpents qui tourmentent les
+                     troupeaux – c’est là qu’il fait la mention particulière du chélydre -, en
+                     cinquième lieu, sur la manière de soigner la gale et les maladies des
+                     troupeaux. La dernière partie est un long excursus consacré à la description de
+                     la peste par laquelle le petit bétail et les autres bêtes ont été anéantis. Et
+                     parce que ce livre contient principalement un développement sur les chevaux et
+                     les taureaux, il emploie un plus grand nombre de vers pour l’épidémie chez les
+                     chevaux, puis chez les taureaux. Et après ces deux animaux, il introduit les
+                     ravages causés chez les autres bêtes ; il suscite des émotions remarquables, et
+                     achève le livre.<note resp="TeamVirgilius">Quand il est question d’excursus
+                        poétique (explicitement, à propos de la course de chevaux – qui n’est
+                        d’ailleurs pas comptée, d'habitude, parmi les digressions principales de
+                           cette<emph>Géorgique</emph>- et, de manière relativement moins nette, à
+                        propos des "grands" passages sur Amour et Mort), La Cerda assume apparemment
+                        une dissociation entre la matière première du poème, qui relève de l’utile,
+                        et ce à quoi le poème tend dans le mouvement centrifuge (ou pour reprendre
+                        l’image du commentateur, de va-et-vient incessants) qui le caractérise tant,
+                        une matière (plus) "poétique". La Cerda assume d’ailleurs le caractère
+                        fragmenté, morcelé, du livre (<quote>
+                           <foreign xml:lang="lat">diuulsa</foreign>
+                        </quote>, au début de l’<foreign xml:lang="lat">argumentum</foreign>,
+                        s’applique sans doute à la<foreign xml:lang="lat"
+                        >tractatio</foreign>effectuée par le poète même et ne semble pas
+                        péjoratif).</note>
+                  </p>
+               </div>
+               <div type="chapter" n="1">
+                  <div type="argumentum" n="1" corresp="#LC-T1-G3-1-A-LA">
+                     <p>Il expose la matière de ce livre et il rejette les fables des poètes.</p>
+                  </div>
+                  <div type="commentary" n="1">
+                     <p>
+                        <seg type="explicatio" n="a" corresp="#LC-T1-G3-1-E-a-LA">En faisant
+                           allusion aux livres précédents dans lesquels étaient nommés Cérès,
+                           Bacchus et d’autres dieux, il dit :<quote type="paraphrase">"Ainsi, je
+                              vous chanterai vous aussi, ô Palès, ô Apollon"</quote>. Alors qu’il
+                           s’apprête à parler des animaux, il invoque, à juste titre, Palès, déesse
+                           des pâturages, comme il invoque, pour les céréales, Cérès, pour les
+                           vignes, Bacchus. En effet, il existe une déesse Palès<mentioned>
+                              <foreign xml:lang="lat">Nomia</foreign>
+                           </mentioned>, comme un Apollon<mentioned>
+                              <foreign xml:lang="lat">Nomius</foreign>
+                           </mentioned>. Ils sont appelés ainsi d’après les pâturages, auxquels ils
+                           président. Mais alors qu’il nomme Palès de manière claire, il enveloppe
+                           Apollon d’une périphrase en faisant allusion à la fable selon laquelle il
+                           fit paître les troupeaux du roi Admète près de l’Amphryse, cours d’eau de
+                           Thessalie. C’est comme s’il disait :<quote type="paraphrase">"Je vais te
+                              chanter, Apollon, toi que l’on doit mentionner à partir de
+                              l’Amphryse"</quote>. Il ajoute qu’il va chanter les forêts et les
+                           rivières du Lycée, c’est-à-dire, d’Arcadie, partie du monde
+                           particulièrement riche en moutons. C’est pourquoi il a mentionné ce lieu
+                           par excellence (<mentioned>
+                              <foreign xml:lang="grc">κατ΄ ἐξοχὴν</foreign>
+                           </mentioned>
+                           <!-- expliquer peut-être notre trad. de l'expression grecque, à indexer comme notion rhétorico-styl. -->).</seg>
+                        <seg type="explicatio" n="b" corresp="#LC-T1-G3-1-E-b-LA">Il a exposé ce
+                           qu’il voulait dire, maintenant il passe en poète aux fables qu’il ne veut
+                           pas aborder, parce qu’elles sont trop connues et qu’à ce titre elles ne
+                           servent qu’à tenir vainement en suspens les esprits oisifs.</seg>
+                        <seg type="explicatio" n="c" corresp="#LC-T1-G3-1-E-c-LA">Il prouve que ces
+                           fables sont trop connues. En effet, qui ignore qu’Eurysthée fit preuve de
+                           dureté en imposant ses ordres à Hercule ? Qui ignore les autels du roi
+                           d’Egypte Busiris qui immolait ses hôtes ? A cause de ces méfaits, il
+                           encourut une telle haine de la part des mortels que partout on le disait<mentioned>
+                              <foreign xml:lang="lat">illaudatus</foreign>
+                           </mentioned>, c’est-à-dire "digne d’aucune louange" (<mentioned>
+                              <foreign xml:lang="lat">nulla dignus laude</foreign>
+                           </mentioned>), mais "digne de tous les outrages" (<mentioned>
+                              <foreign xml:lang="lat">omni dignus contumelia</foreign>
+                           </mentioned>). Il continue. Qui n’a pas chanté Hylas, le jeune amant
+                           d’Hercule, enlevé par les Nymphes dans une source ? Qui ne connaît Délos,
+                           dite "île de Latone" (<mentioned>
+                              <foreign xml:lang="lat">Latonia</foreign>
+                           </mentioned>), parce que Latone y donna naissance à Phoebus et Diane ?
+                           Qui ne connaît Hippodamie qui épouse Pélops ? Qui ne connaît Pélops
+                           lui-même, qui obtint la victoire à la course de chars et mérita d’épouser
+                           Hippodamie, et qui avait une épaule d’ivoire à la place d’une épaule de
+                           chair ?</seg>
+                        <seg type="explicatio" n="d" corresp="#LC-T1-G3-1-E-d-LA">Il conclut en
+                           disant qu’il sera lui aussi illustre en traitant le sujet qu’il a choisi
+                           de chanter, non moins que les autres poètes dans les sujets évoqués
+                           auparavant ; plus encore, il dit qu’il triomphera sur eux.</seg>
+                        <seg type="nota" n="1" corresp="#LC-T1-G3-1-N-1-LA">
+                           <quote type="lemme">Pales</quote>
+                           <!--note marginale--><bibl><author>Ovide</author></bibl> au livre IV des<bibl>
+                              <title>Fastes</title>
+                           </bibl>, en la louant grandement, nomme cette
+                              déesse<quote>patronne</quote>des bergers.
+                                 <bibl><author>Virgile</author></bibl> ici la
+                              nomme<quote>grande</quote>, plus bas,<quote>vénérable</quote>, dans le<bibl>
+                              <title>Culex</title>
+                           </bibl>,<quote>sainte</quote>. Outre ceux-là, d’autres éloges se trouvent
+                           ça et là chez les poètes. Cette déesse reçut un culte qui l’honorait
+                           particulièrement de la part des bergers. C’est pourquoi elle est invoquée
+                           par <bibl><author>Ovide</author></bibl> au livre IV des<bibl>
+                              <title>Fastes</title>
+                           </bibl>:<quote>Palès nourricière, sois favorable à celui qui chante les
+                              rites des bergers</quote>. C’est pourquoi ils lui faisaient des
+                           offrandes avec du lait. <bibl><author>Ovide</author></bibl> et
+                                 <bibl><author>Tibulle</author></bibl> l’attestent. Le premier, en
+                           disant :<quote>Prie Palès avec du lait tiède</quote>et le
+                              second,<quote>répandre du lait couleur de neige sur la pacifique
+                              Palès</quote>. Voilà pourquoi <bibl><author>Nonnos</author></bibl> la
+                              nomme<quote>féconde</quote>. Voilà pourquoi, pour finir, elle est
+                           invoquée ici par le poète. Je laisse de côté beaucoup de points relatifs
+                           à la manière dont cette divinité est honorée par excellence chez les
+                           bergers. Ce que les commentateurs enseignent à cet endroit au sujet des
+                           Palilia ou des Parilia est oiseux par rapport au poète. Qu’il suffise de
+                           savoir que l’anniversaire de Rome tombait le jour de la célébration des
+                           Palilia<!-- note  à prévoir sur ces fêtes -->par les bergers.</seg>
+                        <seg type="nota" n="2" corresp="#LC-T1-G3-1-N-2-LA">
+                           <quote type="lemme">Memorande canemus pastor ab Amphryso</quote>
+                           <!--note marginale-->Phoebus a été au service du roi Admète, et il a paît
+                           ses brebis près de l’Amphryse. <bibl><author>Panyasis</author></bibl>
+                           dans l’<bibl>
+                              <title>Héraclée</title>
+                           </bibl>, que <bibl><author>Clément</author></bibl> cite dans le<bibl>
+                              <title>Proptreptique</title>
+                           </bibl>en énumérant les dieux qui connurent un tel service, après
+                           d’autres :<cit>
+                              <quote>
+                                 <foreign xml:lang="grc">τλῆ δὲ καὶ ἀργυρότοξος ἀπόλλων ἀνδρὶ παρὰ
+                                    θνητῷ θητεύσεμεν εἰς ἐνιαυτὸν</foreign>
+                              </quote>
+                              <quote type="translation">Apollon Phoebus a lui-même supporté de louer
+                                 ses services pour un salaire de mortel</quote>
+                           </cit>. Apollon lui-même dit chez <bibl><author>Euripide</author></bibl>
+                           au début de l’<bibl>
+                              <title>Alceste</title>
+                           </bibl>qu’il a été contraint de se mettre au service d’un homme mortel
+                           par Jupiter pour accomplir une expiation.
+                                 <bibl><author>Phérécyde</author></bibl>, cité par
+                                 <bibl><author>Ursinus</author></bibl> :<cit>
+                              <quote>
+                                 <foreign xml:lang="grc">παρ' αὐτὸν τὸν ἀδμήτον ἕρχεται ἀπόλλων
+                                    θητεύσων ἐνιαυτὸν, διός κελεύσαντος</foreign>
+                              </quote>
+                              <quote type="translation">Apollon est venu chez Admète pour se mettre
+                                 à son service pendant un an, sur l’ordre de Jupiter</quote>
+                           </cit>. <bibl><author>Lucain</author></bibl> au livre VI
+                              :<quote>L’Amphryse irrigue les pâturages de Phoebus devenu
+                              serviteur</quote>. Je laisse de côté
+                              <bibl><author>Tibulle</author></bibl>, au livre II,
+                                 <bibl><author>Sénèque</author></bibl> dans<bibl>
+                              <title>Hippolyte</title>
+                           </bibl>, <bibl><author>Prudence</author></bibl> dans l’hymne X du<bibl>
+                              <title>Peristephanon</title>
+                           </bibl>, <bibl><author>Nonnos</author></bibl>, au livre X des<bibl>
+                              <title>Dionysiaques</title>
+                           </bibl>et d’autres. J’ai dit et j’ai documenté qu’Apollon avait été
+                           serviteur. Mais pourquoi cette servitude donne-t-elle lieu à un si grand
+                           éloge au point qu’il est dit ici<mentioned>
+                              <foreign xml:lang="lat">memorandus</foreign>
+                           </mentioned>(que l'on doit mentionner) à ce titre ? Il y a deux
+                           explications. La première, c’est qu’il a acquis à ce titre une épiclèse
+                           remarquable, et une partie de sa divinité. C’est en effet à ce titre
+                           qu’il a été appelé<mentioned>
+                              <foreign xml:lang="lat">Nomios</foreign>
+                           </mentioned>. <bibl><author>Callimaque</author></bibl> dans l’hymne
+                           adressé à ce dieu :<cit>
+                              <quote>
+                                 <foreign xml:lang="grc">φοῖβον καὶ νόμιον κικλήσκομεν ἐξέτι
+                                    κείνου,<lb/>ἐξότ´ ἐπ´ἀμφρυσσῷ ζευγίτιδας ἔτρεφεν
+                                    ἵππους<lb/>ἠιθέου ὑπ´ ἔρωτι κεκαυμένος ἀδμήτοιο</foreign>
+                              </quote>
+                              <quote type="translation">Nous avons dit aussi Phoebus au surnom de
+                                 berger, parce que berger il fit paître les chevaux du quadrige près
+                                 des cours de l’Amphryse, enflammé d’un grand amour pour
+                                 Admète</quote>
+                           </cit>. Mais il n’a pas seulement, à ce titre, été appelé<!-- est-ce que ce sont vraiment des autonymes ici? est-ce qu'on ne devrait pas plutôt mettre des balises pour le grec et se contenter d'avoir dans le latin des balises index pour ces noms du dieu? guillemets autour des traductions françaises en parenthèses?--><mentioned>
+                              <foreign xml:lang="grc"/>νόμιος</mentioned>(pastoral), mais aussi<mentioned>
+                              <foreign xml:lang="grc">ποίμνιος</foreign>
+                           </mentioned>(des troupeaux),<mentioned>
+                              <foreign xml:lang="grc">ἀγραῖος</foreign>
+                           </mentioned>(qui préside à la chasse),<mentioned>
+                              <foreign xml:lang="grc">ἐπιμύλιος</foreign>
+                           </mentioned>(protecteur de la meule),<mentioned>
+                              <foreign xml:lang="grc">ἀρνοκόμης</foreign>
+                           </mentioned>(aux cheveux bouclés comme une toison d'agneau),<mentioned>
+                              <foreign xml:lang="grc">ναπαῖος</foreign>
+                           </mentioned>(qui réside dans les vallons boisés). La seconde explication
+                           peut être cherchée chez <bibl><author>Euripide</author></bibl>, où
+                           Phoebus lui-même dit de manière détournée qu’il a même été envoyé en exil
+                           et contraint à la servitude, mais qu’il a conservé ce lieu par sa
+                           présence :<cit>
+                              <quote>
+                                 <foreign xml:lang="grc">καὶ τὸν δ’ ἔσωζον οἶκον ἐς τόδ’
+                                    ἡμέρας</foreign>
+                              </quote>
+                              <quote type="translation">J’ai conservé cette demeure jusqu’à
+                                 aujourd’hui</quote>
+                           </cit>. Je n’ai pas l’intention de raconter en long et en large ces
+                           fables que le poète aborde ici. Dans le cas précis de cette servitude
+                           d’Apollon chez Admète, j’évoquerai cependant le désaccord entre ceux qui
+                           racontent ces fables : <bibl><author>Euripide</author></bibl> dit dans l’<bibl>
+                              <title>Alceste</title>
+                           </bibl>qu’Apollon a été poussé à la servitude par Jupiter, parce qu’il
+                           avait tué les Cyclopes, avec l’aide desquels Jupiter lui-même avait mis à
+                           mort Esculape, le fils d’Apollon, ou chez d’autres, Phaéthon. Beaucoup
+                           sont d’accord avec lui. D’autres pensent que Phoebus s’est de lui-même
+                           voué à la servitude, saisi d’amour pour Admète. C’est la version suivie
+                           par <bibl><author>Callimaque</author></bibl>,
+                                 <bibl><author>Tibulle</author></bibl>, et
+                                 <bibl><author>Rhianos</author></bibl>, que cite
+                                 <bibl><author>Muret</author></bibl> dans son commentaire à
+                                 <bibl><author>Tibulle</author></bibl>.</seg>
+                        <seg type="nota" n="3" corresp="#LC-T1-G3-1-N-3-LA">
+                           <quote type="lemme">Cetera quae uacuas</quote>Il ne fait pas de doutes
+                           qu’il se soit attaché à <bibl><author>Pindare</author></bibl> dans la
+                           première <bibl><title>Olympique</title></bibl>
+                           <!-- voir si l'on maintient l'italique ici -->, d’une part parce que ce
+                           que le poète dit ici au sujet de Pélops est la même chose que ce que
+                                 <bibl><author>Pindare</author></bibl> dit là sur le même sujet,
+                           d’autre part parce que de cette phrase sur les esprits que les fables
+                           tiennent suspendus et bouche bée, et oublieux de soi, sont proches ces
+                           propos de <bibl><author>Pindare</author></bibl> dans le même passage :<cit>
+                              <quote>
+                                 <foreign xml:lang="grc">ἦ θαυματὰ πολλά, καί πού τι καὶ βροτῶν
+                                    φρένα ὑπὲρ τὸν ἀλαθῆ λόγον δεδαιδαλμένοι ψεύδεσι ποικίλοις
+                                    ἐξαπατῶντι μῦθοι</foreign>
+                              </quote>
+                              <quote type="translation">Il est vraiment étonnant à quel point ces
+                                 fables ornées par d’extraordinaires mensonges, au-delà d’un propos
+                                 totalement véridique, trompent l’esprit des mortels à ce
+                                 point</quote>
+                           </cit>. Je n’ai pas voulu m’attacher à une traduction précise pour que tu
+                           comprennes mieux le sens. Je reviens à mon propos. Le même
+                                 <bibl><author>Pindare</author></bibl> dit dans la quatrième ode des<bibl>
+                              <title>Olympiques</title>
+                           </bibl>, οὐ<cit>
+                              <quote>
+                                 <foreign xml:lang="grc">ψεύδεϊ τέγξω λόγον</foreign>
+                              </quote>
+                              <quote type="translation">Je ne donnerai pas de teinture mensongère à
+                                 mon propos</quote>
+                           </cit>. <bibl><author>Manilius</author></bibl> au livre III a repris le
+                           passage virgilien en utilisant d’autres histoires, ou d’autres fables,
+                           qu’il ne veut pas chanter. Il faut lire à partir de ce passage
+                              :<quote>Quant à moi, je ne [chanterai] pas les guerres qui naissent
+                              pour la ruine du ciel</quote>. Je ne donne pas le passage dans son
+                           intégralité parce qu’il est assez long.
+                              <bibl><author>Stace</author></bibl>, louant
+                                 <bibl><author>Lucain</author></bibl> dans les<bibl>
+                              <title>Silves</title>
+                           </bibl>II, reformule <bibl><author>Virgile</author></bibl> ainsi
+                              :<quote>A d’autres la destruction nocturne des Phrygiens, les
+                              itinéraires d’Ulysse qui revient tard, la poupe téméraire de Minerve –
+                              ornières où sont souvent passés les poètes ; mais toi, cher au
+                              Latium...</quote>. Il y a un passage similaire dans
+                                 <bibl><author>Oppien</author></bibl>, au livre I des<bibl>
+                              <title>Cynégétiques</title>
+                           </bibl>, où après qu’il a annoncé ce qu’il allait dire, il ajoute bientôt
+                           les fables qu’il refuse d’aborder. <bibl><author>Agathias</author></bibl>
+                           également dans son prologue déclare qu’il s’est décidé à écrire une
+                           histoire pour que sa vie ne se consume pas<cit>
+                              <quote>
+                                 <foreign xml:lang="grc">μυθολογίᾳ καὶ πόνῳ περιττῷ</foreign>
+                              </quote>
+                              <quote type="translation">dans l’étude des fables et un travail
+                                 vain</quote>
+                           </cit>. Ces propos du<bibl>
+                              <title>Discours</title>
+                           </bibl>IX de <bibl><author>Grégoire de Nazianze</author></bibl> ne sont
+                           pas éloignés :<cit>
+                              <quote>
+                                 <foreign xml:lang="grc">φθέγξομαι τοιγαροῦν οὐ μαλακόντι, καὶ
+                                    ἀναβεβλημμένον οὐ δὲ τῆς ἡδίστης τοῖς πολλοῖς ἁρμονίας</foreign>
+                              </quote>
+                              <quote type="translation">Je ne chanterai rien de doux et de relâché,
+                                 rien qui soit agréable par la plus agréable harmonie pour la
+                                 multitude</quote>
+                           </cit>. Il en va de même pour ceux-là, qu’on lit dans le<bibl>
+                              <title>Discours</title>
+                           </bibl>XXVI :<cit>
+                              <quote>
+                                 <foreign xml:lang="grc">ὴν δὲ πολλὴν φλυαρίαν καὶ τὰς βεβλήλους
+                                    κενοφωνίας τῶν λόγων τοῖς σχολὴν ἀποτίθεσθαι</foreign>
+                              </quote>
+                              <quote type="translation">éloigner vers les hommes oisifs les
+                                 fantaisies verbeuses et ces vulgaires innovations verbales</quote>
+                           </cit>. <bibl><author>Dion Chrysostome</author></bibl> dans son<bibl>
+                              <title>Discours</title>
+                           </bibl>XXXIII s’étend largement sur ce sujet.</seg>
+                        <seg type="nota" n="4" corresp="#LC-T1-G3-1-N-4-LA">
+                           <quote type="lemme">Omnia iam uulgata</quote>Cela est pris de
+                                 <bibl><author>Choerilos</author></bibl>, dit
+                                 <bibl><author>Muret</author></bibl>. Et on se demande quels sont
+                           ces sujets de discours qui ont été précédemment traités.<note>
+                              <foreign xml:lang="lat">Quae</foreign>est traduit comme un relatif de
+                              liaison, pour<foreign xml:lang="lat">et ea</foreign>, mais<foreign
+                                 xml:lang="lat">quaeritur</foreign>au singulier reste
+                              troublant</note>
+                        </seg>
+                        <seg type="nota" n="5" corresp="#LC-T1-G3-1-N-5-LA">
+                           <quote type="lemme">Quis aut Euristhea durum</quote>
+                           <bibl><author>Vrsinus</author></bibl> veut que, s’agissant de ces fables,
+                                 <bibl><author>Virgile</author></bibl> ait considéré de préférence
+                           des auteurs précis : dans le cas d’Eurysthée,
+                                 <bibl><author>Homère</author></bibl>, qui raconte cela largement,
+                           dans le cas de Busiris, <bibl><author>Mnésimaque</author></bibl>, dont le<bibl>
+                              <title>Busiris</title>
+                           </bibl>est cité par <bibl><author>Athénée</author></bibl>, livre IX ;
+                           dans le cas d’Hylas, <bibl><author>Théocrite</author></bibl>, de Délos
+                           Latonienne, <bibl><author>Callimaque</author></bibl>, dans celui
+                           d’Hippodamie et Pélops, <bibl><author>Pindare</author></bibl> dans la
+                           première ode des<bibl>
+                              <title>Olympiques</title>
+                           </bibl>. Je constate que le poète par cet excursus réfute discrètement
+                           l’opinion de ceux qui disent que les poètes sont seulement asservis au
+                           plaisir et non pas à l’utilité des mortels ; proche de cette idée est ce
+                           mot d’<bibl><author>Euripide</author></bibl> dans
+                                 <bibl><author>Aristophane</author></bibl> :<cit>
+                              <quote>
+                                 <foreign xml:base="gr"/>βελτίους δὲ ποιοῦμεν τοὺς ἀνθρώπους</quote>
+                              <quote type="translation">Nous rendons les hommes meilleurs</quote>
+                           </cit>. Et de <bibl><author>Cicéron</author></bibl> qui écrit ainsi
+                              :<quote>S’ajoutent encore les poètes qui, dès lors qu’ils ont affiché
+                              une apparence d’érudition et de sagesse, sont entendus, lus, appris
+                              par coeur, et se gravent profondément dans les esprits</quote>.
+                                 <bibl><author>Proclus</author></bibl> a dit aussi que les poètes
+                           n’ont pas pour but le plaisir de l’auditoire.
+                                 <bibl><author>Victorinus</author></bibl>, livre XXIV, chapitre 1, a
+                           fait le lien. J’ai transposé cela à <bibl><author>Virgile</author></bibl>
+                           qui méprise dans ce passage toutes les affabulations et qui s’attache à
+                           ne traiter que l’économie rurale, parce qu’elle est très utile.</seg>
+                        <seg type="nota" n="6" corresp="#LC-T1-G3-1-N-6-LA">
+                           <quote type="lemme"
+                              >Illaudati<!-- il y a un tiret équivalent de notre [...] Que faire? -->Busiridis</quote>
+                           <!--note marginale--><bibl><author>Agellius</author></bibl><note
+                              resp="TeamVirgilius">Agellius ou Antonio Agelli (1532-1608).</note>
+                           <!-- note à compléter -->, livre II, chapitre 6, explique le poète de
+                           deux manières :<mentioned>
+                              <foreign xml:lang="lat">illaudatus</foreign>
+                           </mentioned>signifie "le pire" (<mentioned>
+                              <foreign xml:lang="lat">pessimus</foreign>
+                           </mentioned>) ou "le plus mauvais" (<mentioned>
+                              <foreign xml:lang="lat">deterrimus</foreign>
+                           </mentioned>) de tous, en ce qu’il n’a rien qui puisse être loué – une
+                           privation hors normes parce que personne n’est vaurien au point de ne pas
+                           avoir quoi que ce soit qui convienne à un éloge ; ou bien cela signifie
+                           "qu’on ne doit pas nommer" (<mentioned>
+                              <foreign xml:lang="lat">non nominandus</foreign>
+                           </mentioned>), parce que pour les anciens<mentioned>
+                              <foreign xml:lang="lat">laudare</foreign>
+                           </mentioned>signifiait "nommer" (<mentioned>
+                              <foreign xml:lang="lat">nominare</foreign>
+                           </mentioned>). <bibl><author>Agellius</author></bibl> s’étend
+                           particulièrement sur cela et, à partir de là, sur tout ce qui se trouve
+                           dans <bibl><author>Macrobe</author></bibl>, au livre VI, chapitre 7<note
+                              resp="TeamVirgilius">Dans ce chapitre de Macrobe,<mentioned>
+                                 <foreign xml:lang="lat">illaudatus</foreign>
+                              </mentioned>employé par Virgile à propos de Busiris est un exemple de
+                              mots mal choisis par le poète en tant qu'ils sont trop inférieurs à la
+                              réalité, souvent horrible, à laquelle ils
+                           réfèrent.</note>.<!--  vérifier Agellius et la traduction de ex quo omnia-->C’est
+                           la dernière explication que préfère aussi
+                              <bibl><author>Budé</author></bibl>.
+                              <bibl><author>Turnèbe</author></bibl> dans ses<bibl>
+                              <title>Aduersaria</title>
+                           </bibl>, chapitre 16, explique<mentioned>
+                              <foreign xml:lang="lat">illaudatus</foreign>
+                           </mentioned>en lui donnant le sens de<mentioned>
+                              <foreign xml:lang="lat">illaudabilis</foreign>
+                           </mentioned>(qu’on ne saurait louer), comme chez
+                                 <bibl><author>Cicéron</author></bibl><mentioned>
+                              <foreign xml:lang="lat">indissolutus</foreign>
+                           </mentioned>(non dissolu) est pour<mentioned>
+                              <foreign xml:lang="lat">indissolubilis</foreign>
+                           </mentioned>(indissoluble). Mais ce qui me fait surtout sourire est que
+                           Busiris soit mentionné en référence à
+                              <bibl><author>Isocrate</author></bibl>, qui dédia un discours
+                           particulier à l’éloge de Busiris. Or le poète se rit ici de cet éloge,
+                           comme si <bibl><author>Isocrate</author></bibl> n’avait pas su louer
+                           Busiris. En l’occurrence c’est comme s’il disait :<quote
+                              type="paraphrase">Qui ne connaît les autels de Busiris toujours aussi
+                              indigne de louanges (<mentioned>
+                                 <foreign xml:lang="lat">illaudatus</foreign>
+                              </mentioned>) après Isocrate ?</quote>. Qui lit le discours en
+                           question sera de ce sentiment. En effet après de nombreuses
+                           considérations préliminaires sur la naissance, la noblesse, la prévoyance
+                           de Busiris, lorsqu’il en vient à dissiper l’accusation de cruauté, pour
+                           toute réfutation on a, d’une part, une négation des faits sur la base
+                           d’un calcul chronologique en vertu duquel il dit qu’Hercule (dont
+                           beaucoup font le vengeur d’une si grande cruauté) était antérieur à
+                           Busiris de nombreuses années ; d’autre part, un étonnement vis-à-vis de
+                           ceux qui controuvent de tels crimes alors que cela ne saurait convenir à
+                           de grands hommes, des fils de dieux, comme l’était Busiris qui était fils
+                           de Neptune. L’un et l'autre raisonnements adoptés pour dissiper
+                           l’accusation sont futiles et vains. Au premier on peut en effet rétorquer
+                           qu’il y eut beaucoup d’Hercules, ce qui est manifeste chez tous les
+                           écrivains. Quant au second, il est facile à dissiper dès lors qu’on a lu
+                           les histoires de viol, d’adultère, les abominations et toutes les
+                           atrocités commises par les dieux de ce temps-là. Qu’y a-t-il donc
+                           d’étonnant à ce que des fils nés de tels parents aient commis de tels
+                           crimes ? Et le fait que ces actes infamants des dieux soient niés, au
+                           même endroit, par Isocrate, n’y peut rien. Ainsi, le poète (comme le fait
+                           souvent aussi <bibl><author>Cicéron</author></bibl>) se rit de
+                           l’éloquence futile des Grecs dont les tentatives peuvent être facilement
+                           déjouées. C’est certainement ce que le poète insinue plus bas quand il
+                              dit<quote>voler, vainqueur, sur les bouches des hommes</quote>. Il
+                           parle alors en référence aux Grecs qui ont choisi des sujets particuliers
+                           et auxquels il va, dit-il, arracher la victoire.</seg>
+                        <seg type="nota" n="7" corresp="#LC-T1-G3-1-N-7-LA">
+                           <quote type="lemme">Dictus</quote>
+                           <!--note marginale--><bibl><author>Scaliger</author></bibl> a raison de
+                           rappeler au livre I de la<bibl>
+                              <title>Poétique</title>
+                           </bibl>, chapitre 41, que par ce verbe on donne à entendre les poètes
+                           épiques ; en effet<mentioned>
+                              <foreign xml:lang="grc">εἰπεῖν</foreign>
+                           </mentioned>(parler) et<mentioned>ἔπος</mentioned>(parole) ont déjà été
+                           traduits en ce sens. Ainsi, <bibl><author>Horace</author></bibl>
+                              :<quote>Courageux, vainqueur de l’ennemi, tu seras célébré (<mentioned>
+                                 <foreign xml:lang="lat">diceris</foreign>
+                              </mentioned>) par Varius, oiseau au chant méonien, avec tout ce que,
+                              sous ta conduite, le soldat farouche a fait, porté sur des vaisseaux
+                              ou sur tes chevaux</quote>. De fait, dans ces vers, par le verbe signalé,<mentioned>
+                              <foreign xml:lang="lat">diceris</foreign>
+                           </mentioned>
+                           <!-- ou on rétablit dicere en traduisant? -->, on indique la matière des
+                           poètes épiques, chef, soldat, flotte, cheval, victoire<note
+                              resp="Team Virgilius">Cette phrase, à partir de<quote>
+                                 <foreign xml:lang="lat">declaratur</foreign>
+                              </quote>, reprend les mots de Scaliger même. Par contre, Scaliger cite
+                              l'emploi présent de<mentioned>
+                                 <foreign xml:lang="lat">dico</foreign>
+                              </mentioned>par Virgile pour dire que le verbe, équivalent de<mentioned>
+                                 <foreign xml:lang="grc">εἰπεῖν</foreign>
+                              </mentioned>en grec, peut être employé aussi en référence à d'autres
+                              genres de chants (qu'épiques).</note>. C’est ainsi dans
+                                 <bibl><author>Homère</author></bibl> :<quote>
+                              <foreign xml:lang="grc">ἄνδρα μοι ἔννεπε μοῦσα</foreign>
+                           </quote>
+                           <note>"Célèbre-moi l'homme, Muse."</note>.</seg>
+                        <seg type="nota" n="8" corresp="#LC-T1-G3-1-N-8-LA">
+                           <quote type="lemme">Humeroque Pelops insignis eburno</quote>
+                           <!-- NPO en marge : l’épaule d’ivoire de Pélops -->Pélops fut cuit par
+                           son père Tantale et donné à manger aux dieux ; bientôt il fut rendu à la
+                           vie sain et sauf, mise à part son épaule que Cérès avait dévorée. En
+                           remplacement, une autre épaule en ivoire lui fut donnée. De ce fait il a
+                           été désigné par <bibl><author>Stace</author></bibl>, dans la<bibl>
+                              <title>Thébaïde</title>
+                           </bibl>IV, comme<quote>l’amputé</quote>. Cette fable a connu une telle
+                           renommée que si le poète dit Pélops<mentioned>
+                              <foreign xml:lang="lat">insignis</foreign>
+                           </mentioned>(illustre), c’est à cause de cette épaule.
+                                 <bibl><author>Pindare</author></bibl> aussi, dans l’ode I des<bibl>
+                              <title>Olympiques</title>
+                           </bibl>:<cit>
+                              <quote>
+                                 <foreign xml:lang="grc">ἐλέφαντι φαιδίμον ὦμον κεκαδμένον</foreign>
+                              </quote>
+                              <quote type="translation">son épaule resplendissante, ornée
+                                 d’ivoire</quote>
+                           </cit>. <bibl><author>Apollonios</author></bibl> également, au livre I :<cit>
+                              <quote>
+                                 <foreign xml:lang="grc">πελοπήια νῶτα</foreign>
+                              </quote>
+                              <quote type="translation">dos de Pélops</quote>
+                           </cit>. <bibl><author>Grégoire de Nazianze</author></bibl> encore, dans son<bibl>
+                              <title>Discours contre Julien</title>
+                           </bibl>, I<!--j'ai modifié ici la présentation du titre en vue de la mise en italiques, je ne sais pas si elle est correcte-->:<cit>
+                              <quote>
+                                 <foreign xml:lang="grc">ἐξ ἧς (κρεουργίας) ἐπίσημοι πελοπίθαι παρὰ
+                                    τῶν ὦμων, καὶ τοῦ ἐλέφαντος</foreign>
+                              </quote>
+                              <quote type="translation">Et à partir de celle-ci (de cette
+                                 opération), les Pélopides furent illustrés par l’épaule
+                                 d’ivoire</quote>
+                           </cit>. Et dans l’<bibl>
+                              <title>Epître à Themistius</title>
+                           </bibl>,
+                           il<!-- l'auteur de cette épître, pour nous en tout cas, est l'empereur Julien -->dit :<cit>
+                              <quote>
+                                 <foreign xml:lang="grc">σπαρτίατας ἡ λόγχη γνωρίζει, ὦμος τοὺς
+                                    πελοπίδας, λόγοι τὸν μέγαν θεμίστιον</foreign>
+                              </quote>
+                              <quote type="translation">Leur lance fait l’illustration des
+                                 Spartiates, une épaule fait celle des Pélopides, ses discours celle
+                                 du grand Themistius</quote>
+                           </cit>. De nouveau, dans son poème à Nicobule, en un éloge remarquable:<cit>
+                              <quote xml:lang="grc">πέλοπός τε γένος, πελοπήιον ὦμον</quote>
+                              <quote type="translation">la race de Pélops et l’épaule
+                                 pélopide</quote>
+                           </cit>, mots par lesquels il veut dire que c’est l’épaule de Pélops qui a
+                           fait la gloire de la race de Pélops ; et au même endroit, il adjoint ce
+                           qui concerne la lance et les Spartiates. Cet éloge ressort aussi de
+                                 <bibl><author>Dion Chrysostome</author></bibl>,<bibl>
+                              <title>Discours</title>
+                           </bibl>, VIII, même si c’est sous la forme d’un blâme :<cit>
+                              <quote>
+                                 <foreign xml:lang="grc">περὶ δέ τοῦ πέλοπος ἔλεγκον; ὅτε καὶ τὸν
+                                    ὦμον ἐλεφάντινον ἔχοι, ὥσπερ τι ὄφελος ἀνθρώπου χρυσῆν χεῖρα, ἢ
+                                    ἐλεφαντίνην ἔχοντος, ἢ ὀφθαλμοὺς ἀδάμαντος, ἢ
+                                    σμαράγδου</foreign>
+                              </quote>
+                              <quote type="translation">Ils disaient de Pélops qu’il avait une
+                                 épaule d’ivoire, comme s’il y avait quelque avantage pour un homme
+                                 de se trouver doté d’une main en or ou en ivoire, ou encore d’yeux
+                                 en acier ou en émeraude</quote>
+                           </cit>. C’est peut-être en référence à cette épaule d’ivoire que
+                                 <bibl><author>Julius Capitolinus</author></bibl> a écrit dans la<bibl>
+                              <title>Vie de Marc Aurèle</title>
+                           </bibl>:<quote>C’est précisément le jour de son adoption que Lucius Vérus
+                              déclare avoir vu en songe qu’il était doté d’épaules d’ivoire</quote>.
+                           L’auteur rattache ce présage, en cet endroit, à la fermeté dont le prince
+                           était pourvu pour assumer l’empire. On n'oubliera pas d'observer le fait
+                           qu'une main en ivoire est aussi donnée à Pélops par
+                                 <bibl><author>Stace</author></bibl>,<bibl>
+                              <title>Thébaïde</title>
+                           </bibl>, VII</seg>
+                        <seg type="nota" n="9" corresp="#LC-T1-G3-1-N-9-LA">
+                           <quote type="lemme">Acer equis</quote>Voilà un nouvel éloge de Pélops,
+                           par la victoire qu’il a remportée sur Myrtilos dans la course de chars
+                           qui lui donna la main d’Hippodamie : c’était l’enjeu que le père
+                           d’Hippodamie, Ocromaos,<!--on ne corrige pas le nom ?-->avait fixé.</seg>
+                        <seg type="nota" n="10" corresp="#LC-T1-G3-1-N-10-LA">
+                           <quote type="lemme">Temptanda uia est</quote>J’ai indiqué assez souvent
+                           que le Grec <bibl><author>Oppien</author></bibl> s’était mis en bien des
+                           endroits dans les pas de <bibl><author>Virgile</author></bibl>. Ces vers
+                           du livre I des<bibl>
+                              <title>Cynégétiques</title>
+                           </bibl>le feront voir clairement – <bibl><author>Fulvio
+                              Orsini</author></bibl> le dit aussi :<cit>
+                              <quote>
+                                 <foreign xml:lang="grc">ἔγρεο καὶ τρηχεῖαν ἐπιστείβωμεν ἀταρπὸν,
+                                    τὴν μερόπων οὔπω τις ἑῆις ἐπάτησεν ἀοιδαῖς</foreign>
+                              </quote>
+                              <quote type="translation">Debout ! Engageons-nous sur la voie ardue
+                                 que nul parmi les hommes n’a encore foulée de ses vers</quote>
+                           </cit>. J’indiquerai plusieurs passages similaires à celui-ci plus bas
+                           dans ce livre.</seg>
+                        <seg type="nota" n="11" corresp="#LC-T1-G3-1-N-11-LA">
+                           <quote type="lemme">Me quoque</quote><bibl><author>Ovide</author></bibl>,
+                           au livre I des<bibl>
+                              <title>Amours</title>
+                           </bibl>, avec une ambition égale :<quote>Nous aussi, nous serons chanté
+                              également dans le monde entier</quote>.</seg>
+                        <seg type="nota" n="12" corresp="#LC-T1-G3-1-N-12-LA">
+                           <quote type="lemme">Tollere humo</quote>Par une formulation similaire,
+                                 <bibl><author>Horace</author></bibl>, dans la deuxième ode du livre
+                           III :<quote>il dédaigne les attroupements du vulgaire, l’humidité du sol,
+                              dans sa fuite ailée</quote>, et <bibl><author>Pindare</author></bibl>,
+                           dans la neuvième<bibl>
+                              <title>Olympique</title>
+                           </bibl>
+                           <!--voir si l'on maintient l'italique dans ce cas-->, lorsqu’il dit qu’il
+                           ne doit pas aborder des<cit>
+                              <quote>
+                                 <foreign xml:lang="grc">λόγους χαμαιπέτεους</foreign>
+                              </quote>
+                              <quote type="translation">propos qui rampent sur le sol</quote>
+                           </cit>. <bibl><author>Properce</author></bibl> aussi, au livre III
+                              :<quote>grâce auxquels la renommée me soulève de terre, dans les
+                              airs</quote>. A partir de notre passage,
+                              <bibl><author>Ovide</author></bibl>,<bibl>
+                              <title>Métamorphoses</title>
+                           </bibl>, VII :<quote>et se lever du sol, debout, le buste droit</quote>.
+                           Ailleurs aussi, <bibl><author>Pline</author></bibl>, au livre V des<bibl>
+                              <title>Lettres</title>
+                           </bibl>:<quote>Jour et nuit je ne fais que penser à un moyen par lequel
+                              je pourrais m’élever au-dessus du sol</quote>. Une formulation
+                           semblable se trouve dans <bibl><author>Valerius Flaccus</author></bibl>,<bibl>
+                              <title>Argonautiques</title>
+                           </bibl>, I, même si l’idée est différente :<quote>Arrache-moi aux peuples
+                              et à la terre qui détient les nuages</quote>- en effet il veut être
+                           élevé au-dessus du sol par la faveur de son prince.</seg>
+                        <seg type="nota" n="13" corresp="#LC-T1-G3-1-N-13-LA">
+                           <quote type="lemme">Victorque uirum uolitare per
+                                 ora</quote><bibl><author>Martial</author></bibl> s’adressant à son
+                           propre livre,<bibl>
+                              <title>Epigrammes</title>
+                           </bibl>, livre I, 4 :<quote>Tu désires, folâtre, voler parmi les souffles
+                              de l’éther</quote>. Dans un tour différent, en<bibl>
+                              <title>Enéide</title>
+                           </bibl>XII :<quote>Il sera porté, vivant, sur les bouches</quote>. Avant
+                           notre poète, <bibl><author>Ennius</author></bibl> dans son épitaphe
+                              :<quote>Je vole sur les bouches savantes des hommes</quote>. Avant
+                           l’un et l’autre, <bibl><author>Pindare</author></bibl> dans l’ode VI des<bibl>
+                              <title>Néméennes</title>
+                           </bibl>:<cit>
+                              <quote>
+                                 <foreign xml:lang="grc">πέτεται δ’ ἐπί τε χθόνα καὶ διὰ θαλάσσας
+                                    τηλόθεν ὄνυμ’ αὐτῶν</foreign>
+                              </quote>
+                              <quote type="translation">Leur nom vole au loin, au-dessus de la terre
+                                 et de la mer</quote>
+                           </cit>. Les Grecs appellent un tel homme<mentioned>
+                              <foreign xml:lang="grc">περιβόητος</foreign>
+                           </mentioned>
+                           <!-- donner la traduction entre parenthèses -->parce qu’il est célébré
+                           par la voix de tous. Ainsi <bibl><author>Grégoire de
+                              Nazianze</author></bibl>,<bibl>
+                              <title>Discours</title>
+                           </bibl>XXIII, appelle<quote>
+                              <foreign xml:lang="grc">περιβόητον</foreign>
+                           </quote>la main de l’homme qu’Athanase avait coupée, aux dires des
+                           ennemis de la foi ; <bibl><author>Appien</author></bibl> a dit, au livre
+                           II des<bibl>
+                              <title>Guerres civiles</title>
+                           </bibl>,<cit>
+                              <quote>
+                                 <foreign xml:lang="grc">διὰ στόματος ἦν</foreign>
+                              </quote>
+                              <quote type="translation">Il était dans toutes les bouches</quote>
+                           </cit>. Et au livre II de l’<bibl>
+                              <title>Anthologie grecque</title>
+                           </bibl>
+                           <!-- réf très hypothétique et incomplète, à vérifier -->:<cit>
+                              <quote>
+                                 <foreign xml:lang="grc">ἀνὰ στόμα</foreign>
+                              </quote>
+                              <quote type="translation">de la bouche</quote>
+                           </cit>&gt;. Mais typiquement <bibl><author>Pindare</author></bibl>
+                           emploie souvent le verbe " voler"<!--mentioned ici dans le latin-->pour
+                           désigner la célébrité du nom ou quelque chose de semblable. Par exemple
+                           dans la neuvième<bibl>
+                              <title>Olympique</title>
+                           </bibl>,<!--voir si l'on décide de ne pas mettre ici d'italiques-->il
+                           appelle ses propres vers<cit>
+                              <quote>
+                                 <foreign xml:lang="grc">πτερόεντα οἰστὸν</foreign>
+                              </quote>
+                              <quote type="translation">flèche ailée</quote>
+                           </cit>. Dans la neuvième<bibl>
+                              <title>Pythique</title>
+                           </bibl>:<cit>
+                              <quote>
+                                 <foreign xml:lang="grc">πτερὰ δέξατο νίκας</foreign>
+                              </quote>
+                              <quote type="translation">Il a reçu les ailes de la victoire</quote>
+                           </cit>. Dans la première<bibl>
+                              <title>Isthmique</title>
+                           </bibl>:<cit>
+                              <quote>
+                                 <foreign xml:lang="grc">πτερύγεσσιν ἀερθέντ’ ἀγλααῖς
+                                    πιερίδων</foreign>
+                              </quote>
+                              <quote type="translation">soulevé sur les ailes resplendissantes des
+                                 Muses</quote>
+                           </cit>. Et dans la cinquième :<cit>
+                              <quote>
+                                 <foreign xml:lang="grc">πτερόεντα ὕμνον</foreign>
+                              </quote>
+                              <quote type="translation">l’hymne ailé</quote>
+                           </cit>. <bibl><author>Prudence</author></bibl> aussi, dans l’hymne XIII du<bibl>
+                              <title>Peristephanon</title>
+                           </bibl>:<quote>Et il ne vole pas moins au-dessus des terres</quote>.
+                                 <bibl><author>Grégoire de Nazianze</author></bibl> dans le premier
+                           poème du<bibl>
+                              <title>Sur les principes</title>
+                           </bibl>
+                           <!-- voir si cette réf signifie qqch aujourd'hui, l'annoter en tout cas -->,
+                           dit ainsi :<cit>
+                              <quote>
+                                 <foreign xml:lang="grc">ἤ τυτθαῖς πτερύγεσσι πρὸς οὐρανὸν
+                                    ἀστερόεντα σπεύδομεν</foreign>
+                              </quote>
+                              <quote type="translation">Nous tentons de voler dans le ciel éthéré au
+                                 moyen de nos modestes ailes</quote>
+                           </cit>. Et ailleurs :<cit>
+                              <quote>
+                                 <foreign xml:lang="grc">λόγοι πτερόεντες</foreign>
+                              </quote>
+                              <quote type="translation">des mots qui volent</quote>
+                           </cit>. Apulée, avec cette remarque de l’<bibl>
+                              <title>Apologie</title>
+                           </bibl>, II :<quote>si les mots, comme le disent les poètes, avaient
+                              coutume de voler, attachés à des ailes</quote>.
+                                 <bibl><author>Jérôme</author></bibl> aussi, dans ses lettres, comme
+                           un proverbe :<quote>aux pieds ailés, comme on dit</quote>. A tous les
+                           exemples que je viens de citer, on pourrait opposer<cit>
+                              <quote>
+                                 <foreign xml:lang="grc">χθαμαλοπτήσας</foreign>
+                              </quote>
+                              <quote type="translation">"volant près de la terre "</quote>
+                           </cit>, ou<cit>
+                              <quote>
+                                 <foreign xml:lang="grc">χαμαιτύπους</foreign>
+                              </quote>
+                              <quote type="translation">"rasant le sol"</quote>
+                           </cit>. De fait c’est ainsi qu’<bibl><author>Aristote</author></bibl>, au
+                           livre IX de l’<bibl>
+                              <title>Histoire des animaux</title>
+                           </bibl>, chapitre 36, appelle les éperviers qui volent près du sol, sans
+                           s’élever dans les airs. Au chapitre 29 du même livre, il oppose les<cit>
+                              <quote>
+                                 <foreign xml:lang="grc">πτητικοὺς</foreign>
+                              </quote>
+                              <quote type="translation">"ceux qui volent dans les hauteurs"</quote>
+                           </cit>et les<cit>
+                              <quote>
+                                 <foreign xml:lang="grc">ἐπιγείους</foreign>
+                              </quote>
+                              <quote type="translation">"ceux qui volent au niveau du sol "</quote>
+                           </cit>.<!-- donner tous les adj grecs cités au-dessus au nominatif? -->Il
+                           parle, bien entendu, des oiseaux. Les passages que j’ai mis en relation à
+                           propos de ce passage, sont semblables ceux qu’a repérés
+                                 <bibl><author>Hadrianus Iunius</author></bibl> à propos de l'adage
+                           16 de la deuxième
+                           centurie.<!--voir si on met des italiques et si l'onr reformule: Adages, deuxième centurie, 16?--></seg>
+                     </p>
+                  </div>
+               </div>
+               <div type="chapter" n="2">
+                  <div type="argumentum" n="2" corresp="#LC-T1-G3-2-A-LA">
+                     <p>Il se glorifie d'être le premier à arracher aux Grecs la palme du poète
+                        fondateur et avec orgueil il promet d'ériger à Mantoue, au bord du Mincio,
+                        un monument de sa propre victoire, une fois édifié un temple pour le culte
+                        d'Auguste; et c'est près de ce lieu que doivent se tenir des jeux équestres
+                        et théâtraux; il fixe aussi comme sujets, pour la peinture qu'il souhaite
+                        faire réaliser dans le temple, d'une part, les exploits éclatants d'Auguste
+                        à la guerre et, d'autre part, ses
+                        descendants.<!--                            traduction de l'argumentum non revue
+--></p>
+                  </div>
+                  <div type="commentary" n="1">
+                     <p>
+                        <seg type="explicatio" n="a" corresp="#LC-T1-G3-2-E-a-LA">Cette phrase
+                           dépend de ce qui précède. Par quel moyen t’élèveras–tu de terre,
+                              Maro<note resp="TeamVirgilius">Le commentateur semble d'abord imaginer
+                              un monologue intérieur du poète.</note>, par quel moyen voleras–tu de
+                           bouche en bouche, parmi tous les hommes ? Ecoutez, dit–il. Les Grecs sont
+                           fiers de leurs Muses et pensent que la gloire du chant ne concerne pas
+                           les Latins. Moi, ayant entrepris de les combattre, pourvu que la vie me
+                           soit une compagne, je ramènerai le premier leurs Muses dans ma patrie et
+                           je rapporterai à Mantoue la palme du chant qui jadis fut illustre sur le
+                           mont Hélicon de Béotie, c'est-à-dire en Aonie.</seg>
+                        <seg type="explicatio" n="b" corresp="#LC-T1-G3-2-E-b-LA">Il dit qu’il
+                           élèvera un temple en souvenir de la victoire qu’il va remporter aux
+                           dépens des Grecs. Son propos contient un grandissement à partir des
+                           circonstances (<mentioned>
+                              <foreign xml:lang="grc"/>αὔξησιν ἐκ τῶν περιστατικῶν</mentioned>). En
+                           effet le temple sera en marbre, il se tiendra en un lieu agréable, près
+                           du cours du Mincio mantouan, là où ce fleuve vagabonde avec des méandres,
+                           là où il est couronné de nombreux roseaux. Et il ajoute le plus grand
+                           ornement du temple : en effet César sera le dieu tutélaire de ce
+                           sanctuaire; la particularité du temple est son centre, où se tiendra la
+                           statue d’Auguste.</seg>
+                        <seg type="explicatio" n="c" corresp="#LC-T1-G3-2-E-c-LA">Le temple est
+                           suivi par d’autres éléments fastueux. En effet désormais vainqueur des
+                           Grecs et orné de pourpre, en homme qui va accomplir un rituel, le poète
+                           va instituer sur le territoire mantouan des jeux du cirque en l’honneur
+                           de César, au cours desquels il lancera cent quadriges, comme c’était
+                           habituel dans le cirque de Rome.</seg>
+                        <seg type="explicatio" n="d" corresp="#LC-T1-G3-2-E-d-LA">A ces jeux du
+                           cirque participeront ensemble des athlètes de toutes disciplines qu’il
+                           aura fait venir de la Grèce même. Tous en effet voleront en ce lieu pour
+                           concourir à la course et au ceste sanglant (dur<note resp="TeamVirgilius"
+                              >La Cerda reprend l'adjectif<mentioned>
+                                 <foreign xml:lang="lat">crudus</foreign>
+                              </mentioned>au texte de Virgile et en donne tout de suite un synonyme,
+                              comme s'il était dans une note.</note>) et, pour me faire plaisir, ils
+                           quitteront en faveur de mon Mincio leur Alphée, près duquel on célébrait
+                           les jeux olympiques, et en faveur de mon territoire les bois de
+                           Molorchos, où se tenaient les jeux néméens.</seg>
+                        <seg type="explicatio" n="e" corresp="#LC-T1-G3-2-E-e-LA">Pour que rien ne
+                           manque à la magnificence de ce triomphe poétique, Virgile lui–même
+                           apportera des offrandes la tête ornée d’olivier coupé, c'est-à-dire
+                           taillé et ajusté avec grâce.</seg>
+                        <seg type="explicatio" n="f" corresp="#LC-T1-G3-2-E-f-LA">Alors que le poète
+                           écrivait ces mots, l’image du triomphe se présenta à ses yeux et
+                           transporté de joie, il se mit ardemment à désirer conduire déjà la
+                           procession vers le cirque, voir les victimes, voir la scène de théâtre,
+                           toutes les directions dans lesquelles elle partait, tandis que ses
+                           panneaux tournaient, voir enfin les Bretons qui depuis le théâtre
+                           soulevaient, une fois la pièce terminée, les rideaux sur lesquels ils
+                           étaient eux–mêmes peints avec de la soie. Tu as vu comment il promet en
+                           passant de donner des jeux scéniques et théâtraux en l’honneur de
+                           César.</seg>
+                        <seg type="explicatio" n="g" corresp="#LC-T1-G3-2-E-g-LA">Il en revient au
+                           temple qu’au début il avait promis de dédier en l’honneur d’Auguste, et
+                           il dit ce que sur ses portes il façonnera à la manière d’un statuaire. En
+                           effet, d’un côté il placera les combats d’Auguste, de l’autre, ses
+                           ancêtres ; et les combats seront représentés en or et en ivoire massif,
+                           c'est-à-dire non taillé, mais d’un bloc, les ancêtres, en marbre de
+                           Paros. Les combats seront: la défaite des Gangarides, celle de Cléopâtre,
+                           celle d’Antoine (ce sont Cléopâtre et Antoine qu'il désigne en parlant du Nil<mentioned>
+                              <foreign xml:lang="lat">undantem bello</foreign>
+                           </mentioned>"agité par la guerre", des colonnes érigées avec le bronze
+                           des navires vaincus) ; la soumission des villes d’Asie<note
+                              resp="TeamVirgilius">La Cerda reprend ici plusieurs mots ou groupes de
+                              mots qui sont dans le texte de Virgile :<quote>
+                                 <foreign xml:lang="lat">Asiae urbes domitae</foreign>
+                              </quote>pour<quote>
+                                 <foreign xml:lang="lat">Asiae urbes domitas</foreign>
+                              </quote>, au vers 30,<quote>
+                                 <foreign xml:lang="lat">pulsi</foreign>
+                              </quote>, qui reprend<quote>
+                                 <foreign xml:lang="lat">pulsum</foreign>
+                              </quote>au même vers,<quote>
+                                 <foreign xml:lang="lat">rapta duo tropaea</foreign>
+                              </quote>, qui reprend<quote>
+                                 <foreign xml:lang="lat">duo rapta [...] trophoea</foreign>
+                              </quote>au vers 32.</note>, la débandade des habitants du mont
+                           Niphate, celle des Parthes qui combattent en fuyant, les deux trophées
+                           arrachés aux Dalmates et aux Cantabres, les doubles triomphes qui ont eu
+                           lieu à l’occasion de la pacification de l’orient et de l’occident. Les
+                           ancêtres: Tros, père d’Assaracus ; ce dernier avec toute sa descendance,
+                           Capys, Anchise, Énée, et tous les autres jusqu’à Auguste, tous en vérité
+                           représentés de manière si expressive qu’ils paraissent être vivants et
+                           respirer. Et ne manqueront pas dans cet apparat les noms des dieux ; en
+                           effet ces ancêtres eux–mêmes descendent de Jupiter, parce que, de toute
+                           évidence, Assaracus tirait son origine de Dardanos, fils de Jupiter et
+                           d’Électre. Leur est ajouté Apollon, comme fondateur de Troie, de qui est
+                           née une si nombreuse descendance. A la fin de cet ouvrage absolument
+                           magnifique sera placée aussi la haine, mais telle qu’elle n’ose pas
+                           décrier César : en effet les Furies la menaceront, le Cocyte tout entier,
+                           les serpents et les roues d’Ixion, le rocher de Sisyphe, pour qu’elle
+                           n’ait pas l’audace de se mettre en branle.</seg>
+                        <seg type="nota" n="1" corresp="#LC-T1-G3-2-N-1-LA">
+                           <quote type="lemme">Primus ego in patriam</quote>L’expression est sans
+                           aucun doute tirée d’<bibl><author>Ennius</author></bibl>, qui se glorifie
+                           d’avoir le premier trouvé une voie menant aux rochers des Muses, quand
+                           les poètes qui l’ont précédé n’ont répandu que des vers non polis, comme
+                           ceux des oracles, que les Faunes proféraient sans les avoir polis. Voici
+                           ces vers :<quote>"Par des vers qu’autrefois chantaient prophètes et
+                              faunes,quand nul n’avait franchi les rochers des
+                                 Muses".</quote>D’<bibl><author>Ennius</author></bibl> vient
+                                 <bibl><author>Lucrèce</author></bibl>, livre I:<quote>Comme l’a
+                              chanté notre grand Ennius, qui le premier du charmant Hélicon ramena
+                              la couronne au feuillage pérenne à travers les peuples
+                              d’Italie</quote>etc. <bibl><author>Properce</author></bibl> a pris
+                           pour maîtres <bibl><author>Ennius</author></bibl> et
+                                 <bibl><author>Virgile</author></bibl> en une occurrence au livre
+                           III, élégie 1 :<quote>"Moi je m’avance le premier en prêtre puisant à une
+                              pure fontaine pour apporter les emblèmes mystiques de l’Italie dans
+                              les chœurs grecs."</quote>Et <bibl><author>Horace</author></bibl> à
+                           plusieurs reprises, comme on peut le voir au livre III des<bibl>
+                              <title>Odes</title>
+                           </bibl>, poèmes 1 et 30, et dans l’épître 19 du livre I ;
+                                 <bibl><author>Manilius</author></bibl> également, au livre I. Ces
+                           poètes disent qu’ils sont les premiers de tous à s’attaquer à la matière
+                           dont ils traitent.</seg>
+                        <seg type="nota" n="2" corresp="#LC-T1-G3-2-N-2-LA">
+                           <quote type="lemme">Deducam vertice Musas</quote>Emprunt à
+                                 <bibl><author>Apollonios</author></bibl>, qui, au livre I, parlant
+                           d’Orphée, dit :<quote>"Lui qui fit descendre les Muses du sommet de
+                              Piérie après les avoir charmées avec sa lyre."</quote>
+                        </seg>
+                        <seg type="nota" n="3" corresp="#LC-T1-G3-2-N-3-LA">
+                           <quote type="lemme">Idumaeas palmas</quote>Parce que ces palmes sont très
+                           célèbres, elles désignent par excellence (<mentioned>
+                              <foreign xml:lang="grc">κατ΄ἐξοχὴν</foreign>
+                           </mentioned>) n’importe quelles palmes, voire la victoire elle-même,
+                           comme dans notre passage. On en trouve des mentions diffuses chez les
+                           auteurs. <bibl><author>Lucain</author></bibl>, livre III
+                              :<quote>"L’Idumée riche en palmiers"</quote>,
+                                 <bibl><author>Martial</author></bibl>, livre X, épigramme 50
+                              :<quote>"la victoire, dans sa tristesse, brisera les palmes
+                              d’Idumée"</quote>; <bibl><author>Silius Italicus</author></bibl>,<bibl>
+                              <title>Punica</title>
+                           </bibl>VII :<quote>"que notre victoire sur Pallas rapporte à Chypre des
+                              palmes d’Idumée"</quote>. <bibl><author>Stace</author></bibl>,<bibl>
+                              <title>Silves</title>
+                           </bibl>V :<quote>"Fouleras-tu la cendre de Solyme et les palmeraies
+                              captives de l’Idumée qui étend des forêts dont les richesses ne sont
+                              pas pour elle ?"</quote>Mais tous les lieux alentour d’Idumée sont
+                           célèbres pour leurs palmeraies, comme Jéricho chez
+                                 <bibl><author>Strabon</author></bibl>, livre XVI et chez
+                                 <bibl><author>Flavius-Josèphe</author></bibl>, livre V, chapitre 4
+                           de la<bibl>
+                              <title>Guerre des Juifs</title>
+                           </bibl>, Engada chez <bibl><author>Pline</author></bibl>, livre V,
+                           chapitre 17, enfin toute la Syrie, la Phénicie et la Judée.</seg>
+                        <seg type="nota" n="4" corresp="#LC-T1-G3-2-N-4-LA">
+                           <quote type="lemme">Templum de marmore ponam</quote>Virgile lui-même au
+                           chant IV de l’<bibl>
+                              <title>Enéide</title>
+                           </bibl>au sujet d’Iarbas :<quote>"il a posé des autels, des
+                              temples"</quote>. <bibl><author>Ovide</author></bibl>, dans un tour
+                           différent, au livre IV des<bibl>
+                              <title>Pontiques</title>
+                           </bibl>:<quote>"je t’élèverai un temple, Germanicus"</quote>. Les Grecs
+                           expriment la même chose par<mentioned>
+                              <foreign xml:lang="grc">ἴστημι</foreign>
+                           </mentioned>. <bibl><author>Virgile</author></bibl> flatte le prince en
+                           disant qu’il érigera un temple semblable à celui que le prince lui-même
+                           avait érigé. Car voici ce que dit <bibl><author>Ovide</author></bibl>
+                           d’Auguste au livre III des<bibl>
+                              <title>Pontiques</title>
+                           </bibl>, élégie 6 :<quote>"Nul dieu n’a plus de mesure que notre prince :
+                              c’est la justice qui modère sa puissance. Il vient de lui construire
+                              un temple de marbre. Mais dès longtemps, il l’a déposée dans le
+                              sanctuaire de son cœur."</quote>
+                        </seg>
+                        <seg type="nota" n="5" corresp="#LC-T1-G3-2-N-5-LA">
+                           <quote type="lemme">Praetexit arundine</quote>Expression étonnante pour
+                           signaler une roselière qui s’étend sur les rives. Dans le même esprit,
+                                 <bibl><author>Ovide</author></bibl> : « Pourquoi mentionner Baïes
+                           et ses côtes revêtues de voiles… » Et
+                              <bibl><author>Ausone</author></bibl> : « Les assauts de tant de
+                           milliers de barbares, dont les rives du Danube sont revêtues. » Mais je
+                           parle ailleurs<!-- il faut trouver où -->de l’ornement que les roselières
+                           apportent aux cours d’eau.</seg>
+                        <seg type="nota" n="6" corresp="#LC-T1-G3-2-N-6-LA">
+                           <quote type="lemme">In medio mihi Caesar erit</quote>
+                           <!-- En marge : les dieux tutélaires -->Il fait référence à l’habitude de
+                           placer les dieux tutélaires dans la partie centrale du temple. J’en
+                           parlerai au livre I de l’<bibl><title>Enéide</title></bibl> à propos de
+                           ce vers : « Alors, aux portes de la déesse, au milieu de la nef du temple
+                           ». On pourrait rappeler comment Auguste se trouve au milieu des autres
+                           dieux : c’est ce qui se passa selon la coutume de l’apothéose. L’histoire
+                           de Caligula est bien connue qui se fit placer au milieu de ses deux
+                           frères divins<note>Dans le texte de Suétone, il est question de
+                              l’habitude qu’avait Caligula de venir dans le temple de Castor et
+                              Pollux pour s’y faire adorer, entre les statues des deux
+                           dieux.</note>.</seg>
+                        <seg type="nota" n="7" corresp="#LC-T1-G3-2-N-7-LA">
+                           <quote type="lemme">Tyrio conspectus in ostro</quote>Il fait référence à
+                           la coutume romaine, selon laquelle les consuls, au moment d’accomplir des
+                           rites, étaient vêtus de pourpre. <bibl><author>Pline</author></bibl>,
+                           livre IX, chapitre 36 : « on utilise le vêtement de pourpre pour apaiser
+                           les dieux. »
+                           <bibl><author>Dalechamps</author></bibl><!-- L’humaniste Jacques Dalechamps, 1513-1588. -->commente
+                           ce passage : « en effet, les consuls ne sacrifiaient que revêtus de
+                           pourpre. »</seg>
+                        <seg type="nota" n="8" corresp="#LC-T1-G3-2-N-8-LA">
+                           <quote type="lemme">Centum</quote>
+                           <!-- En marge :
+                                    les courses au cirque -->En
+                           effet, dans le Cirque de Rome, les courses se faisaient avec à chaque
+                           fois quatre chars quadriges – comme il y avait quatre couleurs. Ces
+                           courses étaient au nombre de vingt-cinq, pour un total, comme il est dit,
+                           de cent chars. <bibl><author>Varron</author></bibl> chez
+                                 <bibl><author>Servius</author></bibl> : « autrefois on faisait
+                           vingt-cinq courses ».<mentioned>Missus</mentioned>désigne d’ailleurs les
+                           ἀφέσεις (les courses) en tant que telles et le lâcher de chevaux hors des
+                           stalles. Le fait que <bibl><author>Suétone</author></bibl>, au chapitre 4
+                           de la Vie de Domitien, parle de cent<mentioned>missus</mentioned>n’est
+                           pas contradictoire. En effet, à n’en pas douter, il avait en tête le
+                           nombre des chars, non des départs de course. Il eût été impossible
+                           d’organiser cent courses complètes en un seul jour, si on entend par là
+                           le lâcher des chevaux hors des stalles. Mais il faut savoir qu’en ce
+                           domaine, il y a eu quelques variations, qu’on n’a pas toujours donné
+                           vingt-cinq courses, de même qu’il n’y a pas toujours eu cent chars. Le
+                           poète a fait référence à ce qui se faisait le plus communément au cirque.
+                           Et je pense que ce que je viens de dire est la vérité. Mais on pourrait
+                           être d’accord avec <bibl><author>Turnèbe</author></bibl> selon qui le
+                           poète prend « cent chars » au sens de « beaucoup » suivant l’habitude des
+                           poètes. Par exemple, <bibl><author>Tibulle</author></bibl> au livre I
+                           [Tibulle, I, 7, 49] : Viens ici et célèbre avec nous cent jeux et le
+                           génie par des chœurs</seg>
+                        <seg type="nota" n="9" corresp="#LC-T1-G3-2-N-9-LA">
+                           <quote type="lemme">Ad flumina</quote>
+                           <!-- En marge: Un fleuve dans le cirque -->Il fait référence à une
+                           tradition archaïque relative aux jeux du Cirque. En effet ceux-ci,
+                                 <bibl><author>Servius</author></bibl> le garantit, se produisaient
+                           jadis sur le bord d’un fleuve. Germanus le confirme par une monnaie qu’il
+                           dit avoir vue, et sur une face de laquelle il y avait une forme de
+                           cavalier poussant son cheval sur la rive d’un fleuve avec cette
+                           inscription à la base : « descente à la course ». Mais on peut éclairer
+                           ce fait de multiples manières. Ainsi l’Euripe lui-même révèle la coutume
+                           ancienne, autrement dit le fossé que l’on avait creusé ensuite dans le
+                           Cirque de Rome, comme on peut le voir dans la description de Pyrrhus
+                           Ligorius. Tertullien, De Spectaculis (Tertullien, Sur les spectacles, 8)
+                           : « l’assemblée des démons gelait sans sa Grande Mère : aussi est-elle
+                           bien là, présidant à l’euripe . » Cassiodore, livre III, Epître 51, dans
+                           une description du Cirque : « l’euripe représente la mer vitreuse, d’où
+                           les dauphins fendent les flots vers le large ». Et : « les jeux du cirque
+                           sont comme des cercles d’épées (circu[m]-enses), parce que dans
+                           l’antiquité primitive, qui n’avait pas encore installé dans de splendides
+                           édifices ses spectacles, ceux-ci avaient lieu au milieu des épées et des
+                           fleuves dans des lieux verdoyants. » <bibl><author>Ovide</author></bibl>,
+                           élégie 9 du livre I des Pontiques : « le gazon du Champ de Mars, qui
+                           regarde sur de beaux jardins, les marais de l’Euripe et l’eau de la
+                           Vierge » Je laisse de côté Vitruve, <bibl><author>Pline</author></bibl>
+                           et les autres qui parlent du même sujet. A partir de là, Joseph Scaliger
+                           nous éclaire avec Manilius, qui, au livre IV, quand il parcourt les
+                           actions auquel préside le Verseau, dit : « se jouer de la mer, en se
+                           servant du luxe, avec des rivages nouveaux ; fabriquer des lacs variés et
+                           des fleuves factices ». Quand il parle de rivages nouveaux et de fleuves
+                           factices, il veut parler du détroit du cirque. Je soupçonne que c’est là
+                           la seule origine de l’usage consistant à parler de « naufrage » de chars
+                           quand ceux-ci se brisent dans le cirque. Démosthène dans l’Erôtikos :
+                           Πολλῶν θρυλλέντων ὡς ἐν τοῖς ἱππικοῖς ἀγῶσι ἡδίστην θεὰν παρέχεται τὰ
+                           ναυαγῶντα on dit communément que le spectacle qui plaît le plus est celui
+                           que procurent les naufrages. Sophocle dans l’Electre : Πᾶν δ’ἐπίμπλατο
+                           ναυαγίων Κρισσαῖον ἱππικῶν πέδον. Toute la plaine de Crisa était remplie
+                           des naufrages des chevaux. Croyons donc que Virgile parle de son Mincio
+                           en ayant en tête le fleuve du cirque. En outre ce que dit Cassiodore sur
+                           l’étymologie de<mentioned>Circenses</mentioned>est purement grammatical,
+                           mais inepte suivant le jugement de Scaliger.</seg>
+                        <seg type="nota" n="10" corresp="#LC-T1-G3-2-N-10-LA">
+                           <quote type="lemme">Alpheum</quote>Au sujet de ce fleuve et du bois de
+                           Molorchos, on trouve des informations partout. Je me borne à observer que
+                           en mentionnant les jeux Olympiques, qui étaient les premiers en dignité,
+                           et les jeux Néméens, qui étaient les derniers, Virgile a voulu les
+                           inclure tous, même les Pythiques et les Isthmiques qui se plaçaient au
+                           milieu.</seg>
+                        <seg type="nota" n="11" corresp="#LC-T1-G3-2-N-11-LA">
+                           <quote type="lemme">Cursibus</quote>C’était une des épreuves du
+                           Pentathlon.</seg>
+                        <seg type="nota" n="12" corresp="#LC-T1-G3-2-N-12-LA">
+                           <quote type="lemme">Caestu</quote>Je remets à l’Enéide V. Il y a des
+                           interprètes qui disent que le combat de cestes n’était pas en usage chez
+                           les Grecs, si on prend les Grecs au sens strict, et qu’il faut d’autant
+                           plus comprendre que le poète parle du combat de πυγμή (boxe), que l’usage
+                           de celui-ci était très répandu chez les Grecs. Par ailleurs, de même
+                           qu’il est question ici de « ceste dur » (crudo caestu), de même
+                                 <bibl><author>Apollonios</author></bibl>, Argonautiques II, à
+                           propos des cestes, a ἱμάντας ὠμοὺς (des courroies très
+                              dures)<note>L’adjectif grec ὠμός a le même sens de base que le latin
+                              crudus (cru, avec les connotations de sauvagerie et de
+                           cruauté)</note>.</seg>
+                        <seg type="nota" n="13" corresp="#LC-T1-G3-2-N-13-LA">&gt; <quote
+                              type="lemme">Oliuae</quote>C’est à n’en pas douter une allusion à la
+                           coutume lors des concours. Il a dit précédemment qu’il était victorieux,
+                           donc il se représente désormais avec une couronne d’olivier, selon la
+                           coutume qui veut que les vainqueurs recevaient des couronnes de cet
+                           arbre. Chez <bibl><author>Plutarque</author></bibl>,
+                                 <bibl><author>Euripide</author></bibl> dans l’Alceste présente ce
+                           chef "deux fois couronné d’olivier".
+                              <bibl><author>Pindare</author></bibl>, dans les<bibl>
+                              <title>Olympiques</title>
+                           </bibl>, ode 4, décrit Psaumis, vainqueur aux jeux olympiques, ἐλαίᾳ
+                           στεφανωθέντα Πισάτιδι "portant une couronne d’olivier de Pise". Et dans
+                           son ode 7, il dote Diagoras d’un sceptre fait du bois de cet arbre.
+                           Ensuite, dans l’ode 8, il parle de "concours porteurs de feuillages"
+                           ἀγῶνας φυλλοφόρους. Mais peut-être que Virgile a parlé de l’olive
+                           (oliua), tout comme <bibl><author>Euripide</author></bibl> et
+                                 <bibl><author>Pindare</author></bibl> ont dit "l’olivier" (ἐλαία)
+                           ἀντὶ τοῦ κοτινοῦ à cause des besoins de la métrique, qui souvent
+                           contraignent les poètes. En effet c’est l’olivier sauvage qui était la
+                           marque distinctive de ce type de concours, et non l’olivier [commun] ; et
+                           même si c’est le cas, Archias, dans un unique vers assurément rare,
+                           rassemble de la sorte les quatre récompenses des concours : ἆθλα δε τῶν,
+                           κότινος, μῆλα, σέλινα, πίτυς "leurs présents, l’olivier sauvage, les
+                           fruits, le persil et le pin". Chez
+                              <bibl><author>Plutarque</author></bibl>,
+                                 <bibl><author>Aristophane</author></bibl> dit ainsi, après une
+                           première mention des jeux olympiques, "ceignant les athlètes victorieux
+                           d’une couronne d’olivier sauvage". Dans le prologue de son Histoire,
+                                 <bibl><author>Agathias</author></bibl> écrit : "Je ne pense pas en
+                           effet que c’était pour gagner l’olivier sauvage ou le persil que les
+                           vainqueurs aux jeux olympiques entraient sur la piste".
+                                 <bibl><author>Grégoire de Nazianze</author></bibl> dit à Saint
+                           Cyprien dans son Discours 18 : "Tu possèdes le présent de mes entretiens
+                           et du concours que tu as gagné, et non l’olivier sauvage olympique". Ce
+                           que le traducteur latin rend mal : "l’olivier olympique". Dans son livre,
+                           Philon d’Alexandrie écrit : "Il est glorieux pour les combattants de
+                           tomber pour l’olivier sauvage et le persil".
+                                 <bibl><author>Oppien</author></bibl>, au livre IV des Cynégétiques,
+                           écrit : "couronné de nombreux rameaux d’olivier sauvage".
+                                 <bibl><author>Dion Chrysostome</author></bibl>, dans son discours
+                           27, nommant les quatre de ces récompenses, place en premier κότινος .
+                                 <bibl><author>Stace</author></bibl>, au livre VI de la Thébaïde,
+                           dit : "Le pieux Alcide consacra cet honneur à Pélops et enleva la
+                           poussière de sa chevelure en la frottant avec l’olivier sauvage". On fait
+                           circuler aussi ce petit vers grec : "Les vainqueurs aux jeux olympiques,
+                           qui étaient consacrés à Jupiter, portaient l’olivier sauvage". Le passage
+                           de <bibl><author>Pline</author></bibl> qui se trouve au chapitre 44 de
+                           son livre XVI est à la portée de tous, ainsi que le chapitre 4 de son
+                           livre XV. Enfin, Pausanias, dans son livre XV, répète en trois lieux
+                           différents et éloignés les uns des autres que la récompense aux jeux
+                           olympiques est l’olivier sauvage. Junius emprunte encore à Thémistius
+                           quelques observations en faveur de ce point, au chapitre 21 de son livre
+                           IV. J’ai apporté tant de témoignages que tu te rendras compte que
+                           l’olivier sauvage était la récompense la plus fréquente, alors que
+                           l’olivier [commun] était tout à fait rare. Vois cependant ce qu’apporte
+                           en faveur de l’olivier Caelius Rhodiginus, au chapitre 19 du livre XII.
+                           Auquel j’ajoute Artémidore (livre IV, chapitre 54) qui, parlant des jeux
+                           olympiques, nomme les deux, ἐλαία et κότινος. Il y a aussi ces mots de
+                           Dictys au livre II de sa Guerre de Troie : "Quand les Grecs virent cela,
+                           ils les couvrirent d’applaudissements bruyants et d’éloges, et, les
+                           plaçant au milieu d’eux, ils les couronnèrent de rameaux d’olivier". Mais
+                           tu peux renvoyer Dictys à ce qu’a dit <bibl><author>Pline</author></bibl>
+                           à propos des mœurs athéniennes dans son livre XV, chapitre 4 : en effet
+                           il n’y parle pas des jeux olympiques. Par ailleurs, comme le poète dit
+                           ici "d’olivier taillé", de même on lit au livre V de l’Énéide "une
+                           couronne bien taillée".</seg>
+                        <seg type="nota" n="14" corresp="#LC-T1-G3-2-N-14-LA">
+                           <quote type="lemme">Iam nunc</quote>C’est ainsi que presque tout le monde
+                           dit. Il n’y a que Plaute (je ne sais pas si quelqu’un d’autre le fait)
+                           qui a interverti les mots, car on lit dans les<bibl>
+                              <title>Captifs</title>
+                           </bibl>"Va-t’en là-bas, dès maintenant (nunc
+                           iam)".<!-- Mais on trouve de nombreuses autres occurrences : <bibl><author>Catulle</author></bibl>, <bibl><author>Lucain</author></bibl>, Cicéron…= note à faire --></seg>
+                        <seg type="nota" n="15" corresp="#LC-T1-G3-2-N-15-LA">
+                           <quote type="lemme">Pompas</quote>Il dit cela en connaisseur, car il
+                           désigne ainsi les jeux du cirque, et
+                           que<mentioned>pompa</mentioned>(procession) s’emploie au sens propre
+                           (pompe) à propos du cirque. Tertullien, dans son traité Des Spectacles,
+                           écrit : "L’organisation des jeux du cirque, un peu trop pompeuse
+                           (pompatior), l’emporte sur les autres, eux pour lesquels le nom
+                              de<mentioned>pompa</mentioned>(pompe) est parfaitement approprié".
+                                 <bibl><author>Varron</author></bibl> donne la raison pour laquelle
+                           on dit<mentioned>circus</mentioned>(le cirque) : c’est parce que là la
+                           pompe se déroule « autour » (circum) des bornes.
+                                 <bibl><author>Ovide</author></bibl> au livre IV des Fastes dit :
+                           "Il y aura au cirque une pompe nombreuse". Il faut comprendre que Cicéron
+                           parle du cirque dans son traité Des devoirs, I : "Il nous faut nous
+                           garder dans notre démarche des lenteurs trop molles qui nous feraient
+                           ressembler aux porteurs dans les pompes". Jacques de Pamele explique
+                           Tertullien en allant dans mon sens. Lis-le, ainsi que Denys
+                           d’Halicarnasse, qui décrit la pompe du cirque plus longuement que les
+                           autres écrivains romains. Je sais (diras-tu) que l’on emploie "pompa"
+                           (pompe) quand on parle du cirque. Mais qu’est-ce qui est désigné par le
+                           nom de "pompe" au cirque ? Cela, <bibl><author>Ovide</author></bibl> te
+                           l’explique au livre I des Amours. En effet, parlant du cirque, il dit :
+                           "Mais déjà la procession arrive : faites silence et soyez attentifs ;
+                           voilà le temps des applaudissements, la brillante procession arrive. La
+                           première, la Victoire est apportée, les ailes déployées, etc.". Il y a
+                           encore de nombreux vers, je m’arrête là. Donc il y avait une procession,
+                           les dieux eux-mêmes, qui étaient transportés jusqu’au cirque. Ici,
+                                 <bibl><author>Ovide</author></bibl>, après la Victoire, nomme
+                           Neptune, Mars, Phébus, Phoebé, Minerve, Cérès, Bacchus, Pollux, Castor,
+                           Vénus. Le terme a été transféré du cirque vers d’autres lieux,
+                           certainement vers d’autres jeux, des cérémonies funèbres, des sacrifices.
+                           Bien plus, les Grecs en ont un emploi très éloigné, qui n’a aucun rapport
+                           avec le cirque romain. Platon, en effet, dans l’Alcibiade mineur, parle
+                           de πομπὰς [mettre au nominatif + donner encore la trad en note ?] pour
+                           les animaux qui sont conduits au sacrifice. D’ailleurs, quand le poète
+                           dit "ducere pompas" (conduire des processions), il utilise deux mots à la
+                           manière des Grecs, qui disent πομπὰς ἄγειν (conduire des processions),
+                           quoique d’autres disent en un seul mot πομπαγαγεῖν. Ce qu’il appelle ici
+                           « solemnes pompas » ("processions solennelles"), Xénophon dans
+                           l’Hipparque<!-- harmoniser titre -->l’appelle πομπὰς ἀξιοθεάτους,
+                           "processions remarquables".</seg>
+                        <seg type="nota" n="16" corresp="#LC-T1-G3-2-N-16-LA">
+                           <quote type="lemme">Ad delubra</quote>Le poète, semble-t-il, a fait
+                           essentiellement référence à une pratique des anciens Grecs, que Xénophon
+                           nous représente dans l’Hipparchikos, à partir des mots suivants : Τὰς μὲν
+                           οὖν πομπὰς, "Les processions en tout cas"<note>Voici la suite du passage
+                              que La Cerda traduit: οἴομαι ἂν καὶ τοῖς θεοῖς κεχαρισμενωτάτας καὶ
+                              τοῖς θεαταῖς εἶναι εἰ, ὅσων ἱερὰ καὶ ἀγάλματα ἐν τῇ ἀγορᾴ ἐστι, ταῦτα
+                              ἀρξάμενοι ἀπὸ τῶν ̣̣Ερμῶν κύκλῳ [περὶ τὴν ἀγορὰν καὶ τὰ ἱερὰ]
+                              περιελαύνοιεν τιμῶντες τοὺς θεούς. La Cerda fond en un seul complément
+                              les dieux et les spectateurs, qui sont bien distingués dans la phrase
+                              de
+                              Xénophon.<!-- il manque ici la traduction du passage concerné --></note>.
+                           Mais je donnerai seulement la citation en latin: « Je crois que les
+                           processions, en tout cas, auront le plus de grâce y compris pour les
+                           dieux qui en sont spectateurs, si la cavalerie, en commençant par les
+                           dieux dont les temples et les statues se trouvent sur le forum, décrit un
+                           tour complet autour du forum et des temples à partir des statues de
+                           Mercure, en honorant les dieux. »</seg>
+                        <seg type="nota" n="17" corresp="#LC-T1-G3-2-N-17-LA">
+                           <quote type="lemme">Vel scena ut uersis discedat frontibus</quote>
+                           <!-- En marge: Ce qu’est scena dans Virgile -->Turnèbe pense, au livre V,
+                           chapitre 4, qu’il faut comprendre que Virgile parle du mur de scène
+                           (scena) doté de périactes [note à prévoir], bien sûr lorsqu’il s’agit de
+                           machineries rotatives, comme l’attestent Vitruve et Pollux. Ce que
+                                 <bibl><author>Servius</author></bibl> écrit à ce sujet est à la
+                           portée de tous<!-- note à faire -->. Moi, sans condamner les autres, je
+                           pense que le passage de Virgile parle de l’ensemble du décor (pegma)
+                           romain. Ce que je vais dire, je veux le réduire à trois points : d’abord
+                           au mot, puisqu’ici Maron emploie scena ; ensuite je veux voir pourquoi il
+                           est question de discedere et, troisièmement, de uersis frontibus. Que le
+                           lecteur soit indulgent, si ces remarques lui semblent un peu longues.
+                           Mais qu’est-ce que le propre d’un interprète, si ceci ne l’est pas ?
+                           Parmi toutes les inventions frivoles de ce peuple, il y eut une
+                           machinerie particulièrement ingénieuse, fabriquée à partir d’un
+                           assemblage mobile de planches, qui était souvent employée au théâtre.
+                           Elle avait deux noms, celui de scena et de pegma. Elle a été
+                              appelée<mentioned>scena</mentioned>, parce qu’elle était construite
+                           sur le modèle d’une tente ; en effet, dans un sens plus large, sont
+                           appelées scenae toutes les habitations temporaires, construites à partir
+                           de branchages, de chaume, de peaux ou de planches. Elle a été
+                              appelée<mentioned>pegma</mentioned>, à partir du grec πήγνυμι, « je
+                           fixe » (figo), « j’assemble » (compingo). Virgile a utilisé le mot
+                              de<mentioned>scena,</mentioned>mais de nombreux autres emploient le
+                              mot<mentioned>pegma</mentioned>; Claudien emploie les deux termes
+                           indifféremment : « En remontant les contre-poids, que l’on fasse
+                           descendre le pegma, que la scena fasse tournoyer des cracheurs de feu,
+                           pour former l’apparence d’un choeur ».
+                              <bibl><author>Servius</author></bibl> aussi, dont je vais rapporter
+                           les paroles afin que tu voies que je n’ai pas mal compris le passage de
+                           Virgile, parle à cet endroit du<mentioned>pegma</mentioned>. Il dit ainsi
+                           : « on construisait à l’occasion un mur de scène (scena) à l’aide de
+                           planches de bois, et c’est de là que vient l’habitude qui s’est maintenue
+                           jusqu’à nos jours, qui veut que ceux qui donnent les jeux théâtraux
+                           fassent monter des pegmata. » Tu trouveras également dans une fête
+                           hébraïque l’un et l’autre terme : on l’appelait scenopegia à partir des
+                           tabernacles (sceno-) que l’on monte (-pegia). Je passe au deuxième point.
+                           Cette machinerie était source de plaisirs multiples ; en premier lieu, la
+                           séparation de la scène en tous sens (discessio). En effet, la machinerie
+                           avait été conçue de telle sorte que, soudain, les éléments qui étaient
+                           unis fussent séparés, et que les éléments qui étaient placés çà et là
+                           fussent réunis. Ce procédé procurait non seulement un grand plaisir mais
+                           suscitait encore un grand étonnement : comme si tu voyais ta demeure être
+                           arrachée de ses fondements et mise en pièces. Ce que je viens de dire,
+                                 <bibl><author>Sénèque</author></bibl> le confirme dans sa lettre
+                           91, lorsque, au sujet de cette machinerie, il parle des « éléments qui
+                           étaient unis se séparant largement et ceux qui étaient distants se
+                           réunissant d’eux-mêmes ». Maron explique cette séparation par le verbe
+                           discedat. En effet, les Latins appelaient discessio les failles
+                           (diuisiones), les béances (casmata), les gouffres (hiatus) et Cicéron dit
+                           dans De Officiis 3 : « Comme la terre s’était déchirée (discessisset) à
+                           cause de très grandes pluies, Gygès descendit dans ce gouffre (hiatus) ».
+                           Et dans De Divinatione II, 60 il a parlé de « déchirure du ciel »
+                           (discessus caeli), quand le tonnerre semble le trouer et le rompre.
+                           Strabon, parlant de cette machinerie au livre VI, le fait en termes de
+                           dislocation (solutio)<!-- grec -->"le décor (pegma) s’étant disloqué". Et
+                           Xiphilus dans Néron :<!-- grec -->« Voyant le navire se disloquer tout
+                           seul dans le théâtre. » C’est pourquoi Virgile dit qu’il désire voir
+                           comment cette machinerie se sépare, se disloque – comment elle part en
+                           tous sens (discedat). Il reste troisièmement à traiter des panneaux
+                           latéraux qu’on fait pivoter (uersis frontibus) : cette machinerie
+                           tournait en effet dans tous les sens. Ainsi Turnèbe a bien compris le
+                           fonctionnement de la machinerie qui comporte les périactes. Et
+                                 <bibl><author>Servius</author></bibl> dit à ce sujet : « la scena
+                           était mobile, quand, sous l’impulsion de certaines machines, elle
+                           tournait tout entière soudainement et montrait l’autre face du décor ».
+                           Sur ce point, Vitruve au livre V dit fort bien en effet que certains
+                           changements sur celle-ci se produisaient à l’arrivée inattendue des dieux
+                           ou bien lorsque, dans la pièce, un élément devait réapparaître. Lis-le.
+                           Maron indique que la rotation des panneaux survenait en même temps que
+                           leur séparation. Et le panneau ne tournait pas seulement d’un côté ou de
+                           l’autre de la scène mais surgissait également par-dessous ou
+                           disparaissaient dans le fond. <bibl><author>Sénèque</author></bibl> dans
+                           le passage cité : « On peut compter parmi eux ceux qui imaginent des
+                           décors qui surgissent d’eux-mêmes et des planchers qui montent
+                           silencieusement dans les airs ». Et <bibl><author>Martial</author></bibl>
+                           : « et s’élèvent au milieu de la voie de hauts tréteaux ». De là cette
+                           machine a été appelée<!-- grec -->. Donc, puisque je lis chez Virgile
+                           scena et discedat et uersis frontibus, pourquoi ne penserais-je pas qu’il
+                           faut comprendre qu’il parle du pegma (décor) romain, puisque l’ensemble
+                           de ces éléments conviennent au pegma ? En voilà assez, j’omets de
+                           nombreuses choses dont Virgile avait la connaissance quant à cette
+                           machinerie, parce qu’elles ne concernent pas mon objet. Assurément,
+                           Scaliger parle de cet objet de sorte qu’il pense qu’il y a plusieurs
+                           machines mais le passage de Maron doit être compris, je n’en doute pas,
+                           comme traitant d’une machine seulement. Je n’oublie pas que
+                           Valère-Maxime, livre I, chapitre 10, parle du « front d’un lit » (frons
+                           lecti) comme Virgile parle du « front d’une scène » (frontes scenae). A
+                           propos de toutes sortes d’édifices, de construction, de machineries, tu
+                           vois qu’on parle souvent de frontes. Mais pour un emploi de uersis de la
+                           même façon qu’ici, <bibl><author>Suétone</author></bibl> dit dans la Vie
+                           de Néron : « des salles à manger lambrissées par des tablettes d’ivoire
+                           rotatives (uersatilis) ». Il y a des gens pour comprendre les pegmata de
+                                 <bibl><author>Martial</author></bibl> autrement que je ne les ai
+                           expliqués.</seg>
+                        <seg type="nota" n="18" corresp="#LC-T1-G3-2-N-18-LA">
+                           <quote type="lemme">
+                              <choice>
+                                 <corr>Intexti</corr>
+                                 <sic>Iutexti</sic>
+                              </choice>
+                           </quote><bibl><author>Catulle</author></bibl>, dans son Epigramme à
+                           Thallus, a préféré le mot grec. En effet, il a parlé de catagraphos
+                           thynnos, c’est-à-dire des thons tissés et
+                           brodés<!-- vérifier texte et traduction> -->. Je parlerai au livre V de
+                           l’Enéide de la manière dont les figures humaines étaient peintes sur les
+                           tapis, les tentures, les
+                           vêtements.<!-- en marge : les dessins de profil (catagraphi) --></seg>
+                        <seg type="nota" n="19" corresp="#LC-T1-G3-2-N-19-LA">
+                           <quote type="lemme">Tollant aulaea Britanni</quote>J’ai suivi
+                           l'explication de <bibl><author>Servius</author></bibl> qui suit
+                           l'histoire d'Auguste qui, après avoir mis à genoux la Bretagne, destina
+                           les prisonniers à des fonctions au théâtre et entre autres pour lever les
+                           rideaux de théâtre sur lesquels eux-mêmes avaient été représentés grâce
+                           au travail d’artisans, Auguste voulant ainsi célébrer ses victoires.
+                           C'est pourquoi les prisonniers qui étaient tissés sur les rideaux de
+                           théâtre, soulevaient eux-mêmes ces rideaux. Mais il ne faut pas négliger
+                           la réflexion de Turnèbe qui donne une explication différente à partir du
+                           livre III des Métamorphoses
+                           d'<bibl><author>Ovide</author></bibl><!-- <bibl><author>Ovide</author></bibl>, Métamorphoses III, 111-114 -->.
+                           En effet, lorsqu’on lève le rideau de théâtre, dit-il, on a l'impression
+                           que la personne qui la soulève est celle qui y est tissée. Les vers
+                                 d'<bibl><author>Ovide</author></bibl> sont les suivants
+                              :<quote>Ainsi, les jours de fête quand on lève les rideaux dans les
+                              théâtres, on voit surgir des figures peintes, qui montrent d'abord
+                              leurs visages, puis peu à peu tout le reste, jusqu'à ce que, tirées
+                              des dessous par un mouvement lent et progressif, elles soient visibles
+                              tout entières et posent leurs pieds sur le bord de la
+                           scène.</quote>Mais que signifie « lever le rideau » (aulaeum tollere) et
+                           à quelle réalité le poète fait-il allusion ? Une fois la pièce terminée,
+                           on levait au théâtre les rideaux qui avaient servi à orner la scène.
+                                 <bibl><author>Horace</author></bibl> emploie le terme en ce sens
+                           dans les Epîtres II,
+                           1<!-- <bibl><author>Horace</author></bibl>, Epîtres, II, 1,
+                                    185 -->:
+                           « Pendant quatre heures ou plus les rideaux de théâtre demeurent baissés.
+                           » Et dans l'Epître aux
+                              Pisons<!-- <bibl><author>Horace</author></bibl>, Épître
+                                    aux Pisons, 155-156 -->:<quote>Si
+                              tu as besoin d’un acclamateur qui attend le rideau et est disposé à
+                              rester attaché à son siège jusqu'à ce que le cantor dise : « Vous,
+                              applaudissez. »</quote>Lorsqu'il y a l'expression « celui qui attend
+                           les rideaux », c’est comme s’il y avait « celui qui reste assis jusqu'à
+                           la toute fin de la pièce ». Cicéron dit dans le<title>Pro
+                              Caelio</title>:<quote>C'est un dénouement de mime, non de comédie :
+                              dans un mime, quand on ne trouve pas de conclusion, quelqu’un
+                              s'échappe des mains qui le retiennent, ensuite on fait retentir les
+                              claquettes, on lève le rideau.</quote>Ammien Marcellin sur cette
+                           pratique dit au livre XVI (Ammien Marcellin, Histoire de Rome, 6, 3)
+                              :<quote>On libéra de leurs entraves les personnes qui étaient
+                              garrotées comme complices, et Dorus disparut, et Verissimus se tut sur
+                              le champ, ainsi qu'au théâtre quand le rideau tombe. Je ne doute pas
+                              cependant que les rideaux de théâtre servaient non seulement un effet
+                              ornemental, mais aussi fonctionnel.</quote>Le même Ammien y fait
+                           allusion au livre XXVI : (Ammien Marcellin, Histoire romaine, XXVI, 6,
+                              15)<quote>Il se tenait là […] des pieds à la ceinture il était
+                              semblable à un petit page à l'école, avec ses chaussures de pourpre.
+                              Il portait une lance et son bras gauche était aussi drapé d'un lambeau
+                              d'étoffe pourpre, si bien qu'on aurait cru voir sur une scène de
+                              théâtre, une sorte de figure sortie soudain du décor du rideau ou d'un
+                              jeu de pantomime.</quote>Par ailleurs, ce que dit le Poète, « ils
+                           lèvent les rideaux de théâtre » (tollant aulaea),
+                                 <bibl><author>Plutarque</author></bibl> le dit dans Thémistocle.
+                           C’est ce qu’il y a dans la petite note de Germanus.</seg>
+                        <seg type="nota" n="20" corresp="#LC-T1-G3-2-N-20-LA">
+                           <quote type="lemme">In foribus</quote>Ornement identique dans l’Énéide 6
+                           : « Sur les portes, le trépas d'Androgée ».</seg>
+                        <seg type="nota" n="21" corresp="#LC-T1-G3-2-N-21-LA">
+                           <quote type="lemme">Solido</quote>Valère-Maxime, livre VIII, chapitre 16
+                           : « Il éleva une statue en or massif. »</seg>
+                        <seg type="nota" n="22" corresp="#LC-T1-G3-2-N-22-LA">
+                           <quote type="lemme">Gangaridum</quote>(en marge) Les Gangarides Ceux-ci
+                           n’avaient pas encore été soumis et il dit cela comme s’il souhaitait
+                           cette gloire à Auguste et qu’il augurait qu’ils seraient vaincus par lui.
+                           Diodore raconte au livre III chapitre 1 qu’Alexandre de Macédoine, après
+                           avoir vaincu les autres peuples d’Orient, n’avait pas atteint la terre
+                           des Gangarides : de fait après être parvenu au bord du Gange, alors qu’il
+                           avait soumis le reste des Indiens, lorsqu’il sut que ce peuple s’était
+                           préparé à la guerre avec quatre mille éléphants, il s’abstint de les
+                           attaquer. Le même écrivain avait dit précédemment que jamais un roi
+                           étranger n’avait commandé aux Gangarides, dont la force et le nombre des
+                           bêtes faisait peur aux peuples voisins.
+                              <bibl><author>Pline</author></bibl> écrit aussi au livre VI, chapitre
+                           19, qu’il y avait toujours sept cents éléphants montant la garde, prêts
+                           au combat pour le roi des Gangarides<note>elephanti DCC in procinctu
+                              bellorum excubant lit-on dans le passage de Pline l’Ancien.</note>.
+                           Même chose dans Solin, chapitre 65. Quinte-Curce, livre VIII, augmente
+                           leur nombre : c’est trois mille éléphants qu’il attribue au roi
+                              Agrammus<note>C’est le roi Aggrammès (Aggrammes).</note>. Maintenant,
+                           je vais tirer deux éléments pleins d’agrément en éclairant Virgile. Il
+                           préfère son cher Auguste à Alexandre et autres rois qui n’avaient jamais
+                           vaincu ces peuples. Ensuite, il est dit de manière tout sauf oiseuse que
+                           la construction sera à base d’éléphant : c’est, naturellement, parce que
+                           les bêtes qu’ils devaient vaincre donneraient quantité d’ivoire. Voilà ce
+                           qu’il m’a semblé être de ce passage. Mais je ne laisserai pas de côté la
+                           conjecture de Germanus, qui croit qu’il y a une allusion à l’œuvre de
+                           Phidias qui fabriqua une statue de Minerve de vingt-six coudées de haut.
+                           Or cette statue était faite d’ivoire et d’or<note>L’idée que La Cerda
+                              reprend à Germanus est que le poète, en train de décrire un temple qui
+                              combine l’or et l’ivoire, est à la hauteur d’un Phidias, connu pour
+                              ses œuvres
+                              chryséléphantines.<!-- vérifier chez Germanus que cette remarque porte sur ex elephanto --></note>.
+                           Et sur son bouclier, il avait ciselé le combat des Amazones, la lutte des
+                           dieux et des Géants. Quant à Turnèbe, il note que les peuples que le
+                           poète ici, Ptolémée au livre VII de la Géographie, et
+                                 <bibl><author>Valerius Flaccus</author></bibl> en Argonautiques V
+                           appellent « Gangarides », sont appelés « Gandarides » par Diodore de
+                           Sicile, livre III, de même que leur région est appelée « Gandaritis » par
+                           Strabon livre XV. En tout cas, j’ai trouvé que dans
+                                 <bibl><author>Pline</author></bibl>, livre VI, chapitre 19, on
+                           lisait tantôt « Gandarides », tantôt « Gangarides ».</seg>
+                        <seg type="nota" n="23" corresp="#LC-T1-G3-2-N-23-LA">
+                           <quote type="lemme">Quirini&gt;</quote>(en marge) Auguste appelé Romulus
+                           Il attribue à Auguste le nom de Romulus, ce qui est tiré de l’histoire,
+                           vu ce que Florus écrit à la fin : « On discuta aussi au Sénat pour savoir
+                           si parce qu’il avait fondé l’empire, on l’appellerait Romulus. » Et
+                                 <bibl><author>Suétone</author></bibl>, dans son Auguste, chapitre 7
+                           : « certains étaient d’avis qu’il fallait qu’il fût appelé Romulus étant
+                           lui aussi un fondateur pour la ville. » Dion écrit également au livre 53
+                           qu’Auguste avait sérieusement désiré se faire appeler Romulus, mais qu’il
+                           avait été détourné de ce projet par la seule crainte de sembler aspirer à
+                           la royauté. Cela me semble le plus conforme à la pensée du poète : il
+                           donne en effet à Auguste le nom qu’Auguste lui-même avait souhaité
+                           porter. Quant à ce que <bibl><author>Servius</author></bibl> écrit ici à
+                           partir de <bibl><author>Suétone</author></bibl>, cela a été exposé à des
+                           fins de calomnie<note>Servius (Commentaire sur les Géorgiques, ad Georg.
+                              III, 27) fait dire à Suétone qu’Auguste, pour ne vexer personne, se
+                              fit appeler successivement Quirinus, César, Auguste, les surnoms
+                              préférés respectivement par trois parties différentes du peuple romain
+                              : il y aurait alors une versatilité démagogique de la part du prince,
+                              alors que La Cerda souligne la volonté ferme de ce dernier (ipse).
+                              Dans le chapitre concerné de Suétone (Vie d’Auguste, 7), il est
+                              d’abord question du premier surnom d’Auguste : Thurinus. Il est
+                              ensuite question du surnom Romulus que certains auraient voulu voir
+                              porter par ce nouveau fondateur. Servius conclut sa note en affirmant
+                              que Quirinus ne peut désigner ici Romulus parce que ce dernier ne
+                              savait rien des Gangarides.</note>. De plus, on lit des choses
+                           semblables à propos de Camille qui, en tant que sauveur de la ville et
+                           second fondateur, avec le soutien des soldats, fut appelé Romulus.</seg>
+                        <seg type="nota" n="24" corresp="#LC-T1-G3-2-N-24-LA">
+                           <quote type="lemme">Magnumque fluentem Nilum</quote>(En marge : la
+                           grandeur du Nil) C’est-à-dire, au grand cours, au cours abondant. De ce
+                           fleuve, je parlerai ailleurs. Ici, j’aborderai seulement les (/ je ferai
+                           seulement référence aux) éloges qui sont faits sur sa grandeur, vu que
+                           c’est à elle que fait référence le Poète. Diodore, livre I, chapitre 3 :
+                           « le plus grand de tous les fleuves ». Agellius, chapitre 7 du livre X, «
+                           on s’accorde à dire que de tous les fleuves qui coulent dans les mers
+                           partout où l’empire romain s’étend, le plus grand est le Nil ». Strabon,
+                           au livre XV, mentionne quatre fleuves d’une grandeur considérable : le
+                           Gange, l’Indus, l’Ister, le Nil. Aristote, en Météorologiques II,
+                           chapitre 2 (356a28) : Ἴστρος καὶ ὁ Νεῖλος μέγιστοι τῶν ποταμῶν « l’Ister
+                           et le Nil, les plus grands de tous les fleuves ».
+                                 <bibl><author>Sénèque</author></bibl>, au chapitre 2 du livre IV
+                           des Questions naturelles : « le Nil plus grand que tous les autres ».
+                           C’est ce qui fait qu’on donne à ce fleuve le nom de mer. Grégoire de
+                           Nazianze, Discours XXIV, à propos du Nil : ποταμὸς πελαγίζων, « fleuve
+                           débordant à la manière de la mer ». Claudien dans l’épigramme sur le Nil
+                           : « tu sors de ton cours, toi qui es plus étendu que l’Égée, plus
+                           déchaîné que la mer Ionienne, au large ».
+                              <bibl><author>Sénèque</author></bibl>, dans le passage mentionné : «
+                           il s’étend comme une mer vaste et tumultueuse ». Et, chose étonnante, à
+                           propos de chacune des sept bouches par lesquelles il se jette dans la mer
+                           : « quelle que soit celle que tu choisis, c’est la mer ». Contribue
+                           encore à sa grandeur l’étendue des îles qu’il entoure, qu’il produit, ce
+                           qui tient assurément du prodige. A ce sujet, il faut voir Diodore,
+                           passage cité, <bibl><author>Pline</author></bibl>, chapitre 9 du livre V,
+                           Solin, chapitre 45. Peuvent encore se rapporter à ce même argument de la
+                           grandeur les mots pleins de majesté que les auteurs introduisent çà et
+                           là, quand ils parlent de ce fleuve.</seg>
+                        <seg type="nota" n="25" corresp="#LC-T1-G3-2-N-25-LA">
+                           <quote type="lemme">Nauali surgentes aere columnas</quote>Germanus pense
+                           qu’au livre VI de l’Énéide Virgile avait en tête le temple qu’Auguste fit
+                           élever sur le Palatin. C’est lui que
+                              <bibl><author>Properce</author></bibl> aussi a en tête au livre IV
+                                 (<bibl><author>Properce</author></bibl>, Élégies, IV, 1, 3-4) : «
+                           Là où se trouve le palais consacré au Phébus de la flotte, les bœufs
+                           fugitifs d’Evandre se sont couchés. » Il y invoque un dieu « de la flotte
+                           » (naualis), parce qu’Auguste, après avoir vaincu l’Egypte, dédia dans le
+                           temple des colonnes fabriquées après fusion du bronze des éperons, qui
+                           avait été prélevé sur les navires. Les mots de
+                                 <bibl><author>Servius</author></bibl> sur le présent passage ne
+                           sont pas très éloignés : « Auguste, vainqueur de l’Egypte, que César
+                           avait soumise en partie, fit emporter de nombreux éperons après le combat
+                           naval ; il les fit fondre et en fit faire quatre colonnes. » Note le
+                           verbe, surgere (« se dresser »), pour parler d’une construction. Ainsi
+                           Manilius au livre IV (675) : « les remparts du Taurus qui se dresse
+                           jusqu’au ciel » et dans l’Enéide I : « heureux vous dont les remparts se
+                           dressent déjà ».</seg>
+                        <seg type="nota" n="26" corresp="#LC-T1-G3-2-N-26-LA">
+                           <quote type="lemme">Addam urbes</quote>repris par Ausone dans l’Idylle
+                           IX.</seg>
+                        <seg type="nota" n="27" corresp="#LC-T1-G3-2-N-27-LA">
+                           <quote type="lemme">Pulsumque Niphatem</quote>(En marge : le Niphate)
+                           C’est, je crois, à l’exemple de Virgile, que Sidoine Apollinaire a fait
+                           mention du même mont dans Narbonne, pour illustrer les victoires de son
+                           prince : « Qui laissera de côté l’expédition contre les Perses, ou les
+                           campagnes victorieuses de l’empereur Carus, le Niphate franchi par les
+                           légions romaines ? » Sur cette montagne, regarde dans les dictionnaires -
+                           je n’ai rien à ajouter.</seg>
+                        <seg type="nota" n="28" corresp="#LC-T1-G3-2-N-28-LA">
+                           <quote type="lemme">Fidentemque fuga Parthum</quote>(En marge : les
+                           Parthes vaincus par Auguste Puis à hauteur de « est fere nemo… Tantum
+                           Ouidium ad ») En marge : la technique de combat des Parthes) Au sujet des
+                           exploits accomplis par César contre les Parthes, il faut regarder Dion
+                           Cassius, livre XV, <bibl><author>Suétone</author></bibl> dans la Vie
+                           d’Auguste, chapitre 2. Au sujet de la discipline militaire et de la
+                           technique de combat utilisée par les Parthes, il n’y a presque personne
+                           qui n’y ait fait référence parmi les prosateurs et les poètes. Je vais
+                           tous les passer. Je citerai seulement
+                           <bibl><author>Ovide</author></bibl>, parce qu’il parle avec César de sa
+                           victoire au sujet des Parthes. Il dit ainsi dans l’Ars I : « Je dirai les
+                           dos des Parthes et les poitrines romaines, les traits que cet ennemi
+                           lance depuis son cheval qui s’en va dans l’autre sens. Pourquoi fuis-tu
+                           pour vaincre ? pourquoi, Parthe, laisses-tu là ceux que tu as vaincus ?
+                           Parthe, désormais ton Mars n’a plus pour toi qu’un funeste présage. Il
+                           viendra donc, ce jour où toi, le plus beau de ce qui existe,
+                           resplendissant d’or tu iras sur quatre chevaux couleur de neige. Devant
+                           iront, le cou chargé de chaînes, les chefs de sorte qu’ils ne puissent
+                           plus, comme avant, trouver la sécurité dans la fuite. » (En marge :
+                           étymon du mot « Parthes ») Mais je ne laisserai pas de côté l’étymon des
+                           Parthes, parce que cela a à voir avec le sujet. Il faut écouter ces
+                           paroles de Roderic archevêque de Tolède, au livre I chapitre 11 de son
+                           Histoire de l’Espagne : « Au retour [Tannes roi des Scythes] soumit
+                           presque toute l’Asie ; un certain nombre de soldats de son armée
+                           victorieuse, voyant que les provinces soumises étaient riches parce que
+                           partout fertiles, quittèrent leurs régiments et demeurèrent en ces
+                           régions de l’Asie. C’est de ce peuple que descendait la famille des
+                           Parthes, d’après Trogue Pompée, et c’est de là qu’ils sont appelés
+                           Parthes en langue scythe, c’est-à-dire « fugitifs » ou « exilés ». » Le
+                           passage de Trogue Pompée qu’il a en tête est dans Justinien, livre XLI :
+                           « en scythe, les Parthes sont appelés ‘exilés’ ». Vont dans le même sens
+                           ces mots de Jordanès dans son livre sur la Guerre des Goths, qui, après
+                           avoir écrit des choses semblables à Roderic en suivant aussi Trogue,
+                           conclut ainsi : « De là vient qu’aujourd’hui encore, ils sont dits
+                           ‘fugitifs’ en langue scythe, ce que veut dire Parthi (Parthes) ». C’est
+                           pourquoi les Parthes ont une technique de combat qui est conforme à leur
+                           origine et à leur nom. Toutes les fois qu’on a à parler de cette
+                           technique de combat, on peut la rehausser des manières suivantes : «
+                           confiant dans la fuite », « les flèches lancées en arrière », d’après
+                           Virgile dans ce passage ; « impétueux sur son cheval retourné » d’après
+                                 <bibl><author>Horace</author></bibl> ; « rapide sur son cheval
+                           tourné en sens contraire » d’après <bibl><author>Ovide</author></bibl> ;
+                           « tirer d’un arc fugitif en se tournant » et « et frapper en arrière »
+                           d’après Claudien ; transpercer de traits lancés en se tournant la
+                           poitrine des poursuivants » d’après Boèce ; « combattre en feignant de
+                           fuir », d’après Justin et <bibl><author>Sénèque</author></bibl> le
+                           Tragique ; « poursuivre et fuir avec la même technique », d’après Tacite
+                           ; « combattre un peu artificieusement », « les chevaux tournés en sens
+                           inverse », d’après <bibl><author>Properce</author></bibl> ; et pour
+                           finir, d’après Virgile à nouveau : « diriger, de son arc retourné, des
+                           traits en fuite<note>Dans le passage de l’Énéide, il s’agit de
+                              Camille.<!-- (vérifier si des
+                                        rapprochements ont été faits avec les Parthes à propos de ce
+                                        vers). --></note>».</seg>
+                        <seg type="nota" n="29" corresp="#LC-T1-G3-2-N-29-LA">
+                           <quote type="lemme">Et duo rapta
+                                 manu</quote><bibl><author>Servius</author></bibl> veut que
+                              cela<note>Cette première remarque porte spécifiquement
+                                 sur<emph>duo</emph>.</note>soit dit à propos des Gangarides et des
+                           Bretons. La remarque de Germanus me conduit à un autre avis. Ce dernier
+                           remarque que<mentioned>manu</mentioned>n’a pas été ajouté inutilement. En
+                           effet le poète a indiqué les guerres menées non seulement sous les
+                           auspices de César, mais aussi en sa présence, αὐτοπροσώπου<note>Le terme
+                              grec a à peu près le même sens que l’expression latine employée
+                                 avant,<emph>ipso praesente</emph>
+                           </note>; de sorte que, tout en ayant le commandement, il a pris part au
+                           péril : c’est ainsi qu’il dit d’Ascagne :<quote>il abattit de sa main le
+                              courageux Numanus.</quote>C’est quand Julius<note>Julius désigne
+                              Ascagne.</note>non seulement assura le commandement dans une action
+                           guerrière, mais frappa lui–même le Rutule en tant que αὐτόχειρ et
+                           αὐτουργός (de sa propre main)<note>Les deux mots veulent dire « de sa
+                              propre main ».</note>. Cette remarque de Germanus, dis–je, me conduit
+                           à opter pour la guerre contre les Dalmates et les Cantabres. J’invoque
+                           aisément comme preuve <bibl><author>Suétone</author></bibl>, chapitre 20
+                           de la Vie d’Auguste :<quote>Quant aux guerres étrangères, il n'en fit que
+                              deux par lui-même : celle de Dalmatie, dans sa première jeunesse, et
+                              celle des Cantabres, après la défaite d'Antoine […]. Il laissa le soin
+                              des autres guerres cantabriques à ses lieutenants</quote>. Tu diras :
+                           il a aussi conduit lui–même les guerres civiles. Je l’avoue. Mais le
+                           poète, quand il dit<quote>diuerso ex hoste</quote>(des ennemis éloignés),
+                           semble exclure la guerre civile et parler d’une guerre extérieure, de
+                           sorte que l’ennemi fut "éloigné" (<mentioned>diuersus</mentioned>) et de
+                           lui et du Romain. Tu m’objecteras à nouveau : pendant la guerre contre
+                           les Cantabres, Auguste ne commanda pas, mais confia le commandement,
+                           selon Dion Cassius, à C. Antistius en raison d’une maladie dont il fut
+                           victime en Cantabrie même. Je réponds qu’il suffit pour confirmer la
+                           vérité du propos de <bibl><author>Suétone</author></bibl> qu’Auguste
+                           lui–même conduisit son armée d’Italie en Cantabrie, la commanda au début
+                           de cette même guerre et attaqua lui–même cet ennemi, ce que Dion lui-même
+                           écrit clairement. Mais il faut voir en premier lieu Orose (I, 6, 21) qui
+                           décrit abondamment l’action vigoureuse qu’Auguste a menée en personne
+                           dans cette guerre. L’avis que je suis est confirmé par la mention du
+                           trophée (<mentioned>tropaeum</mentioned>) que met en avant ici le poète.
+                           Dion écrit en effet au livre LIII (livre 53, 26) qu’un trophée fut élevé
+                           dans les Alpes, tandis qu’Auguste revenait de la guerre cantabrique. Sur
+                           ce trophée il faut lire aussi <bibl><author>Pline</author></bibl> III, 20
+                                 (<bibl><author>Pline</author></bibl>, Histoire naturelle, III,
+                           136).</seg>
+                        <seg type="nota" n="30" corresp="#LC-T1-G3-2-N-30-LA">
+                           <quote type="lemme">Bisque triumphatas</quote>Je ne rapporte pas
+                              cela<note>C'est-à-dire la mention des triomphes.</note>aux trophées
+                           cités plus haut: le poète introduit désormais une autre image.
+                           Assurément, il dit qu’il va peindre les triomphes que César a remportés
+                           une fois le monde entier pacifié, à savoir bien entendu l’Orient et
+                           l’Occident. Il n’est pas douteux en effet qu’ici, par l’expression de
+                           l’un et l’autre rivage (<mentioned>utrumque litus</mentioned>), ce sont
+                           ces deux parties du monde auxquelles il pense; c’est une expression très
+                           connue des poètes qui désignent ainsi l’Orient et l’Occident. Ainsi
+                                 <bibl><author>Ovide</author></bibl>, Métamorphoses I:<quote>elle
+                              [la trompe] remplit de sa voix les rivages que Phébus éclaire de
+                              l’Orient à l’Occident (<quote>sub utroque Phoebo</quote>)</quote>.
+                           Claudien dans la Guerre contre Gildon (48) : j’ai couru victorieuse de
+                           l’Orient à l’Occident (ad solem utrumque) ; c’est Rome qui parle. Là où
+                           ces auteurs emploient utrumque litus, uterque Phoebus, uterque sol,
+                           d’autres emploient domus utraque<note>Littéralement, ces expressions
+                              signifient "l'un et l'autre rivage", "l'un et l'autre Phébus", "l'un
+                              et l'autre soleil", "l'une et l'autre demeure".</note>. Par exemple,
+                                 <bibl><author>Ovide</author></bibl> dans l’épître de Déjanire, « tu
+                           as rempli de tes bienfaits l’Orient et l’Occident » ;
+                                 <bibl><author>Sénèque</author></bibl>, dans Hercule sur l’Oeta (2)
+                           : « L’Orient et l’Occident ressentent la foudre ». Et dans Hercule
+                           Furieux (1060) : « Brûlant Titan, Alcide a autant vu, avec toi, tes
+                           couchers que tes levers, il connaît l’Orient et l’Occident où tu demeures
+                           ». Et encore : Fanensis rappelle qu’<bibl><author>Ovide</author></bibl> a
+                           désigné les mêmes zones avec<mentioned>fores caeli</mentioned>, dans ce
+                           vers du livre I des Fastes (125) : « Je veille sur les portes du ciel
+                           avec les douces Heures ». <bibl><author>Properce</author></bibl> a suivi
+                           de près le vers entier de Virgile :<quote>Je raconterai les chars
+                              triomphants de l’Orient et de l’Occident, les traits lancés en arrière
+                              lors de la fuite rusée des Parthes</quote>
+                           <note>L’imitation de Properce excède le vers 33 : c’est la combinaison
+                              des motifs que Properce a sans doute reprise à Virgile (les Parthes et
+                              leur fameuse technique de combat, les triomphes en Orient et en
+                              Occident)<!-- approfondir --></note>.</seg>
+                        <seg type="nota" n="31" corresp="#LC-T1-G3-2-N-31-LA">
+                           <quote type="lemme"
+                              >Triumphatas</quote><bibl><author>Horace</author></bibl> utilise une
+                           formulation analogue dans l’ode III, 3<quote>triumphatis
+                           Medis</quote>(les Mèdes vaincus) ; <bibl><author>Ovide</author></bibl>,
+                           dans l’élégie 2 du livre II des Pontiques :<quote>triumphatos
+                              Paeones</quote>(les Péoniens vaincus) ;
+                              <bibl><author>Stace</author></bibl>, Thébaïde VII :<quote>triumphatos
+                              Indos</quote>(les Indiens vaincus), Justinien, livre II
+                              :<quote>triumphatis Spartanis</quote>(les Spartes vaincus). Vopiscus
+                           dans la Vie d’Aurélien, à propos de Zénobie :<quote>uicta et
+                              triumphata</quote>(défaite et vaincue). Claudien, Sur le quatrième
+                           consulat d’Honorius :<quote>triumphati Parthi</quote>(les Parthes
+                           vaincus) et<title>Sur le sixième consulat
+                              d’Honorius</title>,<quote>triumphati Istri</quote>(l’Ister
+                           vaincu).</seg>
+                        <seg type="nota" n="32" corresp="#LC-T1-G3-2-N-32-LA">
+                           <quote type="lemme">Parii lapides</quote>De l’île de Paros, d’où est
+                           extrait un marbre précieux, je parlerai ailleurs.</seg>
+                        <seg type="nota" n="33" corresp="#LC-T1-G3-2-N-33-LA">
+                           <quote type="lemme">Spirantia signa</quote>Ainsi en VI:<quote>ils
+                              tireront du marbre des visages vivants.</quote>
+                        </seg>
+                        <seg type="nota" n="34" corresp="#LC-T1-G3-2-N-34-LA">
+                           <quote type="lemme">Assaraci proles</quote>
+                           <!-- En marge: Assaracus -->Il en fait mention car c’est à partir de
+                              lui<note>Il s’agit donc d’Assaracus.</note>que la famille d’Anchise,
+                           dont est issu Auguste, se sépare de celle de Priam. Tros en effet fut le
+                           père d’Ilus et d’Assaracus. Ilus eut comme fils Laomédon, et ce dernier,
+                           Priam ; et Assaracus eut comme fils Capys et ce dernier, Anchise. Il
+                           désigne ainsi les Troyens par Assaracus, comme dans l'Énéide
+                              I<quote>maison d’Assaracus</quote>. Et
+                              <bibl><author>Horace</author></bibl> dans l’épode 13<quote>terre
+                              d’Assaracus</quote>. Il ne fait pas de doute que ces mots sont
+                           prononcés pour flatter Auguste.</seg>
+                        <seg type="nota" n="35" corresp="#LC-T1-G3-2-N-35-LA">
+                           <quote type="lemme">Troiae Cynthius auctor</quote>Cette formule peut être
+                           comprise de trois manières en raison de la variété des fables sur le
+                           sujet. Phébus fonda Troie, soit parce qu’il manipula réellement lui–même
+                           les mortiers, les pierres et la construction. C’est ce qu’indiquent
+                           certains ainsi qu’<bibl><author>Ovide</author></bibl> dans la lettre
+                           d’Oenone à Pâris :<quote>Celui qui fortifia Troie, illustre par sa lyre,
+                              m’aima.</quote>Soit parce qu’il conduisit les pierres au son de sa
+                           lyre, comme chez <bibl><author>Ovide</author></bibl> dans les
+                              Héroïdes:<quote>Tu verras Ilion et ses remparts que flanquent de
+                              superbes tours, et qu'éleva la lyre harmonieuse de Phébus.</quote>Soit
+                           parce que, averti par son oracle, Ilus fonda Ilion, ce que l’on trouve
+                           chez l’interprète de Lycophron<note>Il s’agit sans doute de
+                              Tzetzès.<!-- vérifier --></note>et que rappelle Alciat dans les
+                           Parerga VI, chapitre 6 en le confirmant par un passage de
+                                 <bibl><author>Stace</author></bibl>. Lis-le. Germanus est du même
+                           avis ainsi que Parrhasius dans son commentaire de Claudien livre II. Cela
+                           est en accord avec des propos de Cicéron chez
+                              qui<mentioned>auctor</mentioned>est souvent employé pour un «
+                           conseiller » (<mentioned>suasor</mentioned>).</seg>
+                        <seg type="nota" n="36" corresp="#LC-T1-G3-2-N-36-LA">
+                           <quote type="lemme">Inuidia</quote>Même si l’envie méprise les très
+                           petites choses et se dresse contre les grandes, il est vrai néanmoins
+                           qu’elle est écrasée par les grandes, lorsque celles–ci dépassent la
+                           mesure. Ainsi par cela même, en disant que l’envie ne peut rien
+                           entreprendre contre César, Virgile indique que ses exploits l’emportent
+                           par leur grandeur insigne. Et c’est ainsi que tu peux tirer de ce passage
+                           cette formulation de l’adage : plus grand que toute jalousie, pour
+                           marquer une félicité extraordinaire. Correspondent au sujet ces mots de
+                           Justin livre I au sujet de Sémiramis : elle s’était d’abord cachée sous
+                           un habit d’homme : elle accomplit ensuite de grandes choses : quand elle
+                           pense avoir triomphé de la jalousie en raison de leur ampleur, elle avoue
+                           qui elle est. Et <bibl><author>Horace</author></bibl> à la fin des Odes
+                              :<quote>plus grand que l’envie, je laisserai les
+                                 villes.</quote><bibl><author>Grégoire de Nazianze</author></bibl>
+                           aussi, Discours 24 : τῷ ζήλῳ τὸν φθόνον νικήσαντες, triomphant de l’envie
+                           par le zèle. Synesius, Epîtres I, 31 (Synésius, Epîtres, I, 31 (79 ?) sur
+                           le remarquable Pylémène : οὗτος ἑαυτὸν παρέσχε καὶ φθόνου κρείττω: il
+                           s’est montré plus grand que l’envie. Démosthène, Troisième Olynthienne,
+                           parlant des Athéniens : μόνοι δὲ ἀνθρώπων κρείττω τὴν ἐπὶ τοῖς ἔργοις
+                           δόξαν τῶν φθονούντων κατέλιπον, à eux seuls leurs exploits ont assuré une
+                           gloire qui a déjoué l'envie. <bibl><author>Callimaque</author></bibl>
+                           Épigrammes, 3 :<quote>
+                              <foreign xml:lang="grc">ἤεισεν κρείσσονα βασκανίης</foreign>
+                           </quote>,<quote type="translation">il a chanté des poèmes plus grands que
+                              l’envie.</quote>La phrase que j’ai développée ici pourrait illustrer
+                           l’adage de Junius, dans sa deuxième Centurie :<quote>le soleil n’envie
+                              pas le soir.</quote>En outre, la fiction du poète sur la crainte
+                           éprouvée par l’Envie est semblable à celle que l’on trouve dans l’Énéide
+                           I à propos de la Fureur enchaînée.</seg>
+                        <seg type="nota" n="37" corresp="#LC-T1-G3-2-N-37-LA">
+                           <quote type="lemme">Seuerum</quote>Est-ce "non navigable", "difficile à
+                           franchir", "cruel", "intraitable", comme l’expliquent à propos de Lucrèce
+                           Lambin et Gisanius ? Ou "sombre", comme le veut
+                                 <bibl><author>Servius</author></bibl> ? Je choisis le premier sens.
+                           Mais l’épithète même est tirée de Lucrèce<note>L’idée pourrait être que
+                              Virgile a aussi repris à Lucrèce l’emploi de seuerus en relation à un
+                              mot (comme « épithète » d’un mot) désignant une étendue liquide,
+                              fleuve ou
+                              mer.<!-- Il faut trouver les commentaires de Lambin et de Gisanius. --></note>,
+                           qui écrit au livre V :<quote>près des rivages d’Atlas et des cruautés de
+                              l’Océan.</quote>
+                        </seg>
+                        <seg type="nota" n="38" corresp="#LC-T1-G3-2-N-38-LA">
+                           <quote type="lemme">Ixionis</quote>Son forfait impudique se trouve
+                           partout, à la suite duquel il fut enchaîné à une roue inflexible aux
+                           enfers, sur laquelle il tournait ; furent ajoutés (comme le signale ici
+                           le poète) des serpents pour aggraver le supplice, de sorte qu’il fût
+                           lacéré non seulement par la torture de la roue mais aussi par la morsure
+                           des serpents. L’expression<quote>tortos angues</quote>(serpents enroulés)
+                           vient de <bibl><author>Varron</author></bibl> d’Atax, qui écrit
+                           :<quote>Cuius ut aspexit<choice><corr>torta</corr><sic>torto</sic></choice> caput angue
+                              reuinctum</quote>(quand il vit sa tête ceinte d’un serpent
+                           enroulé).</seg>
+                     </p>
+                  </div>
+               </div>
+               <div type="chapter" n="3">
+                  <div type="argumentum" n="3" corresp="#LC-T1-G3-3-A-LA">
+                     <p>Il rend Mécène docile, attentif, bienveillant. Il promet la divine
+                        Énéide.</p>
+                  </div>
+                  <div type="commentary" n="1">
+                     <p>
+                        <seg type="explicatio" n="a" corresp="#LC-T1-G3-3-E-a-LA">Il rend Mécène
+                           docile, attentif, bienveillant. Docile, parce qu’il va parler des forêts
+                           des dryades (les forêts leur sont consacrées) et des pâturages dans
+                           lesquelles se nourrissent les troupeaux. Attentif, parce qu’il dit<quote>
+                              <foreign xml:lang="lat">intactos</foreign>
+                           </quote>(inviolées) : il sera, en effet, attentif celui qui aura entendu
+                           qu’il est question d’un sujet nouveau et jamais traité jusqu’à présent.
+                           Bienveillant, parce qu’il ajoute que les ordres de Mécène ne sont pas
+                           légers, mais d’un grand poids et que sans lui rien de grand ne peut être
+                           entrepris.</seg>
+                        <seg type="explicatio" n="b" corresp="#LC-T1-G3-3-E-b-LA">Le poète imagine
+                           de manière très charmante que la foule des choses dont il va parler le
+                           pressent désormais et qu’il ne peut passer son temps en de longs exordes
+                           pour chercher à gagner la bienveillance, étant donné qu’à ses oreilles
+                           retentissent déjà le mont Cithéron, les chiens du Taygète, la ville
+                           d’Épidaure et les bois résonnant du mugissement des bœufs. Chacun de ses
+                           lieux possède une qualité remarquable, qu’ils incarnent par excellence (<mentioned>
+                              <foreign xml:lang="grc">κατ΄ ἐξοχὴν</foreign>
+                           </mentioned>– et c’est pour cela que le poète les a choisis. En effet, le
+                           Mont Cithéron en Béotie est riche en pâturages, les chiens de Laconie (il
+                           désigne cette région au moyen du mont Taygète qui est de cette province)
+                           sont réputés, la ville d’Épidaure en Illyrie est connue pour ses
+                           chevaux.</seg>
+                        <seg type="explicatio" n="c" corresp="#LC-T1-G3-3-E-c-LA">Il promet qu’une
+                           fois les<bibl>
+                              <title>Géorgiques</title>
+                           </bibl>achevées, il chantera les combats de César et fera en sorte que
+                           son nom subsiste autant de siècles que ceux qui séparent César de
+                           Tithon.</seg>
+                        <seg type="nota" n="1" corresp="#LC-T1-G3-3-N-1-LA">C’est ce que
+                                 <bibl><author>Stace</author></bibl>, Silves I a voulu dire
+                              par<quote>lyre nouvelle</quote>. Et Claudien à propos de l’éloge
+                           d’Hercule :<quote>nouvel arrivé j’aborde la foule, c'est-à-dire la foule
+                              des poètes.</quote>Ce qu’a dit Philon,<bibl>
+                              <title>Des lois spéciales</title>
+                           </bibl>:<quote>inconnues du grand nombre.</quote>Ce qu’a dit
+                                 <bibl><author>Lucain</author></bibl> livre X: jusqu'à ce jour
+                           inconnus des profanes mortels. Ce qu’a dit Dion Chrysosthome, Discours 1
+                              :<quote>chemin secret que les hommes n’ont pas foulé.</quote>Et
+                                 <bibl><author>Nonnos</author></bibl><!-- plutôt que Nonnius -->,
+                           livre 18 :<quote>chemin inaccessible.</quote>Ce qu’a dit Platon dans le
+                           Timée :<quote>
+                              <foreign xml:lang="grc">κατὰ τὰ πρόσθεν ἑπόμενος</foreign>
+                           </quote>
+                           <note>"si l'on suit ce qui a été dit
+                              auparavant"<!-- vérifier bien le contexte --></note>. Ajoute toi–même
+                           la négation (<mentioned>
+                              <foreign xml:lang="grc">οὺ</foreign>
+                           </mentioned>), pour que cela aille avec ce qui
+                           t'occupe<!-- j'ai revu la traduction, j'ai l'impression que LC rectifie le tir après avoir donné une citation qui n'ilustrait pas bien son propos. Son disciple doit ajouter la négation, de sorte que cela veuille dire "si l'on ne suit pas ce qui a été dit auparavant" -->.
+                           Ce que le même Platon a dit dans les Lois 10 :<quote type="foreign"
+                              xml:lang="grc">λέγοιμ´ἄν οὐκ εἰωθότα λόγον</quote>
+                           <quote type="translation">contraire à l’habitude</quote>
+                           <note>La Cerda ne traduit qu'une partie de la citation - qui est déjà
+                              tronquée - et omet:<mentioned>j'avancerais un argument</mentioned>
+                           </note>. Ce qu’Isocrate a dit dans le Panégyrique :<quote>
+                              <foreign xml:lang="grc">καινῶς διεξελθεῖν</foreign>
+                           </quote>et<quote>
+                              <foreign xml:lang="grc">εἰπεῖν ὡς οὐδείς</foreign>
+                           </quote>
+                           <quote type="translation">dire de manière nouvelle (des sujets
+                              anciens)</quote>et<quote type="translation">comme personne jusqu’à
+                              présent.</quote>Ce qu’<bibl><author>Oppien</author></bibl> en
+                           Cynégétiques 1, avec le chemin que personne<cit>
+                              <quote>
+                                 <foreign xml:lang="grc">ἐπάτησεν ἀοιδαῖς</foreign>
+                              </quote>
+                              <quote type="translation">n’a foulé de ses chants.</quote>
+                           </cit>Ce que Lucrèce a dit:<quote type="translation">qu’aucun autre pied
+                              n’a foulé auparavant.</quote>Ce qu’a dit <bibl><author>Grégoire de
+                                 Nazianze</author></bibl> dans le Discours 26: ὁδὸν ἀτριβῆ,
+                           ἀπρόσιτον, μὴ τετριμμένην, chemin non foulé, inaccessible, non rebattu.
+                           Et dans le Discours 34 : εἴπω τί παράδοξον, que je dise quelque chose
+                           d’extraordinaire. Ce qu’a dit Manilius au livre I [91] :<quote>et je ne
+                              chanterai pas des choses connues</quote>; de même:<quote>Que ce
+                              travail surgisse pour moi, travail que personne avant moi n'a consacré
+                              par des chants.</quote>Et au début :<quote>Portant les offrandes
+                              sacrées que personne avant moi n’a évoquées.</quote>Manilius toujours
+                           au livre 2 exprime la même idée – il aborde un sujet dont aucun écrivain
+                           ne s’est emparé - de nombreuses manières et avec des nombreuses
+                           métaphores. Par exemple: des<mentioned>prairies intactes</mentioned>,
+                              la<mentioned>source dans les antres secrets de
+                              l’Hélicon</mentioned>,<mentioned>ce que je dirai n’est pas un larcin
+                              mais une oeuvre</mentioned>,<mentioned>nous repoussons les flots de
+                              notre embarcation propre</mentioned>,<mentioned>je dirai des choses
+                              que Phébus n’a jamais goûtées</mentioned>. J’ai laissé de côté des
+                           vers<!-- ou est-ce qu'il veut dire qu'il n'a pas cherché à citer exactement ces vers? > J'ai laissé de côté / je n'ai pas respecté les vers parce que... -->,
+                           parce qu’ils sont trop nombreux : je pense avoir assez donné
+                           d’expressions au profit des jeunes gens. Au même endroit :<quote>nous
+                              volons vers le ciel sur un char qui n'est qu'à nous</quote>, comme
+                           s’il disait<quote type="paraphrase">qui n’est pas à un autre</quote>(<mentioned>
+                              <foreign xml:lang="lat"/>non alieno</mentioned>). Et
+                              encore:<quote>Mais seul, comme transporté sur un circuit vide, je
+                              mènerai du fouet mon char sans que d’autres me fassent obstacle et ne
+                              mettent le cap avec moi sur une route commune.</quote>Dans le livre
+                           III aussi, il se glorifie de s’emparer d’un sujet nouveau avec les tours
+                           suivants :<mentioned>je prends un nouvel essor
+                              hauteurs</mentioned>,<mentioned>j’ose au-delà de mes
+                              forces</mentioned>,<mentioned>je m'engage dans des chemins que
+                              personne n'a empruntés</mentioned>. A partir de
+                                 <bibl><author>Stace</author></bibl> dans l’Achilléide I, on peut
+                           exprimer l'idée ainsi :<quote>c’est la première fois que les blanches
+                              bandelettes ornent ma chevelure</quote>. Vois donc le nombre de tours
+                           par lesquels on peut exprimer la même idée. Mais de ces lieux, j’ai déjà
+                           parlé plus haut et reparlerai plus loin.</seg>
+                        <seg type="nota" n="2" corresp="#LC-T1-G3-3-N-2-LA">
+                           <quote type="lemme">Haud mollia iussa</quote>
+                           <!-- en marge: ce que sont des iussa mollia -->Dans son commentaire au
+                           second livre de la Rhétorique d’Aristote, Pietro
+                           Vettori<!-- ou Petrus Victorinus -->explique ainsi cette expression
+                              :<quote>qui ne peuvent être négligés ou considérés comme des
+                              injonctions molles et sans force, mais doivent être tenus pour
+                              énergiques.</quote>Mais il dit que le poète a parlé ainsi pour adoucir
+                           la force de l’expression, visiblement pour éviter de
+                              dire<mentioned>durs</mentioned>(<mentioned>
+                              <foreign xml:lang="lat">ardua</foreign>
+                           </mentioned>),<mentioned>vifs</mentioned>(<mentioned>
+                              <foreign xml:lang="lat">acria</foreign>
+                           </mentioned>), ou quelque chose d’équivalent. De même, Cicéron, dans le<bibl>
+                              <title>De oratore</title>
+                           </bibl>II, a parlé, dans le but d’adoucir la dureté d’un propos, de
+                              la<quote>remontrance, qui est comme un reproche plus léger</quote>.
+                           Ainsi Aristote parle-t-il de<!-- vérifier à quel point c'est une citation --><quote>
+                              <foreign xml:lang="grc">σεμνότης μαλακὴ</foreign>
+                           </quote>,<quote type="translation">dignité douce</quote>et de βαρύτης
+                           εὐχήμων, « gravité sans hauteur » . Ajoute à cela <bibl><author>Grégoire
+                                 de Nazianze</author></bibl> qui parle dans son
+                           homélie<!-- Discours en italiques? -->22
+                           d’un<!-- voir si c'est une citation véritable -->πρόσταγμα τὸ χρηστὸν, un
+                           « ordre suave ».</seg>
+                        <seg type="nota" n="3" corresp="#LC-T1-G3-3-N-3-LA">
+                           <quote type="lemme">Cythaeron</quote>J’ai dit que ce mont se trouvait en
+                           Béotie. Pomponius Méla livre II, chapitre 3 :<quote>En Béotie se trouvent
+                              Thèbes et le Cithéron, si réputé par les fables et les œuvres des
+                              poètes.</quote>De même, <bibl><author>Pline</author></bibl>, livre IV,
+                           chapitre 7, Solon, chapitre 12, d’autres encore.</seg>
+                        <seg type="nota" n="4" corresp="#LC-T1-G3-3-N-4-LA">
+                           <quote type="lemme">Taygetique canes</quote>] Je parlerai plus loin dans
+                           ce livre de ces chiens qui sont particulièrement réputés.</seg>
+                        <seg type="nota" n="5" corresp="#LC-T1-G3-3-N-5-LA">
+                           <quote type="lemme">Epidaurus</quote>les chevaux de cette ville sont
+                           appréciés. Strabon, livre VIII :<cit>
+                              <quote>
+                                 <foreign xml:lang="grc">ἐστὶ δὲ καὶ τὸ γένος τῶν ἵππων κράτιστον τὸ
+                                    ἀρκαδικον, καθάπερ καὶ τὸ ἀργολικὸν καὶ τὸ ἐπίδαύριον</foreign>
+                              </quote>
+                              <quote type="translation">la meilleure race de chevaux est celle que
+                                 l’on trouve en Arcadie, comme celle que l’on trouve en Argolide et
+                                 à Epidaure.</quote>
+                           </cit><bibl><author>Servius</author></bibl> fait de cette ville une ville
+                           d’Epire. Il est critiqué par Béroald, car
+                              <bibl><author>Pline</author></bibl> et Strabon la placent dans le
+                           Péloponnèse. J’ajoute pour ma part Solin et Pomponius Méla. Mais
+                                 <bibl><author>Servius</author></bibl> ne se trompe pas pour autant
+                           car il existe aussi une autre ville du nom d’Epidaure en Epire ou en
+                           Illyrie. <bibl><author>Lucain</author></bibl>, livre II
+                              :<quote>L’illyrienne Epidaure penchée sur les flots ioniens.</quote>Et
+                           il faut bien comprendre, ainsi qu’il apparaît, que le poète parle de
+                           cette ville-là, car il dit lui-même :<quote>qu’il prétende que sa patrie
+                              est l’Epire.</quote>Et :<quote>l’Epire [envoie] les cavales qui
+                              remportent la palme en Elide.</quote>
+                        </seg>
+                        <seg type="nota" n="6" corresp="#LC-T1-G3-3-N-6-LA">
+                           <quote type="lemme">Et uox assensu</quote>En un autre tour il dit, dans
+                           l’Enéide VIII :<quote>Les bœufs de mugir et d’emplir de leurs plaintes le
+                              bois tout entier.</quote>
+                        </seg>
+                        <seg type="nota" n="7" corresp="#LC-T1-G3-3-N-7-LA">
+                           <quote type="lemme">Mox tamen</quote>A partir de ce passage,
+                                 <bibl><author>Stace</author></bibl>,<bibl>
+                              <title>Thébaïde</title>
+                           </bibl>I, s’adressant à son Prince :<quote>Viendra un temps où je
+                              chanterai tes hauts faits avec une inspiration porteuse de lauriers;
+                              aujourd’hui j’accorde ma lyre : c’est assez de narrer les combats
+                              d’Aonie.</quote>
+                        </seg>
+                        <seg type="nota" n="8" corresp="#LC-T1-G3-3-N-8-LA">
+                           <quote type="lemme"
+                              >Ardentes-pugnat<!-- on a ici la preuve que le tiret qui traîne parfois dans les citations est l'équivalent de nos [...]. Que fait-on ici? --></quote>C’est
+                           ainsi que d’autres parlent de glaives ou
+                              d’épées<mentioned>ardents</mentioned>(<mentioned>
+                              <foreign xml:lang="lat"/>ardentes</mentioned>), de soldat ou
+                              d’ennemi<mentioned>ardent</mentioned>(<mentioned>
+                              <foreign xml:lang="lat"/>ardens</mentioned>),
+                              d’<mentioned>ardeur</mentioned>(<mentioned>
+                              <foreign xml:lang="lat"/>ardor</mentioned>) du courage, de la
+                           bataille.</seg>
+                        <seg type="nota" n="9" corresp="#LC-T1-G3-3-N-9-LA">
+                           <quote type="lemme">Accingar dicere</quote>Tournure grecque.</seg>
+                        <seg type="nota" n="10" corresp="#LC-T1-G3-3-N-10-LA">Tithoni<quote
+                              type="lemme"/>Pourquoi choisit-il ce personnage plutôt que d’autres
+                           afin de signifier une époque bien antérieure à César ?
+                                 <bibl><author>Servius</author></bibl> dit que le nom de Tithon est
+                           mis pour Titan, c’est-à-dire le Soleil. Je n’en crois rien. Ni lui-même
+                           ni aucun autre témoignage ne confirment cette opinion. A moins qu’on
+                           n’aille penser que le passage suivant d’Eustathe milite en faveur de
+                                 <bibl><author>Servius</author></bibl> : dans un commentaire
+                           allégorique, il dit que Tithon désigne le Soleil<cit>
+                              <quote>
+                                 <foreign xml:lang="grc">διὰ τὸ πανταχοῦ τῆς γῆς τιταίνειν τὰς
+                                    ἀκτῖνας</foreign>
+                              </quote>
+                              <quote type="translation">parce qu’il répand ses rayons sur toutes les
+                                 parties de la terre</quote>
+                           </cit>. Germanus renvoie à l’origine de la famille des Iulii. En effet ce
+                           personnage était phrygien, et l’un des descendants de Dardanus, dont les
+                           Iulii tiraient leur origine, Enée se trouvant au milieu de la lignée ; et
+                           bien que tous les descendants de Dardanus eussent pu être choisis pour
+                           signifier la même chose, c’est celui-là qui a été choisi par excellence (<mentioned>
+                              <foreign xml:lang="grc">κατ΄ἐξοχὴν</foreign>
+                           </mentioned>). Par rapport à celle de
+                              <bibl><author>Servius</author></bibl>, cette dernière explication est
+                           satisfaisante, pas entièrement cependant : Tithon, qui était le frère ou
+                           de Laomédon (ce qui semble plus véridique) ou de Priam, est entièrement
+                           étranger aux aïeux d’Auguste. Selon moi, ce personnage a été préféré à
+                           cause de sa vie qui s’est très longtemps prolongée, en d’autres termes, à
+                           cause de son immortalité. D’après les fables, ces dons furent obtenus des
+                           Parques en sa faveur, à la prière d’Aurore. Mais comme, en dépit de son
+                           immortalité, il souffrait de sa longue vieillesse, il fut transformé,
+                           sans connaître la mort, en cigale, un animal qui se rapproche d’un être
+                           immortel. C’est peut-être en raison de cette série de fables (auxquelles
+                           notre poète s’arrête parfois), que Tithon a été fort judicieusement
+                           choisi, dans le but de faire augurer de la très longue existence de César
+                           Auguste, de sa mémoire, qui certes est immortelle, et de son renom qui ne
+                           périra jamais.</seg>
+                     </p>
+                  </div>
+               </div>
+               <div type="chapter" n="4"/>
+               <div type="chapter" n="5"/>
+               <div type="chapter" n="6"/>
+               <div type="chapter" n="7"/>
+               <div type="chapter" n="8"/>
+               <div type="chapter" n="9"/>
+               <div type="chapter" n="10"/>
+               <div type="chapter" n="11"/>
+               <div type="chapter" n="12"/>
+               <div type="chapter" n="13"/>
+               <div type="chapter" n="14"/>
+               <div type="chapter" n="15"/>
+               <div type="chapter" n="16"/>
+               <div type="chapter" n="17"/>
+               <div type="chapter" n="18"/>
+               <div type="chapter" n="19"/>
+               <div type="chapter" n="20"/>
+               <div type="chapter" n="21"/>
+               <div type="chapter" n="22"/>
+               <div type="chapter" n="23"/>
+               <div type="chapter" n="24"/>
+               <div type="chapter" n="25"/>
+               <div type="chapter" n="26"/>
+               <div type="chapter" n="27"/>
+               <div type="chapter" n="28"/>
+               <div type="chapter" n="29"/>
+               <div type="chapter" n="30"/>
+               <div type="chapter" n="31"/>
+            </div>
+        
+      </body>
+   </text>
+</TEI>
